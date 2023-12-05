@@ -1,7 +1,7 @@
 const
     {describe, test}              = require('mocha'),
     expect                        = require('expect'),
-    {Document, Header, Paragraph} = require('../src/model.js');
+    {Document, Header, Paragraph} = require('./model.js');
 
 describe('fua.module.markdown.model', function () {
 
