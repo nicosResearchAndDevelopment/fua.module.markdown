@@ -8,7 +8,9 @@
   ],
   "dependencies": {
     "@nrd/fua.core.assert": "^1.0.0",
-    "@nrd/fua.core.is": "^1.0.4"
+    "@nrd/fua.core.is": "^1.0.4",
+    "markdown-it": "^13.0.2",
+    "highlight.js": "^11.9.0"
   },
   "devDependencies": {
     "expect": "26.x",
