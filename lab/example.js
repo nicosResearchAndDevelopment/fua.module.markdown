@@ -26,7 +26,8 @@ const
     tokens     = md.parse(input, env),
     output     = md.renderer.render(tokens, md.options, env),
     zeroTokens = mdZero.parse(input, env),
-    zero       = mdZero.renderer.render(zeroTokens, mdZero.options, env);
+    zero       = mdZero.renderer.render(zeroTokens, mdZero.options, env),
+    zero2      = MarkdownIt('zero').renderInline(input);
 
-console.log({tokens, zeroTokens});
-console.table({input, output, zero});
+// console.log({tokens, zeroTokens});
+console.table({input, output, zero, zero2});

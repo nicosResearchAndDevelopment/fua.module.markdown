@@ -9,7 +9,8 @@ const
 describe('fua.module.markdown', function () {
 
     test('develop', async function () {
-        console.log(markdown);
+        // const cheatSheet = await fs.readFile(path.join(__dirname, 'markdownguide/cheat-sheet.md'), 'utf8');
+        // console.log(cheatSheet);
     });
 
     describe('browse', function () {
@@ -44,7 +45,7 @@ describe('fua.module.markdown', function () {
             await serve({
                 path:  '/cheat-sheet',
                 type:  'html',
-                value: markdown.render(await load('markdownguide/cheat-sheet.md'))
+                value: markdown.parser.render(await load('markdownguide/cheat-sheet.md'))
             });
         });
 
