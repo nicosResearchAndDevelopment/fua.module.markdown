@@ -5,6 +5,11 @@ const
 
 markdown.parser = require('./parser.js');
 
+markdown.document = function (elements) {
+    assert.array(elements, is.string);
+    return elements.filter(val => val).join('\n\n');
+};
+
 markdown.heading = function (level = 1, value = '', id = '') {
     assert.number.integer(level, 1, 6);
     assert.string(value, /^[^\n]*$/);
