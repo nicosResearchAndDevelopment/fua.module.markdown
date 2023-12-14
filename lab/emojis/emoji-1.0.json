@@ -1,0 +1,7586 @@
+[
+  {
+    "id": "grinning-face",
+    "label": "Grinning Face",
+    "codepoint": "0x1F600",
+    "shortcode": "grinning_face"
+  },
+  {
+    "id": "grinning-face-with-big-eyes",
+    "label": "Grinning Face with Big Eyes",
+    "codepoint": "0x1F603",
+    "shortcode": "grinning_face_with_big_eyes"
+  },
+  {
+    "id": "grinning-face-with-smiling-eyes",
+    "label": "Grinning Face with Smiling Eyes",
+    "codepoint": "0x1F604",
+    "shortcode": "grinning_face_with_smiling_eyes"
+  },
+  {
+    "id": "beaming-face-with-smiling-eyes",
+    "label": "Beaming Face with Smiling Eyes",
+    "codepoint": "0x1F601",
+    "shortcode": "beaming_face_with_smiling_eyes"
+  },
+  {
+    "id": "grinning-squinting-face",
+    "label": "Grinning Squinting Face",
+    "codepoint": "0x1F606",
+    "shortcode": "grinning_squinting_face"
+  },
+  {
+    "id": "grinning-face-with-sweat",
+    "label": "Grinning Face with Sweat",
+    "codepoint": "0x1F605",
+    "shortcode": "grinning_face_with_sweat"
+  },
+  {
+    "id": "face-with-tears-of-joy",
+    "label": "Face with Tears of Joy",
+    "codepoint": "0x1F602",
+    "shortcode": "face_with_tears_of_joy"
+  },
+  {
+    "id": "slightly-smiling-face",
+    "label": "Slightly Smiling Face",
+    "codepoint": "0x1F642",
+    "shortcode": "slightly_smiling_face"
+  },
+  {
+    "id": "upside-down-face",
+    "label": "Upside-Down Face",
+    "codepoint": "0x1F643",
+    "shortcode": "upside_down_face"
+  },
+  {
+    "id": "winking-face",
+    "label": "Winking Face",
+    "codepoint": "0x1F609",
+    "shortcode": "winking_face"
+  },
+  {
+    "id": "smiling-face-with-smiling-eyes",
+    "label": "Smiling Face with Smiling Eyes",
+    "codepoint": "0x1F60A",
+    "shortcode": "smiling_face_with_smiling_eyes"
+  },
+  {
+    "id": "smiling-face-with-halo",
+    "label": "Smiling Face with Halo",
+    "codepoint": "0x1F607",
+    "shortcode": "smiling_face_with_halo"
+  },
+  {
+    "id": "smiling-face-with-heart-eyes",
+    "label": "Smiling Face with Heart-Eyes",
+    "codepoint": "0x1F60D",
+    "shortcode": "smiling_face_with_heart_eyes"
+  },
+  {
+    "id": "face-blowing-a-kiss",
+    "label": "Face Blowing a Kiss",
+    "codepoint": "0x1F618",
+    "shortcode": "face_blowing_a_kiss"
+  },
+  {
+    "id": "kissing-face",
+    "label": "Kissing Face",
+    "codepoint": "0x1F617",
+    "shortcode": "kissing_face"
+  },
+  {
+    "id": "smiling-face",
+    "label": "Smiling Face",
+    "codepoint": "0x263A",
+    "shortcode": "smiling_face"
+  },
+  {
+    "id": "kissing-face-with-closed-eyes",
+    "label": "Kissing Face with Closed Eyes",
+    "codepoint": "0x1F61A",
+    "shortcode": "kissing_face_with_closed_eyes"
+  },
+  {
+    "id": "kissing-face-with-smiling-eyes",
+    "label": "Kissing Face with Smiling Eyes",
+    "codepoint": "0x1F619",
+    "shortcode": "kissing_face_with_smiling_eyes"
+  },
+  {
+    "id": "face-savoring-food",
+    "label": "Face Savoring Food",
+    "codepoint": "0x1F60B",
+    "shortcode": "face_savoring_food"
+  },
+  {
+    "id": "face-with-tongue",
+    "label": "Face with Tongue",
+    "codepoint": "0x1F61B",
+    "shortcode": "face_with_tongue"
+  },
+  {
+    "id": "winking-face-with-tongue",
+    "label": "Winking Face with Tongue",
+    "codepoint": "0x1F61C",
+    "shortcode": "winking_face_with_tongue"
+  },
+  {
+    "id": "squinting-face-with-tongue",
+    "label": "Squinting Face with Tongue",
+    "codepoint": "0x1F61D",
+    "shortcode": "squinting_face_with_tongue"
+  },
+  {
+    "id": "money-mouth-face",
+    "label": "Money-Mouth Face",
+    "codepoint": "0x1F911",
+    "shortcode": "money_mouth_face"
+  },
+  {
+    "id": "hugging-face",
+    "label": "Smiling Face with Open Hands",
+    "codepoint": "0x1F917",
+    "shortcode": "hugging_face"
+  },
+  {
+    "id": "thinking-face",
+    "label": "Thinking Face",
+    "codepoint": "0x1F914",
+    "shortcode": "thinking_face"
+  },
+  {
+    "id": "zipper-mouth-face",
+    "label": "Zipper-Mouth Face",
+    "codepoint": "0x1F910",
+    "shortcode": "zipper_mouth_face"
+  },
+  {
+    "id": "neutral-face",
+    "label": "Neutral Face",
+    "codepoint": "0x1F610",
+    "shortcode": "neutral_face"
+  },
+  {
+    "id": "expressionless-face",
+    "label": "Expressionless Face",
+    "codepoint": "0x1F611",
+    "shortcode": "expressionless_face"
+  },
+  {
+    "id": "face-without-mouth",
+    "label": "Face Without Mouth",
+    "codepoint": "0x1F636",
+    "shortcode": "face_without_mouth"
+  },
+  {
+    "id": "smirking-face",
+    "label": "Smirking Face",
+    "codepoint": "0x1F60F",
+    "shortcode": "smirking_face"
+  },
+  {
+    "id": "unamused-face",
+    "label": "Unamused Face",
+    "codepoint": "0x1F612",
+    "shortcode": "unamused_face"
+  },
+  {
+    "id": "face-with-rolling-eyes",
+    "label": "Face with Rolling Eyes",
+    "codepoint": "0x1F644",
+    "shortcode": "face_with_rolling_eyes"
+  },
+  {
+    "id": "grimacing-face",
+    "label": "Grimacing Face",
+    "codepoint": "0x1F62C",
+    "shortcode": "grimacing_face"
+  },
+  {
+    "id": "relieved-face",
+    "label": "Relieved Face",
+    "codepoint": "0x1F60C",
+    "shortcode": "relieved_face"
+  },
+  {
+    "id": "pensive-face",
+    "label": "Pensive Face",
+    "codepoint": "0x1F614",
+    "shortcode": "pensive_face"
+  },
+  {
+    "id": "sleepy-face",
+    "label": "Sleepy Face",
+    "codepoint": "0x1F62A",
+    "shortcode": "sleepy_face"
+  },
+  {
+    "id": "sleeping-face",
+    "label": "Sleeping Face",
+    "codepoint": "0x1F634",
+    "shortcode": "sleeping_face"
+  },
+  {
+    "id": "face-with-medical-mask",
+    "label": "Face with Medical Mask",
+    "codepoint": "0x1F637",
+    "shortcode": "face_with_medical_mask"
+  },
+  {
+    "id": "face-with-thermometer",
+    "label": "Face with Thermometer",
+    "codepoint": "0x1F912",
+    "shortcode": "face_with_thermometer"
+  },
+  {
+    "id": "face-with-head-bandage",
+    "label": "Face with Head-Bandage",
+    "codepoint": "0x1F915",
+    "shortcode": "face_with_head_bandage"
+  },
+  {
+    "id": "dizzy-face",
+    "label": "Face with Crossed-Out Eyes",
+    "codepoint": "0x1F635",
+    "shortcode": "dizzy_face"
+  },
+  {
+    "id": "smiling-face-with-sunglasses",
+    "label": "Smiling Face with Sunglasses",
+    "codepoint": "0x1F60E",
+    "shortcode": "smiling_face_with_sunglasses"
+  },
+  {
+    "id": "nerd-face",
+    "label": "Nerd Face",
+    "codepoint": "0x1F913",
+    "shortcode": "nerd_face"
+  },
+  {
+    "id": "confused-face",
+    "label": "Confused Face",
+    "codepoint": "0x1F615",
+    "shortcode": "confused_face"
+  },
+  {
+    "id": "worried-face",
+    "label": "Worried Face",
+    "codepoint": "0x1F61F",
+    "shortcode": "worried_face"
+  },
+  {
+    "id": "slightly-frowning-face",
+    "label": "Slightly Frowning Face",
+    "codepoint": "0x1F641",
+    "shortcode": "slightly_frowning_face"
+  },
+  {
+    "id": "frowning-face",
+    "label": "Frowning Face",
+    "codepoint": "0x2639",
+    "shortcode": "frowning_face"
+  },
+  {
+    "id": "face-with-open-mouth",
+    "label": "Face with Open Mouth",
+    "codepoint": "0x1F62E",
+    "shortcode": "face_with_open_mouth"
+  },
+  {
+    "id": "hushed-face",
+    "label": "Hushed Face",
+    "codepoint": "0x1F62F",
+    "shortcode": "hushed_face"
+  },
+  {
+    "id": "astonished-face",
+    "label": "Astonished Face",
+    "codepoint": "0x1F632",
+    "shortcode": "astonished_face"
+  },
+  {
+    "id": "flushed-face",
+    "label": "Flushed Face",
+    "codepoint": "0x1F633",
+    "shortcode": "flushed_face"
+  },
+  {
+    "id": "frowning-face-with-open-mouth",
+    "label": "Frowning Face with Open Mouth",
+    "codepoint": "0x1F626",
+    "shortcode": "frowning_face_with_open_mouth"
+  },
+  {
+    "id": "anguished-face",
+    "label": "Anguished Face",
+    "codepoint": "0x1F627",
+    "shortcode": "anguished_face"
+  },
+  {
+    "id": "fearful-face",
+    "label": "Fearful Face",
+    "codepoint": "0x1F628",
+    "shortcode": "fearful_face"
+  },
+  {
+    "id": "anxious-face-with-sweat",
+    "label": "Anxious Face with Sweat",
+    "codepoint": "0x1F630",
+    "shortcode": "anxious_face_with_sweat"
+  },
+  {
+    "id": "sad-but-relieved-face",
+    "label": "Sad but Relieved Face",
+    "codepoint": "0x1F625",
+    "shortcode": "sad_but_relieved_face"
+  },
+  {
+    "id": "crying-face",
+    "label": "Crying Face",
+    "codepoint": "0x1F622",
+    "shortcode": "crying_face"
+  },
+  {
+    "id": "loudly-crying-face",
+    "label": "Loudly Crying Face",
+    "codepoint": "0x1F62D",
+    "shortcode": "loudly_crying_face"
+  },
+  {
+    "id": "face-screaming-in-fear",
+    "label": "Face Screaming in Fear",
+    "codepoint": "0x1F631",
+    "shortcode": "face_screaming_in_fear"
+  },
+  {
+    "id": "confounded-face",
+    "label": "Confounded Face",
+    "codepoint": "0x1F616",
+    "shortcode": "confounded_face"
+  },
+  {
+    "id": "persevering-face",
+    "label": "Persevering Face",
+    "codepoint": "0x1F623",
+    "shortcode": "persevering_face"
+  },
+  {
+    "id": "disappointed-face",
+    "label": "Disappointed Face",
+    "codepoint": "0x1F61E",
+    "shortcode": "disappointed_face"
+  },
+  {
+    "id": "downcast-face-with-sweat",
+    "label": "Downcast Face with Sweat",
+    "codepoint": "0x1F613",
+    "shortcode": "downcast_face_with_sweat"
+  },
+  {
+    "id": "weary-face",
+    "label": "Weary Face",
+    "codepoint": "0x1F629",
+    "shortcode": "weary_face"
+  },
+  {
+    "id": "tired-face",
+    "label": "Tired Face",
+    "codepoint": "0x1F62B",
+    "shortcode": "tired_face"
+  },
+  {
+    "id": "face-with-steam-from-nose",
+    "label": "Face with Steam From Nose",
+    "codepoint": "0x1F624",
+    "shortcode": "face_with_steam_from_nose"
+  },
+  {
+    "id": "pouting-face",
+    "label": "Enraged Face",
+    "codepoint": "0x1F621",
+    "shortcode": "pouting_face"
+  },
+  {
+    "id": "angry-face",
+    "label": "Angry Face",
+    "codepoint": "0x1F620",
+    "shortcode": "angry_face"
+  },
+  {
+    "id": "smiling-face-with-horns",
+    "label": "Smiling Face with Horns",
+    "codepoint": "0x1F608",
+    "shortcode": "smiling_face_with_horns"
+  },
+  {
+    "id": "angry-face-with-horns",
+    "label": "Angry Face with Horns",
+    "codepoint": "0x1F47F",
+    "shortcode": "angry_face_with_horns"
+  },
+  {
+    "id": "skull",
+    "label": "Skull",
+    "codepoint": "0x1F480",
+    "shortcode": "skull"
+  },
+  {
+    "id": "skull-and-crossbones",
+    "label": "Skull and Crossbones",
+    "codepoint": "0x2620",
+    "shortcode": "skull_and_crossbones"
+  },
+  {
+    "id": "pile-of-poo",
+    "label": "Pile of Poo",
+    "codepoint": "0x1F4A9",
+    "shortcode": "pile_of_poo"
+  },
+  {
+    "id": "ogre",
+    "label": "Ogre",
+    "codepoint": "0x1F479",
+    "shortcode": "ogre"
+  },
+  {
+    "id": "goblin",
+    "label": "Goblin",
+    "codepoint": "0x1F47A",
+    "shortcode": "goblin"
+  },
+  {
+    "id": "ghost",
+    "label": "Ghost",
+    "codepoint": "0x1F47B",
+    "shortcode": "ghost"
+  },
+  {
+    "id": "alien",
+    "label": "Alien",
+    "codepoint": "0x1F47D",
+    "shortcode": "alien"
+  },
+  {
+    "id": "alien-monster",
+    "label": "Alien Monster",
+    "codepoint": "0x1F47E",
+    "shortcode": "alien_monster"
+  },
+  {
+    "id": "robot",
+    "label": "Robot",
+    "codepoint": "0x1F916",
+    "shortcode": "robot"
+  },
+  {
+    "id": "grinning-cat",
+    "label": "Grinning Cat",
+    "codepoint": "0x1F63A",
+    "shortcode": "grinning_cat"
+  },
+  {
+    "id": "grinning-cat-with-smiling-eyes",
+    "label": "Grinning Cat with Smiling Eyes",
+    "codepoint": "0x1F638",
+    "shortcode": "grinning_cat_with_smiling_eyes"
+  },
+  {
+    "id": "cat-with-tears-of-joy",
+    "label": "Cat with Tears of Joy",
+    "codepoint": "0x1F639",
+    "shortcode": "cat_with_tears_of_joy"
+  },
+  {
+    "id": "smiling-cat-with-heart-eyes",
+    "label": "Smiling Cat with Heart-Eyes",
+    "codepoint": "0x1F63B",
+    "shortcode": "smiling_cat_with_heart_eyes"
+  },
+  {
+    "id": "cat-with-wry-smile",
+    "label": "Cat with Wry Smile",
+    "codepoint": "0x1F63C",
+    "shortcode": "cat_with_wry_smile"
+  },
+  {
+    "id": "kissing-cat",
+    "label": "Kissing Cat",
+    "codepoint": "0x1F63D",
+    "shortcode": "kissing_cat"
+  },
+  {
+    "id": "weary-cat",
+    "label": "Weary Cat",
+    "codepoint": "0x1F640",
+    "shortcode": "weary_cat"
+  },
+  {
+    "id": "crying-cat",
+    "label": "Crying Cat",
+    "codepoint": "0x1F63F",
+    "shortcode": "crying_cat"
+  },
+  {
+    "id": "pouting-cat",
+    "label": "Pouting Cat",
+    "codepoint": "0x1F63E",
+    "shortcode": "pouting_cat"
+  },
+  {
+    "id": "see-no-evil-monkey",
+    "label": "See-No-Evil Monkey",
+    "codepoint": "0x1F648",
+    "shortcode": "see_no_evil_monkey"
+  },
+  {
+    "id": "hear-no-evil-monkey",
+    "label": "Hear-No-Evil Monkey",
+    "codepoint": "0x1F649",
+    "shortcode": "hear_no_evil_monkey"
+  },
+  {
+    "id": "speak-no-evil-monkey",
+    "label": "Speak-No-Evil Monkey",
+    "codepoint": "0x1F64A",
+    "shortcode": "speak_no_evil_monkey"
+  },
+  {
+    "id": "love-letter",
+    "label": "Love Letter",
+    "codepoint": "0x1F48C",
+    "shortcode": "love_letter"
+  },
+  {
+    "id": "heart-with-arrow",
+    "label": "Heart with Arrow",
+    "codepoint": "0x1F498",
+    "shortcode": "heart_with_arrow"
+  },
+  {
+    "id": "heart-with-ribbon",
+    "label": "Heart with Ribbon",
+    "codepoint": "0x1F49D",
+    "shortcode": "heart_with_ribbon"
+  },
+  {
+    "id": "sparkling-heart",
+    "label": "Sparkling Heart",
+    "codepoint": "0x1F496",
+    "shortcode": "sparkling_heart"
+  },
+  {
+    "id": "growing-heart",
+    "label": "Growing Heart",
+    "codepoint": "0x1F497",
+    "shortcode": "growing_heart"
+  },
+  {
+    "id": "beating-heart",
+    "label": "Beating Heart",
+    "codepoint": "0x1F493",
+    "shortcode": "beating_heart"
+  },
+  {
+    "id": "revolving-hearts",
+    "label": "Revolving Hearts",
+    "codepoint": "0x1F49E",
+    "shortcode": "revolving_hearts"
+  },
+  {
+    "id": "two-hearts",
+    "label": "Two Hearts",
+    "codepoint": "0x1F495",
+    "shortcode": "two_hearts"
+  },
+  {
+    "id": "heart-decoration",
+    "label": "Heart Decoration",
+    "codepoint": "0x1F49F",
+    "shortcode": "heart_decoration"
+  },
+  {
+    "id": "heart-exclamation",
+    "label": "Heart Exclamation",
+    "codepoint": "0x2763",
+    "shortcode": "heart_exclamation"
+  },
+  {
+    "id": "broken-heart",
+    "label": "Broken Heart",
+    "codepoint": "0x1F494",
+    "shortcode": "broken_heart"
+  },
+  {
+    "id": "red-heart",
+    "label": "Red Heart",
+    "codepoint": "0x2764",
+    "shortcode": "red_heart"
+  },
+  {
+    "id": "yellow-heart",
+    "label": "Yellow Heart",
+    "codepoint": "0x1F49B",
+    "shortcode": "yellow_heart"
+  },
+  {
+    "id": "green-heart",
+    "label": "Green Heart",
+    "codepoint": "0x1F49A",
+    "shortcode": "green_heart"
+  },
+  {
+    "id": "blue-heart",
+    "label": "Blue Heart",
+    "codepoint": "0x1F499",
+    "shortcode": "blue_heart"
+  },
+  {
+    "id": "purple-heart",
+    "label": "Purple Heart",
+    "codepoint": "0x1F49C",
+    "shortcode": "purple_heart"
+  },
+  {
+    "id": "kiss-mark",
+    "label": "Kiss Mark",
+    "codepoint": "0x1F48B",
+    "shortcode": "kiss_mark"
+  },
+  {
+    "id": "hundred-points",
+    "label": "Hundred Points",
+    "codepoint": "0x1F4AF",
+    "shortcode": "hundred_points"
+  },
+  {
+    "id": "anger-symbol",
+    "label": "Anger Symbol",
+    "codepoint": "0x1F4A2",
+    "shortcode": "anger_symbol"
+  },
+  {
+    "id": "collision",
+    "label": "Collision",
+    "codepoint": "0x1F4A5",
+    "shortcode": "collision"
+  },
+  {
+    "id": "dizzy",
+    "label": "Dizzy",
+    "codepoint": "0x1F4AB",
+    "shortcode": "dizzy"
+  },
+  {
+    "id": "sweat-droplets",
+    "label": "Sweat Droplets",
+    "codepoint": "0x1F4A6",
+    "shortcode": "sweat_droplets"
+  },
+  {
+    "id": "dashing-away",
+    "label": "Dashing Away",
+    "codepoint": "0x1F4A8",
+    "shortcode": "dashing_away"
+  },
+  {
+    "id": "hole",
+    "label": "Hole",
+    "codepoint": "0x1F573",
+    "shortcode": "hole"
+  },
+  {
+    "id": "speech-balloon",
+    "label": "Speech Balloon",
+    "codepoint": "0x1F4AC",
+    "shortcode": "speech_balloon"
+  },
+  {
+    "id": "right-anger-bubble",
+    "label": "Right Anger Bubble",
+    "codepoint": "0x1F5EF",
+    "shortcode": "right_anger_bubble"
+  },
+  {
+    "id": "thought-balloon",
+    "label": "Thought Balloon",
+    "codepoint": "0x1F4AD",
+    "shortcode": "thought_balloon"
+  },
+  {
+    "id": "zzz",
+    "label": "Zzz",
+    "codepoint": "0x1F4A4",
+    "shortcode": "zzz"
+  },
+  {
+    "id": "waving-hand",
+    "label": "Waving Hand",
+    "codepoint": "0x1F44B",
+    "shortcode": "waving_hand"
+  },
+  {
+    "id": "hand-with-fingers-splayed",
+    "label": "Hand with Fingers Splayed",
+    "codepoint": "0x1F590",
+    "shortcode": "hand_with_fingers_splayed"
+  },
+  {
+    "id": "raised-hand",
+    "label": "Raised Hand",
+    "codepoint": "0x270B",
+    "shortcode": "raised_hand"
+  },
+  {
+    "id": "vulcan-salute",
+    "label": "Vulcan Salute",
+    "codepoint": "0x1F596",
+    "shortcode": "vulcan_salute"
+  },
+  {
+    "id": "ok-hand",
+    "label": "OK Hand",
+    "codepoint": "0x1F44C",
+    "shortcode": "ok_hand"
+  },
+  {
+    "id": "victory-hand",
+    "label": "Victory Hand",
+    "codepoint": "0x270C",
+    "shortcode": "victory_hand"
+  },
+  {
+    "id": "sign-of-the-horns",
+    "label": "Sign of the Horns",
+    "codepoint": "0x1F918",
+    "shortcode": "sign_of_the_horns"
+  },
+  {
+    "id": "backhand-index-pointing-left",
+    "label": "Backhand Index Pointing Left",
+    "codepoint": "0x1F448",
+    "shortcode": "backhand_index_pointing_left"
+  },
+  {
+    "id": "backhand-index-pointing-right",
+    "label": "Backhand Index Pointing Right",
+    "codepoint": "0x1F449",
+    "shortcode": "backhand_index_pointing_right"
+  },
+  {
+    "id": "backhand-index-pointing-up",
+    "label": "Backhand Index Pointing Up",
+    "codepoint": "0x1F446",
+    "shortcode": "backhand_index_pointing_up"
+  },
+  {
+    "id": "middle-finger",
+    "label": "Middle Finger",
+    "codepoint": "0x1F595",
+    "shortcode": "middle_finger"
+  },
+  {
+    "id": "backhand-index-pointing-down",
+    "label": "Backhand Index Pointing Down",
+    "codepoint": "0x1F447",
+    "shortcode": "backhand_index_pointing_down"
+  },
+  {
+    "id": "index-pointing-up",
+    "label": "Index Pointing Up",
+    "codepoint": "0x261D",
+    "shortcode": "index_pointing_up"
+  },
+  {
+    "id": "thumbs-up",
+    "label": "Thumbs Up",
+    "codepoint": "0x1F44D",
+    "shortcode": "thumbs_up"
+  },
+  {
+    "id": "thumbs-down",
+    "label": "Thumbs Down",
+    "codepoint": "0x1F44E",
+    "shortcode": "thumbs_down"
+  },
+  {
+    "id": "raised-fist",
+    "label": "Raised Fist",
+    "codepoint": "0x270A",
+    "shortcode": "raised_fist"
+  },
+  {
+    "id": "oncoming-fist",
+    "label": "Oncoming Fist",
+    "codepoint": "0x1F44A",
+    "shortcode": "oncoming_fist"
+  },
+  {
+    "id": "clapping-hands",
+    "label": "Clapping Hands",
+    "codepoint": "0x1F44F",
+    "shortcode": "clapping_hands"
+  },
+  {
+    "id": "raising-hands",
+    "label": "Raising Hands",
+    "codepoint": "0x1F64C",
+    "shortcode": "raising_hands"
+  },
+  {
+    "id": "open-hands",
+    "label": "Open Hands",
+    "codepoint": "0x1F450",
+    "shortcode": "open_hands"
+  },
+  {
+    "id": "folded-hands",
+    "label": "Folded Hands",
+    "codepoint": "0x1F64F",
+    "shortcode": "folded_hands"
+  },
+  {
+    "id": "writing-hand",
+    "label": "Writing Hand",
+    "codepoint": "0x270D",
+    "shortcode": "writing_hand"
+  },
+  {
+    "id": "nail-polish",
+    "label": "Nail Polish",
+    "codepoint": "0x1F485",
+    "shortcode": "nail_polish"
+  },
+  {
+    "id": "flexed-biceps",
+    "label": "Flexed Biceps",
+    "codepoint": "0x1F4AA",
+    "shortcode": "flexed_biceps"
+  },
+  {
+    "id": "ear",
+    "label": "Ear",
+    "codepoint": "0x1F442",
+    "shortcode": "ear"
+  },
+  {
+    "id": "nose",
+    "label": "Nose",
+    "codepoint": "0x1F443",
+    "shortcode": "nose"
+  },
+  {
+    "id": "eyes",
+    "label": "Eyes",
+    "codepoint": "0x1F440",
+    "shortcode": "eyes"
+  },
+  {
+    "id": "eye",
+    "label": "Eye",
+    "codepoint": "0x1F441",
+    "shortcode": "eye"
+  },
+  {
+    "id": "tongue",
+    "label": "Tongue",
+    "codepoint": "0x1F445",
+    "shortcode": "tongue"
+  },
+  {
+    "id": "mouth",
+    "label": "Mouth",
+    "codepoint": "0x1F444",
+    "shortcode": "mouth"
+  },
+  {
+    "id": "baby",
+    "label": "Baby",
+    "codepoint": "0x1F476",
+    "shortcode": "baby"
+  },
+  {
+    "id": "boy",
+    "label": "Boy",
+    "codepoint": "0x1F466",
+    "shortcode": "boy"
+  },
+  {
+    "id": "girl",
+    "label": "Girl",
+    "codepoint": "0x1F467",
+    "shortcode": "girl"
+  },
+  {
+    "id": "person-blond-hair",
+    "label": "Person: Blond Hair",
+    "codepoint": "0x1F471",
+    "shortcode": "person_blond_hair"
+  },
+  {
+    "id": "man",
+    "label": "Man",
+    "codepoint": "0x1F468",
+    "shortcode": "man"
+  },
+  {
+    "id": "woman",
+    "label": "Woman",
+    "codepoint": "0x1F469",
+    "shortcode": "woman"
+  },
+  {
+    "id": "old-man",
+    "label": "Old Man",
+    "codepoint": "0x1F474",
+    "shortcode": "old_man"
+  },
+  {
+    "id": "old-woman",
+    "label": "Old Woman",
+    "codepoint": "0x1F475",
+    "shortcode": "old_woman"
+  },
+  {
+    "id": "person-frowning",
+    "label": "Person Frowning",
+    "codepoint": "0x1F64D",
+    "shortcode": "person_frowning"
+  },
+  {
+    "id": "person-pouting",
+    "label": "Person Pouting",
+    "codepoint": "0x1F64E",
+    "shortcode": "person_pouting"
+  },
+  {
+    "id": "person-gesturing-no",
+    "label": "Person Gesturing No",
+    "codepoint": "0x1F645",
+    "shortcode": "person_gesturing_no"
+  },
+  {
+    "id": "person-gesturing-ok",
+    "label": "Person Gesturing OK",
+    "codepoint": "0x1F646",
+    "shortcode": "person_gesturing_ok"
+  },
+  {
+    "id": "person-tipping-hand",
+    "label": "Person Tipping Hand",
+    "codepoint": "0x1F481",
+    "shortcode": "person_tipping_hand"
+  },
+  {
+    "id": "person-raising-hand",
+    "label": "Person Raising Hand",
+    "codepoint": "0x1F64B",
+    "shortcode": "person_raising_hand"
+  },
+  {
+    "id": "person-bowing",
+    "label": "Person Bowing",
+    "codepoint": "0x1F647",
+    "shortcode": "person_bowing"
+  },
+  {
+    "id": "police-officer",
+    "label": "Police Officer",
+    "codepoint": "0x1F46E",
+    "shortcode": "police_officer"
+  },
+  {
+    "id": "detective",
+    "label": "Detective",
+    "codepoint": "0x1F575",
+    "shortcode": "detective"
+  },
+  {
+    "id": "guard",
+    "label": "Guard",
+    "codepoint": "0x1F482",
+    "shortcode": "guard"
+  },
+  {
+    "id": "construction-worker",
+    "label": "Construction Worker",
+    "codepoint": "0x1F477",
+    "shortcode": "construction_worker"
+  },
+  {
+    "id": "princess",
+    "label": "Princess",
+    "codepoint": "0x1F478",
+    "shortcode": "princess"
+  },
+  {
+    "id": "person-wearing-turban",
+    "label": "Person Wearing Turban",
+    "codepoint": "0x1F473",
+    "shortcode": "person_wearing_turban"
+  },
+  {
+    "id": "person-with-skullcap",
+    "label": "Person with Skullcap",
+    "codepoint": "0x1F472",
+    "shortcode": "person_with_skullcap"
+  },
+  {
+    "id": "person-with-veil",
+    "label": "Person with Veil",
+    "codepoint": "0x1F470",
+    "shortcode": "person_with_veil"
+  },
+  {
+    "id": "baby-angel",
+    "label": "Baby Angel",
+    "codepoint": "0x1F47C",
+    "shortcode": "baby_angel"
+  },
+  {
+    "id": "santa-claus",
+    "label": "Santa Claus",
+    "codepoint": "0x1F385",
+    "shortcode": "santa_claus"
+  },
+  {
+    "id": "person-getting-massage",
+    "label": "Person Getting Massage",
+    "codepoint": "0x1F486",
+    "shortcode": "person_getting_massage"
+  },
+  {
+    "id": "person-getting-haircut",
+    "label": "Person Getting Haircut",
+    "codepoint": "0x1F487",
+    "shortcode": "person_getting_haircut"
+  },
+  {
+    "id": "person-walking",
+    "label": "Person Walking",
+    "codepoint": "0x1F6B6",
+    "shortcode": "person_walking"
+  },
+  {
+    "id": "person-running",
+    "label": "Person Running",
+    "codepoint": "0x1F3C3",
+    "shortcode": "person_running"
+  },
+  {
+    "id": "woman-dancing",
+    "label": "Woman Dancing",
+    "codepoint": "0x1F483",
+    "shortcode": "woman_dancing"
+  },
+  {
+    "id": "person-in-suit-levitating",
+    "label": "Person in Suit Levitating",
+    "codepoint": "0x1F574",
+    "shortcode": "person_in_suit_levitating"
+  },
+  {
+    "id": "people-with-bunny-ears",
+    "label": "People with Bunny Ears",
+    "codepoint": "0x1F46F",
+    "shortcode": "people_with_bunny_ears"
+  },
+  {
+    "id": "horse-racing",
+    "label": "Horse Racing",
+    "codepoint": "0x1F3C7",
+    "shortcode": "horse_racing"
+  },
+  {
+    "id": "skier",
+    "label": "Skier",
+    "codepoint": "0x26F7",
+    "shortcode": "skier"
+  },
+  {
+    "id": "snowboarder",
+    "label": "Snowboarder",
+    "codepoint": "0x1F3C2",
+    "shortcode": "snowboarder"
+  },
+  {
+    "id": "person-golfing",
+    "label": "Person Golfing",
+    "codepoint": "0x1F3CC",
+    "shortcode": "person_golfing"
+  },
+  {
+    "id": "person-surfing",
+    "label": "Person Surfing",
+    "codepoint": "0x1F3C4",
+    "shortcode": "person_surfing"
+  },
+  {
+    "id": "person-rowing-boat",
+    "label": "Person Rowing Boat",
+    "codepoint": "0x1F6A3",
+    "shortcode": "person_rowing_boat"
+  },
+  {
+    "id": "person-swimming",
+    "label": "Person Swimming",
+    "codepoint": "0x1F3CA",
+    "shortcode": "person_swimming"
+  },
+  {
+    "id": "person-bouncing-ball",
+    "label": "Person Bouncing Ball",
+    "codepoint": "0x26F9",
+    "shortcode": "person_bouncing_ball"
+  },
+  {
+    "id": "person-lifting-weights",
+    "label": "Person Lifting Weights",
+    "codepoint": "0x1F3CB",
+    "shortcode": "person_lifting_weights"
+  },
+  {
+    "id": "person-biking",
+    "label": "Person Biking",
+    "codepoint": "0x1F6B4",
+    "shortcode": "person_biking"
+  },
+  {
+    "id": "person-mountain-biking",
+    "label": "Person Mountain Biking",
+    "codepoint": "0x1F6B5",
+    "shortcode": "person_mountain_biking"
+  },
+  {
+    "id": "person-taking-bath",
+    "label": "Person Taking Bath",
+    "codepoint": "0x1F6C0",
+    "shortcode": "person_taking_bath"
+  },
+  {
+    "id": "person-in-bed",
+    "label": "Person in Bed",
+    "codepoint": "0x1F6CC",
+    "shortcode": "person_in_bed"
+  },
+  {
+    "id": "women-holding-hands",
+    "label": "Women Holding Hands",
+    "codepoint": "0x1F46D",
+    "shortcode": "women_holding_hands"
+  },
+  {
+    "id": "woman-and-man-holding-hands",
+    "label": "Woman and Man Holding Hands",
+    "codepoint": "0x1F46B",
+    "shortcode": "woman_and_man_holding_hands"
+  },
+  {
+    "id": "men-holding-hands",
+    "label": "Men Holding Hands",
+    "codepoint": "0x1F46C",
+    "shortcode": "men_holding_hands"
+  },
+  {
+    "id": "kiss",
+    "label": "Kiss",
+    "codepoint": "0x1F48F",
+    "shortcode": "kiss"
+  },
+  {
+    "id": "couple-with-heart",
+    "label": "Couple with Heart",
+    "codepoint": "0x1F491",
+    "shortcode": "couple_with_heart"
+  },
+  {
+    "id": "speaking-head",
+    "label": "Speaking Head",
+    "codepoint": "0x1F5E3",
+    "shortcode": "speaking_head"
+  },
+  {
+    "id": "bust-in-silhouette",
+    "label": "Bust in Silhouette",
+    "codepoint": "0x1F464",
+    "shortcode": "bust_in_silhouette"
+  },
+  {
+    "id": "busts-in-silhouette",
+    "label": "Busts in Silhouette",
+    "codepoint": "0x1F465",
+    "shortcode": "busts_in_silhouette"
+  },
+  {
+    "id": "family",
+    "label": "Family",
+    "codepoint": "0x1F46A",
+    "shortcode": "family"
+  },
+  {
+    "id": "footprints",
+    "label": "Footprints",
+    "codepoint": "0x1F463",
+    "shortcode": "footprints"
+  },
+  {
+    "id": "monkey-face",
+    "label": "Monkey Face",
+    "codepoint": "0x1F435",
+    "shortcode": "monkey_face"
+  },
+  {
+    "id": "monkey",
+    "label": "Monkey",
+    "codepoint": "0x1F412",
+    "shortcode": "monkey"
+  },
+  {
+    "id": "dog-face",
+    "label": "Dog Face",
+    "codepoint": "0x1F436",
+    "shortcode": "dog_face"
+  },
+  {
+    "id": "dog",
+    "label": "Dog",
+    "codepoint": "0x1F415",
+    "shortcode": "dog"
+  },
+  {
+    "id": "poodle",
+    "label": "Poodle",
+    "codepoint": "0x1F429",
+    "shortcode": "poodle"
+  },
+  {
+    "id": "wolf",
+    "label": "Wolf",
+    "codepoint": "0x1F43A",
+    "shortcode": "wolf"
+  },
+  {
+    "id": "cat-face",
+    "label": "Cat Face",
+    "codepoint": "0x1F431",
+    "shortcode": "cat_face"
+  },
+  {
+    "id": "cat",
+    "label": "Cat",
+    "codepoint": "0x1F408",
+    "shortcode": "cat"
+  },
+  {
+    "id": "lion",
+    "label": "Lion",
+    "codepoint": "0x1F981",
+    "shortcode": "lion"
+  },
+  {
+    "id": "tiger-face",
+    "label": "Tiger Face",
+    "codepoint": "0x1F42F",
+    "shortcode": "tiger_face"
+  },
+  {
+    "id": "tiger",
+    "label": "Tiger",
+    "codepoint": "0x1F405",
+    "shortcode": "tiger"
+  },
+  {
+    "id": "leopard",
+    "label": "Leopard",
+    "codepoint": "0x1F406",
+    "shortcode": "leopard"
+  },
+  {
+    "id": "horse-face",
+    "label": "Horse Face",
+    "codepoint": "0x1F434",
+    "shortcode": "horse_face"
+  },
+  {
+    "id": "horse",
+    "label": "Horse",
+    "codepoint": "0x1F40E",
+    "shortcode": "horse"
+  },
+  {
+    "id": "unicorn",
+    "label": "Unicorn",
+    "codepoint": "0x1F984",
+    "shortcode": "unicorn"
+  },
+  {
+    "id": "cow-face",
+    "label": "Cow Face",
+    "codepoint": "0x1F42E",
+    "shortcode": "cow_face"
+  },
+  {
+    "id": "ox",
+    "label": "Ox",
+    "codepoint": "0x1F402",
+    "shortcode": "ox"
+  },
+  {
+    "id": "water-buffalo",
+    "label": "Water Buffalo",
+    "codepoint": "0x1F403",
+    "shortcode": "water_buffalo"
+  },
+  {
+    "id": "cow",
+    "label": "Cow",
+    "codepoint": "0x1F404",
+    "shortcode": "cow"
+  },
+  {
+    "id": "pig-face",
+    "label": "Pig Face",
+    "codepoint": "0x1F437",
+    "shortcode": "pig_face"
+  },
+  {
+    "id": "pig",
+    "label": "Pig",
+    "codepoint": "0x1F416",
+    "shortcode": "pig"
+  },
+  {
+    "id": "boar",
+    "label": "Boar",
+    "codepoint": "0x1F417",
+    "shortcode": "boar"
+  },
+  {
+    "id": "pig-nose",
+    "label": "Pig Nose",
+    "codepoint": "0x1F43D",
+    "shortcode": "pig_nose"
+  },
+  {
+    "id": "ram",
+    "label": "Ram",
+    "codepoint": "0x1F40F",
+    "shortcode": "ram"
+  },
+  {
+    "id": "ewe",
+    "label": "Ewe",
+    "codepoint": "0x1F411",
+    "shortcode": "ewe"
+  },
+  {
+    "id": "goat",
+    "label": "Goat",
+    "codepoint": "0x1F410",
+    "shortcode": "goat"
+  },
+  {
+    "id": "camel",
+    "label": "Camel",
+    "codepoint": "0x1F42A",
+    "shortcode": "camel"
+  },
+  {
+    "id": "two-hump-camel",
+    "label": "Two-Hump Camel",
+    "codepoint": "0x1F42B",
+    "shortcode": "two_hump_camel"
+  },
+  {
+    "id": "elephant",
+    "label": "Elephant",
+    "codepoint": "0x1F418",
+    "shortcode": "elephant"
+  },
+  {
+    "id": "mouse-face",
+    "label": "Mouse Face",
+    "codepoint": "0x1F42D",
+    "shortcode": "mouse_face"
+  },
+  {
+    "id": "mouse",
+    "label": "Mouse",
+    "codepoint": "0x1F401",
+    "shortcode": "mouse"
+  },
+  {
+    "id": "rat",
+    "label": "Rat",
+    "codepoint": "0x1F400",
+    "shortcode": "rat"
+  },
+  {
+    "id": "hamster",
+    "label": "Hamster",
+    "codepoint": "0x1F439",
+    "shortcode": "hamster"
+  },
+  {
+    "id": "rabbit-face",
+    "label": "Rabbit Face",
+    "codepoint": "0x1F430",
+    "shortcode": "rabbit_face"
+  },
+  {
+    "id": "rabbit",
+    "label": "Rabbit",
+    "codepoint": "0x1F407",
+    "shortcode": "rabbit"
+  },
+  {
+    "id": "chipmunk",
+    "label": "Chipmunk",
+    "codepoint": "0x1F43F",
+    "shortcode": "chipmunk"
+  },
+  {
+    "id": "bear",
+    "label": "Bear",
+    "codepoint": "0x1F43B",
+    "shortcode": "bear"
+  },
+  {
+    "id": "koala",
+    "label": "Koala",
+    "codepoint": "0x1F428",
+    "shortcode": "koala"
+  },
+  {
+    "id": "panda",
+    "label": "Panda",
+    "codepoint": "0x1F43C",
+    "shortcode": "panda"
+  },
+  {
+    "id": "paw-prints",
+    "label": "Paw Prints",
+    "codepoint": "0x1F43E",
+    "shortcode": "paw_prints"
+  },
+  {
+    "id": "turkey",
+    "label": "Turkey",
+    "codepoint": "0x1F983",
+    "shortcode": "turkey"
+  },
+  {
+    "id": "chicken",
+    "label": "Chicken",
+    "codepoint": "0x1F414",
+    "shortcode": "chicken"
+  },
+  {
+    "id": "rooster",
+    "label": "Rooster",
+    "codepoint": "0x1F413",
+    "shortcode": "rooster"
+  },
+  {
+    "id": "hatching-chick",
+    "label": "Hatching Chick",
+    "codepoint": "0x1F423",
+    "shortcode": "hatching_chick"
+  },
+  {
+    "id": "baby-chick",
+    "label": "Baby Chick",
+    "codepoint": "0x1F424",
+    "shortcode": "baby_chick"
+  },
+  {
+    "id": "front-facing-baby-chick",
+    "label": "Front-Facing Baby Chick",
+    "codepoint": "0x1F425",
+    "shortcode": "front_facing_baby_chick"
+  },
+  {
+    "id": "bird",
+    "label": "Bird",
+    "codepoint": "0x1F426",
+    "shortcode": "bird"
+  },
+  {
+    "id": "penguin",
+    "label": "Penguin",
+    "codepoint": "0x1F427",
+    "shortcode": "penguin"
+  },
+  {
+    "id": "dove",
+    "label": "Dove",
+    "codepoint": "0x1F54A",
+    "shortcode": "dove"
+  },
+  {
+    "id": "frog",
+    "label": "Frog",
+    "codepoint": "0x1F438",
+    "shortcode": "frog"
+  },
+  {
+    "id": "crocodile",
+    "label": "Crocodile",
+    "codepoint": "0x1F40A",
+    "shortcode": "crocodile"
+  },
+  {
+    "id": "turtle",
+    "label": "Turtle",
+    "codepoint": "0x1F422",
+    "shortcode": "turtle"
+  },
+  {
+    "id": "snake",
+    "label": "Snake",
+    "codepoint": "0x1F40D",
+    "shortcode": "snake"
+  },
+  {
+    "id": "dragon-face",
+    "label": "Dragon Face",
+    "codepoint": "0x1F432",
+    "shortcode": "dragon_face"
+  },
+  {
+    "id": "dragon",
+    "label": "Dragon",
+    "codepoint": "0x1F409",
+    "shortcode": "dragon"
+  },
+  {
+    "id": "spouting-whale",
+    "label": "Spouting Whale",
+    "codepoint": "0x1F433",
+    "shortcode": "spouting_whale"
+  },
+  {
+    "id": "whale",
+    "label": "Whale",
+    "codepoint": "0x1F40B",
+    "shortcode": "whale"
+  },
+  {
+    "id": "dolphin",
+    "label": "Dolphin",
+    "codepoint": "0x1F42C",
+    "shortcode": "dolphin"
+  },
+  {
+    "id": "fish",
+    "label": "Fish",
+    "codepoint": "0x1F41F",
+    "shortcode": "fish"
+  },
+  {
+    "id": "tropical-fish",
+    "label": "Tropical Fish",
+    "codepoint": "0x1F420",
+    "shortcode": "tropical_fish"
+  },
+  {
+    "id": "blowfish",
+    "label": "Blowfish",
+    "codepoint": "0x1F421",
+    "shortcode": "blowfish"
+  },
+  {
+    "id": "octopus",
+    "label": "Octopus",
+    "codepoint": "0x1F419",
+    "shortcode": "octopus"
+  },
+  {
+    "id": "spiral-shell",
+    "label": "Spiral Shell",
+    "codepoint": "0x1F41A",
+    "shortcode": "spiral_shell"
+  },
+  {
+    "id": "snail",
+    "label": "Snail",
+    "codepoint": "0x1F40C",
+    "shortcode": "snail"
+  },
+  {
+    "id": "bug",
+    "label": "Bug",
+    "codepoint": "0x1F41B",
+    "shortcode": "bug"
+  },
+  {
+    "id": "ant",
+    "label": "Ant",
+    "codepoint": "0x1F41C",
+    "shortcode": "ant"
+  },
+  {
+    "id": "honeybee",
+    "label": "Honeybee",
+    "codepoint": "0x1F41D",
+    "shortcode": "honeybee"
+  },
+  {
+    "id": "lady-beetle",
+    "label": "Lady Beetle",
+    "codepoint": "0x1F41E",
+    "shortcode": "lady_beetle"
+  },
+  {
+    "id": "spider",
+    "label": "Spider",
+    "codepoint": "0x1F577",
+    "shortcode": "spider"
+  },
+  {
+    "id": "spider-web",
+    "label": "Spider Web",
+    "codepoint": "0x1F578",
+    "shortcode": "spider_web"
+  },
+  {
+    "id": "scorpion",
+    "label": "Scorpion",
+    "codepoint": "0x1F982",
+    "shortcode": "scorpion"
+  },
+  {
+    "id": "bouquet",
+    "label": "Bouquet",
+    "codepoint": "0x1F490",
+    "shortcode": "bouquet"
+  },
+  {
+    "id": "cherry-blossom",
+    "label": "Cherry Blossom",
+    "codepoint": "0x1F338",
+    "shortcode": "cherry_blossom"
+  },
+  {
+    "id": "white-flower",
+    "label": "White Flower",
+    "codepoint": "0x1F4AE",
+    "shortcode": "white_flower"
+  },
+  {
+    "id": "rosette",
+    "label": "Rosette",
+    "codepoint": "0x1F3F5",
+    "shortcode": "rosette"
+  },
+  {
+    "id": "rose",
+    "label": "Rose",
+    "codepoint": "0x1F339",
+    "shortcode": "rose"
+  },
+  {
+    "id": "hibiscus",
+    "label": "Hibiscus",
+    "codepoint": "0x1F33A",
+    "shortcode": "hibiscus"
+  },
+  {
+    "id": "sunflower",
+    "label": "Sunflower",
+    "codepoint": "0x1F33B",
+    "shortcode": "sunflower"
+  },
+  {
+    "id": "blossom",
+    "label": "Blossom",
+    "codepoint": "0x1F33C",
+    "shortcode": "blossom"
+  },
+  {
+    "id": "tulip",
+    "label": "Tulip",
+    "codepoint": "0x1F337",
+    "shortcode": "tulip"
+  },
+  {
+    "id": "seedling",
+    "label": "Seedling",
+    "codepoint": "0x1F331",
+    "shortcode": "seedling"
+  },
+  {
+    "id": "evergreen-tree",
+    "label": "Evergreen Tree",
+    "codepoint": "0x1F332",
+    "shortcode": "evergreen_tree"
+  },
+  {
+    "id": "deciduous-tree",
+    "label": "Deciduous Tree",
+    "codepoint": "0x1F333",
+    "shortcode": "deciduous_tree"
+  },
+  {
+    "id": "palm-tree",
+    "label": "Palm Tree",
+    "codepoint": "0x1F334",
+    "shortcode": "palm_tree"
+  },
+  {
+    "id": "cactus",
+    "label": "Cactus",
+    "codepoint": "0x1F335",
+    "shortcode": "cactus"
+  },
+  {
+    "id": "sheaf-of-rice",
+    "label": "Sheaf of Rice",
+    "codepoint": "0x1F33E",
+    "shortcode": "sheaf_of_rice"
+  },
+  {
+    "id": "herb",
+    "label": "Herb",
+    "codepoint": "0x1F33F",
+    "shortcode": "herb"
+  },
+  {
+    "id": "shamrock",
+    "label": "Shamrock",
+    "codepoint": "0x2618",
+    "shortcode": "shamrock"
+  },
+  {
+    "id": "four-leaf-clover",
+    "label": "Four Leaf Clover",
+    "codepoint": "0x1F340",
+    "shortcode": "four_leaf_clover"
+  },
+  {
+    "id": "maple-leaf",
+    "label": "Maple Leaf",
+    "codepoint": "0x1F341",
+    "shortcode": "maple_leaf"
+  },
+  {
+    "id": "fallen-leaf",
+    "label": "Fallen Leaf",
+    "codepoint": "0x1F342",
+    "shortcode": "fallen_leaf"
+  },
+  {
+    "id": "leaf-fluttering-in-wind",
+    "label": "Leaf Fluttering in Wind",
+    "codepoint": "0x1F343",
+    "shortcode": "leaf_fluttering_in_wind"
+  },
+  {
+    "id": "mushroom",
+    "label": "Mushroom",
+    "codepoint": "0x1F344",
+    "shortcode": "mushroom"
+  },
+  {
+    "id": "grapes",
+    "label": "Grapes",
+    "codepoint": "0x1F347",
+    "shortcode": "grapes"
+  },
+  {
+    "id": "melon",
+    "label": "Melon",
+    "codepoint": "0x1F348",
+    "shortcode": "melon"
+  },
+  {
+    "id": "watermelon",
+    "label": "Watermelon",
+    "codepoint": "0x1F349",
+    "shortcode": "watermelon"
+  },
+  {
+    "id": "tangerine",
+    "label": "Tangerine",
+    "codepoint": "0x1F34A",
+    "shortcode": "tangerine"
+  },
+  {
+    "id": "lemon",
+    "label": "Lemon",
+    "codepoint": "0x1F34B",
+    "shortcode": "lemon"
+  },
+  {
+    "id": "banana",
+    "label": "Banana",
+    "codepoint": "0x1F34C",
+    "shortcode": "banana"
+  },
+  {
+    "id": "pineapple",
+    "label": "Pineapple",
+    "codepoint": "0x1F34D",
+    "shortcode": "pineapple"
+  },
+  {
+    "id": "red-apple",
+    "label": "Red Apple",
+    "codepoint": "0x1F34E",
+    "shortcode": "red_apple"
+  },
+  {
+    "id": "green-apple",
+    "label": "Green Apple",
+    "codepoint": "0x1F34F",
+    "shortcode": "green_apple"
+  },
+  {
+    "id": "pear",
+    "label": "Pear",
+    "codepoint": "0x1F350",
+    "shortcode": "pear"
+  },
+  {
+    "id": "peach",
+    "label": "Peach",
+    "codepoint": "0x1F351",
+    "shortcode": "peach"
+  },
+  {
+    "id": "cherries",
+    "label": "Cherries",
+    "codepoint": "0x1F352",
+    "shortcode": "cherries"
+  },
+  {
+    "id": "strawberry",
+    "label": "Strawberry",
+    "codepoint": "0x1F353",
+    "shortcode": "strawberry"
+  },
+  {
+    "id": "tomato",
+    "label": "Tomato",
+    "codepoint": "0x1F345",
+    "shortcode": "tomato"
+  },
+  {
+    "id": "eggplant",
+    "label": "Eggplant",
+    "codepoint": "0x1F346",
+    "shortcode": "eggplant"
+  },
+  {
+    "id": "ear-of-corn",
+    "label": "Ear of Corn",
+    "codepoint": "0x1F33D",
+    "shortcode": "ear_of_corn"
+  },
+  {
+    "id": "hot-pepper",
+    "label": "Hot Pepper",
+    "codepoint": "0x1F336",
+    "shortcode": "hot_pepper"
+  },
+  {
+    "id": "chestnut",
+    "label": "Chestnut",
+    "codepoint": "0x1F330",
+    "shortcode": "chestnut"
+  },
+  {
+    "id": "bread",
+    "label": "Bread",
+    "codepoint": "0x1F35E",
+    "shortcode": "bread"
+  },
+  {
+    "id": "cheese-wedge",
+    "label": "Cheese Wedge",
+    "codepoint": "0x1F9C0",
+    "shortcode": "cheese_wedge"
+  },
+  {
+    "id": "meat-on-bone",
+    "label": "Meat on Bone",
+    "codepoint": "0x1F356",
+    "shortcode": "meat_on_bone"
+  },
+  {
+    "id": "poultry-leg",
+    "label": "Poultry Leg",
+    "codepoint": "0x1F357",
+    "shortcode": "poultry_leg"
+  },
+  {
+    "id": "hamburger",
+    "label": "Hamburger",
+    "codepoint": "0x1F354",
+    "shortcode": "hamburger"
+  },
+  {
+    "id": "french-fries",
+    "label": "French Fries",
+    "codepoint": "0x1F35F",
+    "shortcode": "french_fries"
+  },
+  {
+    "id": "pizza",
+    "label": "Pizza",
+    "codepoint": "0x1F355",
+    "shortcode": "pizza"
+  },
+  {
+    "id": "hot-dog",
+    "label": "Hot Dog",
+    "codepoint": "0x1F32D",
+    "shortcode": "hot_dog"
+  },
+  {
+    "id": "taco",
+    "label": "Taco",
+    "codepoint": "0x1F32E",
+    "shortcode": "taco"
+  },
+  {
+    "id": "burrito",
+    "label": "Burrito",
+    "codepoint": "0x1F32F",
+    "shortcode": "burrito"
+  },
+  {
+    "id": "cooking",
+    "label": "Cooking",
+    "codepoint": "0x1F373",
+    "shortcode": "cooking"
+  },
+  {
+    "id": "pot-of-food",
+    "label": "Pot of Food",
+    "codepoint": "0x1F372",
+    "shortcode": "pot_of_food"
+  },
+  {
+    "id": "popcorn",
+    "label": "Popcorn",
+    "codepoint": "0x1F37F",
+    "shortcode": "popcorn"
+  },
+  {
+    "id": "bento-box",
+    "label": "Bento Box",
+    "codepoint": "0x1F371",
+    "shortcode": "bento_box"
+  },
+  {
+    "id": "rice-cracker",
+    "label": "Rice Cracker",
+    "codepoint": "0x1F358",
+    "shortcode": "rice_cracker"
+  },
+  {
+    "id": "rice-ball",
+    "label": "Rice Ball",
+    "codepoint": "0x1F359",
+    "shortcode": "rice_ball"
+  },
+  {
+    "id": "cooked-rice",
+    "label": "Cooked Rice",
+    "codepoint": "0x1F35A",
+    "shortcode": "cooked_rice"
+  },
+  {
+    "id": "curry-rice",
+    "label": "Curry Rice",
+    "codepoint": "0x1F35B",
+    "shortcode": "curry_rice"
+  },
+  {
+    "id": "steaming-bowl",
+    "label": "Steaming Bowl",
+    "codepoint": "0x1F35C",
+    "shortcode": "steaming_bowl"
+  },
+  {
+    "id": "spaghetti",
+    "label": "Spaghetti",
+    "codepoint": "0x1F35D",
+    "shortcode": "spaghetti"
+  },
+  {
+    "id": "roasted-sweet-potato",
+    "label": "Roasted Sweet Potato",
+    "codepoint": "0x1F360",
+    "shortcode": "roasted_sweet_potato"
+  },
+  {
+    "id": "oden",
+    "label": "Oden",
+    "codepoint": "0x1F362",
+    "shortcode": "oden"
+  },
+  {
+    "id": "sushi",
+    "label": "Sushi",
+    "codepoint": "0x1F363",
+    "shortcode": "sushi"
+  },
+  {
+    "id": "fried-shrimp",
+    "label": "Fried Shrimp",
+    "codepoint": "0x1F364",
+    "shortcode": "fried_shrimp"
+  },
+  {
+    "id": "fish-cake-with-swirl",
+    "label": "Fish Cake with Swirl",
+    "codepoint": "0x1F365",
+    "shortcode": "fish_cake_with_swirl"
+  },
+  {
+    "id": "dango",
+    "label": "Dango",
+    "codepoint": "0x1F361",
+    "shortcode": "dango"
+  },
+  {
+    "id": "crab",
+    "label": "Crab",
+    "codepoint": "0x1F980",
+    "shortcode": "crab"
+  },
+  {
+    "id": "soft-ice-cream",
+    "label": "Soft Ice Cream",
+    "codepoint": "0x1F366",
+    "shortcode": "soft_ice_cream"
+  },
+  {
+    "id": "shaved-ice",
+    "label": "Shaved Ice",
+    "codepoint": "0x1F367",
+    "shortcode": "shaved_ice"
+  },
+  {
+    "id": "ice-cream",
+    "label": "Ice Cream",
+    "codepoint": "0x1F368",
+    "shortcode": "ice_cream"
+  },
+  {
+    "id": "doughnut",
+    "label": "Doughnut",
+    "codepoint": "0x1F369",
+    "shortcode": "doughnut"
+  },
+  {
+    "id": "cookie",
+    "label": "Cookie",
+    "codepoint": "0x1F36A",
+    "shortcode": "cookie"
+  },
+  {
+    "id": "birthday-cake",
+    "label": "Birthday Cake",
+    "codepoint": "0x1F382",
+    "shortcode": "birthday_cake"
+  },
+  {
+    "id": "shortcake",
+    "label": "Shortcake",
+    "codepoint": "0x1F370",
+    "shortcode": "shortcake"
+  },
+  {
+    "id": "chocolate-bar",
+    "label": "Chocolate Bar",
+    "codepoint": "0x1F36B",
+    "shortcode": "chocolate_bar"
+  },
+  {
+    "id": "candy",
+    "label": "Candy",
+    "codepoint": "0x1F36C",
+    "shortcode": "candy"
+  },
+  {
+    "id": "lollipop",
+    "label": "Lollipop",
+    "codepoint": "0x1F36D",
+    "shortcode": "lollipop"
+  },
+  {
+    "id": "custard",
+    "label": "Custard",
+    "codepoint": "0x1F36E",
+    "shortcode": "custard"
+  },
+  {
+    "id": "honey-pot",
+    "label": "Honey Pot",
+    "codepoint": "0x1F36F",
+    "shortcode": "honey_pot"
+  },
+  {
+    "id": "baby-bottle",
+    "label": "Baby Bottle",
+    "codepoint": "0x1F37C",
+    "shortcode": "baby_bottle"
+  },
+  {
+    "id": "hot-beverage",
+    "label": "Hot Beverage",
+    "codepoint": "0x2615",
+    "shortcode": "hot_beverage"
+  },
+  {
+    "id": "teacup-without-handle",
+    "label": "Teacup Without Handle",
+    "codepoint": "0x1F375",
+    "shortcode": "teacup_without_handle"
+  },
+  {
+    "id": "sake",
+    "label": "Sake",
+    "codepoint": "0x1F376",
+    "shortcode": "sake"
+  },
+  {
+    "id": "bottle-with-popping-cork",
+    "label": "Bottle with Popping Cork",
+    "codepoint": "0x1F37E",
+    "shortcode": "bottle_with_popping_cork"
+  },
+  {
+    "id": "wine-glass",
+    "label": "Wine Glass",
+    "codepoint": "0x1F377",
+    "shortcode": "wine_glass"
+  },
+  {
+    "id": "cocktail-glass",
+    "label": "Cocktail Glass",
+    "codepoint": "0x1F378",
+    "shortcode": "cocktail_glass"
+  },
+  {
+    "id": "tropical-drink",
+    "label": "Tropical Drink",
+    "codepoint": "0x1F379",
+    "shortcode": "tropical_drink"
+  },
+  {
+    "id": "beer-mug",
+    "label": "Beer Mug",
+    "codepoint": "0x1F37A",
+    "shortcode": "beer_mug"
+  },
+  {
+    "id": "clinking-beer-mugs",
+    "label": "Clinking Beer Mugs",
+    "codepoint": "0x1F37B",
+    "shortcode": "clinking_beer_mugs"
+  },
+  {
+    "id": "fork-and-knife-with-plate",
+    "label": "Fork and Knife with Plate",
+    "codepoint": "0x1F37D",
+    "shortcode": "fork_and_knife_with_plate"
+  },
+  {
+    "id": "fork-and-knife",
+    "label": "Fork and Knife",
+    "codepoint": "0x1F374",
+    "shortcode": "fork_and_knife"
+  },
+  {
+    "id": "kitchen-knife",
+    "label": "Kitchen Knife",
+    "codepoint": "0x1F52A",
+    "shortcode": "kitchen_knife"
+  },
+  {
+    "id": "amphora",
+    "label": "Amphora",
+    "codepoint": "0x1F3FA",
+    "shortcode": "amphora"
+  },
+  {
+    "id": "globe-showing-europe-africa",
+    "label": "Globe Showing Europe-Africa",
+    "codepoint": "0x1F30D",
+    "shortcode": "globe_showing_europe_africa"
+  },
+  {
+    "id": "globe-showing-americas",
+    "label": "Globe Showing Americas",
+    "codepoint": "0x1F30E",
+    "shortcode": "globe_showing_americas"
+  },
+  {
+    "id": "globe-showing-asia-australia",
+    "label": "Globe Showing Asia-Australia",
+    "codepoint": "0x1F30F",
+    "shortcode": "globe_showing_asia_australia"
+  },
+  {
+    "id": "globe-with-meridians",
+    "label": "Globe with Meridians",
+    "codepoint": "0x1F310",
+    "shortcode": "globe_with_meridians"
+  },
+  {
+    "id": "world-map",
+    "label": "World Map",
+    "codepoint": "0x1F5FA",
+    "shortcode": "world_map"
+  },
+  {
+    "id": "map-of-japan",
+    "label": "Map of Japan",
+    "codepoint": "0x1F5FE",
+    "shortcode": "map_of_japan"
+  },
+  {
+    "id": "snow-capped-mountain",
+    "label": "Snow-Capped Mountain",
+    "codepoint": "0x1F3D4",
+    "shortcode": "snow_capped_mountain"
+  },
+  {
+    "id": "mountain",
+    "label": "Mountain",
+    "codepoint": "0x26F0",
+    "shortcode": "mountain"
+  },
+  {
+    "id": "volcano",
+    "label": "Volcano",
+    "codepoint": "0x1F30B",
+    "shortcode": "volcano"
+  },
+  {
+    "id": "mount-fuji",
+    "label": "Mount Fuji",
+    "codepoint": "0x1F5FB",
+    "shortcode": "mount_fuji"
+  },
+  {
+    "id": "camping",
+    "label": "Camping",
+    "codepoint": "0x1F3D5",
+    "shortcode": "camping"
+  },
+  {
+    "id": "beach-with-umbrella",
+    "label": "Beach with Umbrella",
+    "codepoint": "0x1F3D6",
+    "shortcode": "beach_with_umbrella"
+  },
+  {
+    "id": "desert",
+    "label": "Desert",
+    "codepoint": "0x1F3DC",
+    "shortcode": "desert"
+  },
+  {
+    "id": "desert-island",
+    "label": "Desert Island",
+    "codepoint": "0x1F3DD",
+    "shortcode": "desert_island"
+  },
+  {
+    "id": "national-park",
+    "label": "National Park",
+    "codepoint": "0x1F3DE",
+    "shortcode": "national_park"
+  },
+  {
+    "id": "stadium",
+    "label": "Stadium",
+    "codepoint": "0x1F3DF",
+    "shortcode": "stadium"
+  },
+  {
+    "id": "classical-building",
+    "label": "Classical Building",
+    "codepoint": "0x1F3DB",
+    "shortcode": "classical_building"
+  },
+  {
+    "id": "building-construction",
+    "label": "Building Construction",
+    "codepoint": "0x1F3D7",
+    "shortcode": "building_construction"
+  },
+  {
+    "id": "houses",
+    "label": "Houses",
+    "codepoint": "0x1F3D8",
+    "shortcode": "houses"
+  },
+  {
+    "id": "derelict-house",
+    "label": "Derelict House",
+    "codepoint": "0x1F3DA",
+    "shortcode": "derelict_house"
+  },
+  {
+    "id": "house",
+    "label": "House",
+    "codepoint": "0x1F3E0",
+    "shortcode": "house"
+  },
+  {
+    "id": "house-with-garden",
+    "label": "House with Garden",
+    "codepoint": "0x1F3E1",
+    "shortcode": "house_with_garden"
+  },
+  {
+    "id": "office-building",
+    "label": "Office Building",
+    "codepoint": "0x1F3E2",
+    "shortcode": "office_building"
+  },
+  {
+    "id": "japanese-post-office",
+    "label": "Japanese Post Office",
+    "codepoint": "0x1F3E3",
+    "shortcode": "japanese_post_office"
+  },
+  {
+    "id": "post-office",
+    "label": "Post Office",
+    "codepoint": "0x1F3E4",
+    "shortcode": "post_office"
+  },
+  {
+    "id": "hospital",
+    "label": "Hospital",
+    "codepoint": "0x1F3E5",
+    "shortcode": "hospital"
+  },
+  {
+    "id": "bank",
+    "label": "Bank",
+    "codepoint": "0x1F3E6",
+    "shortcode": "bank"
+  },
+  {
+    "id": "hotel",
+    "label": "Hotel",
+    "codepoint": "0x1F3E8",
+    "shortcode": "hotel"
+  },
+  {
+    "id": "love-hotel",
+    "label": "Love Hotel",
+    "codepoint": "0x1F3E9",
+    "shortcode": "love_hotel"
+  },
+  {
+    "id": "convenience-store",
+    "label": "Convenience Store",
+    "codepoint": "0x1F3EA",
+    "shortcode": "convenience_store"
+  },
+  {
+    "id": "school",
+    "label": "School",
+    "codepoint": "0x1F3EB",
+    "shortcode": "school"
+  },
+  {
+    "id": "department-store",
+    "label": "Department Store",
+    "codepoint": "0x1F3EC",
+    "shortcode": "department_store"
+  },
+  {
+    "id": "factory",
+    "label": "Factory",
+    "codepoint": "0x1F3ED",
+    "shortcode": "factory"
+  },
+  {
+    "id": "japanese-castle",
+    "label": "Japanese Castle",
+    "codepoint": "0x1F3EF",
+    "shortcode": "japanese_castle"
+  },
+  {
+    "id": "castle",
+    "label": "Castle",
+    "codepoint": "0x1F3F0",
+    "shortcode": "castle"
+  },
+  {
+    "id": "wedding",
+    "label": "Wedding",
+    "codepoint": "0x1F492",
+    "shortcode": "wedding"
+  },
+  {
+    "id": "tokyo-tower",
+    "label": "Tokyo Tower",
+    "codepoint": "0x1F5FC",
+    "shortcode": "tokyo_tower"
+  },
+  {
+    "id": "statue-of-liberty",
+    "label": "Statue of Liberty",
+    "codepoint": "0x1F5FD",
+    "shortcode": "statue_of_liberty"
+  },
+  {
+    "id": "church",
+    "label": "Church",
+    "codepoint": "0x26EA",
+    "shortcode": "church"
+  },
+  {
+    "id": "mosque",
+    "label": "Mosque",
+    "codepoint": "0x1F54C",
+    "shortcode": "mosque"
+  },
+  {
+    "id": "synagogue",
+    "label": "Synagogue",
+    "codepoint": "0x1F54D",
+    "shortcode": "synagogue"
+  },
+  {
+    "id": "shinto-shrine",
+    "label": "Shinto Shrine",
+    "codepoint": "0x26E9",
+    "shortcode": "shinto_shrine"
+  },
+  {
+    "id": "kaaba",
+    "label": "Kaaba",
+    "codepoint": "0x1F54B",
+    "shortcode": "kaaba"
+  },
+  {
+    "id": "fountain",
+    "label": "Fountain",
+    "codepoint": "0x26F2",
+    "shortcode": "fountain"
+  },
+  {
+    "id": "tent",
+    "label": "Tent",
+    "codepoint": "0x26FA",
+    "shortcode": "tent"
+  },
+  {
+    "id": "foggy",
+    "label": "Foggy",
+    "codepoint": "0x1F301",
+    "shortcode": "foggy"
+  },
+  {
+    "id": "night-with-stars",
+    "label": "Night with Stars",
+    "codepoint": "0x1F303",
+    "shortcode": "night_with_stars"
+  },
+  {
+    "id": "cityscape",
+    "label": "Cityscape",
+    "codepoint": "0x1F3D9",
+    "shortcode": "cityscape"
+  },
+  {
+    "id": "sunrise-over-mountains",
+    "label": "Sunrise Over Mountains",
+    "codepoint": "0x1F304",
+    "shortcode": "sunrise_over_mountains"
+  },
+  {
+    "id": "sunrise",
+    "label": "Sunrise",
+    "codepoint": "0x1F305",
+    "shortcode": "sunrise"
+  },
+  {
+    "id": "cityscape-at-dusk",
+    "label": "Cityscape at Dusk",
+    "codepoint": "0x1F306",
+    "shortcode": "cityscape_at_dusk"
+  },
+  {
+    "id": "sunset",
+    "label": "Sunset",
+    "codepoint": "0x1F307",
+    "shortcode": "sunset"
+  },
+  {
+    "id": "bridge-at-night",
+    "label": "Bridge at Night",
+    "codepoint": "0x1F309",
+    "shortcode": "bridge_at_night"
+  },
+  {
+    "id": "hot-springs",
+    "label": "Hot Springs",
+    "codepoint": "0x2668",
+    "shortcode": "hot_springs"
+  },
+  {
+    "id": "carousel-horse",
+    "label": "Carousel Horse",
+    "codepoint": "0x1F3A0",
+    "shortcode": "carousel_horse"
+  },
+  {
+    "id": "ferris-wheel",
+    "label": "Ferris Wheel",
+    "codepoint": "0x1F3A1",
+    "shortcode": "ferris_wheel"
+  },
+  {
+    "id": "roller-coaster",
+    "label": "Roller Coaster",
+    "codepoint": "0x1F3A2",
+    "shortcode": "roller_coaster"
+  },
+  {
+    "id": "barber-pole",
+    "label": "Barber Pole",
+    "codepoint": "0x1F488",
+    "shortcode": "barber_pole"
+  },
+  {
+    "id": "circus-tent",
+    "label": "Circus Tent",
+    "codepoint": "0x1F3AA",
+    "shortcode": "circus_tent"
+  },
+  {
+    "id": "locomotive",
+    "label": "Locomotive",
+    "codepoint": "0x1F682",
+    "shortcode": "locomotive"
+  },
+  {
+    "id": "railway-car",
+    "label": "Railway Car",
+    "codepoint": "0x1F683",
+    "shortcode": "railway_car"
+  },
+  {
+    "id": "high-speed-train",
+    "label": "High-Speed Train",
+    "codepoint": "0x1F684",
+    "shortcode": "high_speed_train"
+  },
+  {
+    "id": "bullet-train",
+    "label": "Bullet Train",
+    "codepoint": "0x1F685",
+    "shortcode": "bullet_train"
+  },
+  {
+    "id": "train",
+    "label": "Train",
+    "codepoint": "0x1F686",
+    "shortcode": "train"
+  },
+  {
+    "id": "metro",
+    "label": "Metro",
+    "codepoint": "0x1F687",
+    "shortcode": "metro"
+  },
+  {
+    "id": "light-rail",
+    "label": "Light Rail",
+    "codepoint": "0x1F688",
+    "shortcode": "light_rail"
+  },
+  {
+    "id": "station",
+    "label": "Station",
+    "codepoint": "0x1F689",
+    "shortcode": "station"
+  },
+  {
+    "id": "tram",
+    "label": "Tram",
+    "codepoint": "0x1F68A",
+    "shortcode": "tram"
+  },
+  {
+    "id": "monorail",
+    "label": "Monorail",
+    "codepoint": "0x1F69D",
+    "shortcode": "monorail"
+  },
+  {
+    "id": "mountain-railway",
+    "label": "Mountain Railway",
+    "codepoint": "0x1F69E",
+    "shortcode": "mountain_railway"
+  },
+  {
+    "id": "tram-car",
+    "label": "Tram Car",
+    "codepoint": "0x1F68B",
+    "shortcode": "tram_car"
+  },
+  {
+    "id": "bus",
+    "label": "Bus",
+    "codepoint": "0x1F68C",
+    "shortcode": "bus"
+  },
+  {
+    "id": "oncoming-bus",
+    "label": "Oncoming Bus",
+    "codepoint": "0x1F68D",
+    "shortcode": "oncoming_bus"
+  },
+  {
+    "id": "trolleybus",
+    "label": "Trolleybus",
+    "codepoint": "0x1F68E",
+    "shortcode": "trolleybus"
+  },
+  {
+    "id": "minibus",
+    "label": "Minibus",
+    "codepoint": "0x1F690",
+    "shortcode": "minibus"
+  },
+  {
+    "id": "ambulance",
+    "label": "Ambulance",
+    "codepoint": "0x1F691",
+    "shortcode": "ambulance"
+  },
+  {
+    "id": "fire-engine",
+    "label": "Fire Engine",
+    "codepoint": "0x1F692",
+    "shortcode": "fire_engine"
+  },
+  {
+    "id": "police-car",
+    "label": "Police Car",
+    "codepoint": "0x1F693",
+    "shortcode": "police_car"
+  },
+  {
+    "id": "oncoming-police-car",
+    "label": "Oncoming Police Car",
+    "codepoint": "0x1F694",
+    "shortcode": "oncoming_police_car"
+  },
+  {
+    "id": "taxi",
+    "label": "Taxi",
+    "codepoint": "0x1F695",
+    "shortcode": "taxi"
+  },
+  {
+    "id": "oncoming-taxi",
+    "label": "Oncoming Taxi",
+    "codepoint": "0x1F696",
+    "shortcode": "oncoming_taxi"
+  },
+  {
+    "id": "automobile",
+    "label": "Automobile",
+    "codepoint": "0x1F697",
+    "shortcode": "automobile"
+  },
+  {
+    "id": "oncoming-automobile",
+    "label": "Oncoming Automobile",
+    "codepoint": "0x1F698",
+    "shortcode": "oncoming_automobile"
+  },
+  {
+    "id": "sport-utility-vehicle",
+    "label": "Sport Utility Vehicle",
+    "codepoint": "0x1F699",
+    "shortcode": "sport_utility_vehicle"
+  },
+  {
+    "id": "delivery-truck",
+    "label": "Delivery Truck",
+    "codepoint": "0x1F69A",
+    "shortcode": "delivery_truck"
+  },
+  {
+    "id": "articulated-lorry",
+    "label": "Articulated Lorry",
+    "codepoint": "0x1F69B",
+    "shortcode": "articulated_lorry"
+  },
+  {
+    "id": "tractor",
+    "label": "Tractor",
+    "codepoint": "0x1F69C",
+    "shortcode": "tractor"
+  },
+  {
+    "id": "racing-car",
+    "label": "Racing Car",
+    "codepoint": "0x1F3CE",
+    "shortcode": "racing_car"
+  },
+  {
+    "id": "motorcycle",
+    "label": "Motorcycle",
+    "codepoint": "0x1F3CD",
+    "shortcode": "motorcycle"
+  },
+  {
+    "id": "bicycle",
+    "label": "Bicycle",
+    "codepoint": "0x1F6B2",
+    "shortcode": "bicycle"
+  },
+  {
+    "id": "bus-stop",
+    "label": "Bus Stop",
+    "codepoint": "0x1F68F",
+    "shortcode": "bus_stop"
+  },
+  {
+    "id": "motorway",
+    "label": "Motorway",
+    "codepoint": "0x1F6E3",
+    "shortcode": "motorway"
+  },
+  {
+    "id": "railway-track",
+    "label": "Railway Track",
+    "codepoint": "0x1F6E4",
+    "shortcode": "railway_track"
+  },
+  {
+    "id": "oil-drum",
+    "label": "Oil Drum",
+    "codepoint": "0x1F6E2",
+    "shortcode": "oil_drum"
+  },
+  {
+    "id": "fuel-pump",
+    "label": "Fuel Pump",
+    "codepoint": "0x26FD",
+    "shortcode": "fuel_pump"
+  },
+  {
+    "id": "police-car-light",
+    "label": "Police Car Light",
+    "codepoint": "0x1F6A8",
+    "shortcode": "police_car_light"
+  },
+  {
+    "id": "horizontal-traffic-light",
+    "label": "Horizontal Traffic Light",
+    "codepoint": "0x1F6A5",
+    "shortcode": "horizontal_traffic_light"
+  },
+  {
+    "id": "vertical-traffic-light",
+    "label": "Vertical Traffic Light",
+    "codepoint": "0x1F6A6",
+    "shortcode": "vertical_traffic_light"
+  },
+  {
+    "id": "construction",
+    "label": "Construction",
+    "codepoint": "0x1F6A7",
+    "shortcode": "construction"
+  },
+  {
+    "id": "anchor",
+    "label": "Anchor",
+    "codepoint": "0x2693",
+    "shortcode": "anchor"
+  },
+  {
+    "id": "sailboat",
+    "label": "Sailboat",
+    "codepoint": "0x26F5",
+    "shortcode": "sailboat"
+  },
+  {
+    "id": "speedboat",
+    "label": "Speedboat",
+    "codepoint": "0x1F6A4",
+    "shortcode": "speedboat"
+  },
+  {
+    "id": "passenger-ship",
+    "label": "Passenger Ship",
+    "codepoint": "0x1F6F3",
+    "shortcode": "passenger_ship"
+  },
+  {
+    "id": "ferry",
+    "label": "Ferry",
+    "codepoint": "0x26F4",
+    "shortcode": "ferry"
+  },
+  {
+    "id": "motor-boat",
+    "label": "Motor Boat",
+    "codepoint": "0x1F6E5",
+    "shortcode": "motor_boat"
+  },
+  {
+    "id": "ship",
+    "label": "Ship",
+    "codepoint": "0x1F6A2",
+    "shortcode": "ship"
+  },
+  {
+    "id": "airplane",
+    "label": "Airplane",
+    "codepoint": "0x2708",
+    "shortcode": "airplane"
+  },
+  {
+    "id": "small-airplane",
+    "label": "Small Airplane",
+    "codepoint": "0x1F6E9",
+    "shortcode": "small_airplane"
+  },
+  {
+    "id": "airplane-departure",
+    "label": "Airplane Departure",
+    "codepoint": "0x1F6EB",
+    "shortcode": "airplane_departure"
+  },
+  {
+    "id": "airplane-arrival",
+    "label": "Airplane Arrival",
+    "codepoint": "0x1F6EC",
+    "shortcode": "airplane_arrival"
+  },
+  {
+    "id": "seat",
+    "label": "Seat",
+    "codepoint": "0x1F4BA",
+    "shortcode": "seat"
+  },
+  {
+    "id": "helicopter",
+    "label": "Helicopter",
+    "codepoint": "0x1F681",
+    "shortcode": "helicopter"
+  },
+  {
+    "id": "suspension-railway",
+    "label": "Suspension Railway",
+    "codepoint": "0x1F69F",
+    "shortcode": "suspension_railway"
+  },
+  {
+    "id": "mountain-cableway",
+    "label": "Mountain Cableway",
+    "codepoint": "0x1F6A0",
+    "shortcode": "mountain_cableway"
+  },
+  {
+    "id": "aerial-tramway",
+    "label": "Aerial Tramway",
+    "codepoint": "0x1F6A1",
+    "shortcode": "aerial_tramway"
+  },
+  {
+    "id": "satellite",
+    "label": "Satellite",
+    "codepoint": "0x1F6F0",
+    "shortcode": "satellite"
+  },
+  {
+    "id": "rocket",
+    "label": "Rocket",
+    "codepoint": "0x1F680",
+    "shortcode": "rocket"
+  },
+  {
+    "id": "bellhop-bell",
+    "label": "Bellhop Bell",
+    "codepoint": "0x1F6CE",
+    "shortcode": "bellhop_bell"
+  },
+  {
+    "id": "hourglass-done",
+    "label": "Hourglass Done",
+    "codepoint": "0x231B",
+    "shortcode": "hourglass_done"
+  },
+  {
+    "id": "hourglass-not-done",
+    "label": "Hourglass Not Done",
+    "codepoint": "0x23F3",
+    "shortcode": "hourglass_not_done"
+  },
+  {
+    "id": "watch",
+    "label": "Watch",
+    "codepoint": "0x231A",
+    "shortcode": "watch"
+  },
+  {
+    "id": "alarm-clock",
+    "label": "Alarm Clock",
+    "codepoint": "0x23F0",
+    "shortcode": "alarm_clock"
+  },
+  {
+    "id": "stopwatch",
+    "label": "Stopwatch",
+    "codepoint": "0x23F1",
+    "shortcode": "stopwatch"
+  },
+  {
+    "id": "timer-clock",
+    "label": "Timer Clock",
+    "codepoint": "0x23F2",
+    "shortcode": "timer_clock"
+  },
+  {
+    "id": "mantelpiece-clock",
+    "label": "Mantelpiece Clock",
+    "codepoint": "0x1F570",
+    "shortcode": "mantelpiece_clock"
+  },
+  {
+    "id": "twelve-oclock",
+    "label": "Twelve O’Clock",
+    "codepoint": "0x1F55B",
+    "shortcode": "twelve_oclock"
+  },
+  {
+    "id": "twelve-thirty",
+    "label": "Twelve-Thirty",
+    "codepoint": "0x1F567",
+    "shortcode": "twelve_thirty"
+  },
+  {
+    "id": "one-oclock",
+    "label": "One O’Clock",
+    "codepoint": "0x1F550",
+    "shortcode": "one_oclock"
+  },
+  {
+    "id": "one-thirty",
+    "label": "One-Thirty",
+    "codepoint": "0x1F55C",
+    "shortcode": "one_thirty"
+  },
+  {
+    "id": "two-oclocktime",
+    "label": "Two O’Clock",
+    "codepoint": "0x1F551",
+    "shortcode": "two_oclock"
+  },
+  {
+    "id": "two-thirty",
+    "label": "Two-Thirty",
+    "codepoint": "0x1F55D",
+    "shortcode": "two_thirty"
+  },
+  {
+    "id": "three-oclock",
+    "label": "Three O’Clock",
+    "codepoint": "0x1F552",
+    "shortcode": "three_oclock"
+  },
+  {
+    "id": "three-thirty",
+    "label": "Three-Thirty",
+    "codepoint": "0x1F55E",
+    "shortcode": "three_thirty"
+  },
+  {
+    "id": "four-oclock",
+    "label": "Four O’Clock",
+    "codepoint": "0x1F553",
+    "shortcode": "four_oclock"
+  },
+  {
+    "id": "four-thirty",
+    "label": "Four-Thirty",
+    "codepoint": "0x1F55F",
+    "shortcode": "four_thirty"
+  },
+  {
+    "id": "five-oclock",
+    "label": "Five O’Clock",
+    "codepoint": "0x1F554",
+    "shortcode": "five_oclock"
+  },
+  {
+    "id": "five-thirty",
+    "label": "Five-Thirty",
+    "codepoint": "0x1F560",
+    "shortcode": "five_thirty"
+  },
+  {
+    "id": "six-oclock",
+    "label": "Six O’Clock",
+    "codepoint": "0x1F555",
+    "shortcode": "six_oclock"
+  },
+  {
+    "id": "six-thirty",
+    "label": "Six-Thirty",
+    "codepoint": "0x1F561",
+    "shortcode": "six_thirty"
+  },
+  {
+    "id": "seven-oclock",
+    "label": "Seven O’Clock",
+    "codepoint": "0x1F556",
+    "shortcode": "seven_oclock"
+  },
+  {
+    "id": "seven-thirty",
+    "label": "Seven-Thirty",
+    "codepoint": "0x1F562",
+    "shortcode": "seven_thirty"
+  },
+  {
+    "id": "eight-oclock",
+    "label": "Eight O’Clock",
+    "codepoint": "0x1F557",
+    "shortcode": "eight_oclock"
+  },
+  {
+    "id": "eight-thirty",
+    "label": "Eight-Thirty",
+    "codepoint": "0x1F563",
+    "shortcode": "eight_thirty"
+  },
+  {
+    "id": "nine-oclock",
+    "label": "Nine O’Clock",
+    "codepoint": "0x1F558",
+    "shortcode": "nine_oclock"
+  },
+  {
+    "id": "nine-thirty",
+    "label": "Nine-Thirty",
+    "codepoint": "0x1F564",
+    "shortcode": "nine_thirty"
+  },
+  {
+    "id": "ten-oclock",
+    "label": "Ten O’Clock",
+    "codepoint": "0x1F559",
+    "shortcode": "ten_oclock"
+  },
+  {
+    "id": "ten-thirty",
+    "label": "Ten-Thirty",
+    "codepoint": "0x1F565",
+    "shortcode": "ten_thirty"
+  },
+  {
+    "id": "eleven-oclock",
+    "label": "Eleven O’Clock",
+    "codepoint": "0x1F55A",
+    "shortcode": "eleven_oclock"
+  },
+  {
+    "id": "eleven-thirty",
+    "label": "Eleven-Thirty",
+    "codepoint": "0x1F566",
+    "shortcode": "eleven_thirty"
+  },
+  {
+    "id": "new-moon",
+    "label": "New Moon",
+    "codepoint": "0x1F311",
+    "shortcode": "new_moon"
+  },
+  {
+    "id": "waxing-crescent-moon",
+    "label": "Waxing Crescent Moon",
+    "codepoint": "0x1F312",
+    "shortcode": "waxing_crescent_moon"
+  },
+  {
+    "id": "first-quarter-moon",
+    "label": "First Quarter Moon",
+    "codepoint": "0x1F313",
+    "shortcode": "first_quarter_moon"
+  },
+  {
+    "id": "waxing-gibbous-moon",
+    "label": "Waxing Gibbous Moon",
+    "codepoint": "0x1F314",
+    "shortcode": "waxing_gibbous_moon"
+  },
+  {
+    "id": "full-moon",
+    "label": "Full Moon",
+    "codepoint": "0x1F315",
+    "shortcode": "full_moon"
+  },
+  {
+    "id": "waning-gibbous-moon",
+    "label": "Waning Gibbous Moon",
+    "codepoint": "0x1F316",
+    "shortcode": "waning_gibbous_moon"
+  },
+  {
+    "id": "last-quarter-moon",
+    "label": "Last Quarter Moon",
+    "codepoint": "0x1F317",
+    "shortcode": "last_quarter_moon"
+  },
+  {
+    "id": "waning-crescent-moon",
+    "label": "Waning Crescent Moon",
+    "codepoint": "0x1F318",
+    "shortcode": "waning_crescent_moon"
+  },
+  {
+    "id": "crescent-moon",
+    "label": "Crescent Moon",
+    "codepoint": "0x1F319",
+    "shortcode": "crescent_moon"
+  },
+  {
+    "id": "new-moon-face",
+    "label": "New Moon Face",
+    "codepoint": "0x1F31A",
+    "shortcode": "new_moon_face"
+  },
+  {
+    "id": "first-quarter-moon-face",
+    "label": "First Quarter Moon Face",
+    "codepoint": "0x1F31B",
+    "shortcode": "first_quarter_moon_face"
+  },
+  {
+    "id": "last-quarter-moon-face",
+    "label": "Last Quarter Moon Face",
+    "codepoint": "0x1F31C",
+    "shortcode": "last_quarter_moon_face"
+  },
+  {
+    "id": "thermometer",
+    "label": "Thermometer",
+    "codepoint": "0x1F321",
+    "shortcode": "thermometer"
+  },
+  {
+    "id": "sun",
+    "label": "Sun",
+    "codepoint": "0x2600",
+    "shortcode": "sun"
+  },
+  {
+    "id": "full-moon-face",
+    "label": "Full Moon Face",
+    "codepoint": "0x1F31D",
+    "shortcode": "full_moon_face"
+  },
+  {
+    "id": "sun-with-face",
+    "label": "Sun with Face",
+    "codepoint": "0x1F31E",
+    "shortcode": "sun_with_face"
+  },
+  {
+    "id": "star",
+    "label": "Star",
+    "codepoint": "0x2B50",
+    "shortcode": "star"
+  },
+  {
+    "id": "glowing-star",
+    "label": "Glowing Star",
+    "codepoint": "0x1F31F",
+    "shortcode": "glowing_star"
+  },
+  {
+    "id": "shooting-star",
+    "label": "Shooting Star",
+    "codepoint": "0x1F320",
+    "shortcode": "shooting_star"
+  },
+  {
+    "id": "milky-way",
+    "label": "Milky Way",
+    "codepoint": "0x1F30C",
+    "shortcode": "milky_way"
+  },
+  {
+    "id": "cloud",
+    "label": "Cloud",
+    "codepoint": "0x2601",
+    "shortcode": "cloud"
+  },
+  {
+    "id": "sun-behind-cloud",
+    "label": "Sun Behind Cloud",
+    "codepoint": "0x26C5",
+    "shortcode": "sun_behind_cloud"
+  },
+  {
+    "id": "cloud-with-lightning-and-rain",
+    "label": "Cloud with Lightning and Rain",
+    "codepoint": "0x26C8",
+    "shortcode": "cloud_with_lightning_and_rain"
+  },
+  {
+    "id": "sun-behind-small-cloud",
+    "label": "Sun Behind Small Cloud",
+    "codepoint": "0x1F324",
+    "shortcode": "sun_behind_small_cloud"
+  },
+  {
+    "id": "sun-behind-large-cloud",
+    "label": "Sun Behind Large Cloud",
+    "codepoint": "0x1F325",
+    "shortcode": "sun_behind_large_cloud"
+  },
+  {
+    "id": "sun-behind-rain-cloud",
+    "label": "Sun Behind Rain Cloud",
+    "codepoint": "0x1F326",
+    "shortcode": "sun_behind_rain_cloud"
+  },
+  {
+    "id": "cloud-with-rain",
+    "label": "Cloud with Rain",
+    "codepoint": "0x1F327",
+    "shortcode": "cloud_with_rain"
+  },
+  {
+    "id": "cloud-with-snow",
+    "label": "Cloud with Snow",
+    "codepoint": "0x1F328",
+    "shortcode": "cloud_with_snow"
+  },
+  {
+    "id": "cloud-with-lightning",
+    "label": "Cloud with Lightning",
+    "codepoint": "0x1F329",
+    "shortcode": "cloud_with_lightning"
+  },
+  {
+    "id": "tornado",
+    "label": "Tornado",
+    "codepoint": "0x1F32A",
+    "shortcode": "tornado"
+  },
+  {
+    "id": "fog",
+    "label": "Fog",
+    "codepoint": "0x1F32B",
+    "shortcode": "fog"
+  },
+  {
+    "id": "wind-face",
+    "label": "Wind Face",
+    "codepoint": "0x1F32C",
+    "shortcode": "wind_face"
+  },
+  {
+    "id": "cyclone",
+    "label": "Cyclone",
+    "codepoint": "0x1F300",
+    "shortcode": "cyclone"
+  },
+  {
+    "id": "rainbow",
+    "label": "Rainbow",
+    "codepoint": "0x1F308",
+    "shortcode": "rainbow"
+  },
+  {
+    "id": "closed-umbrella",
+    "label": "Closed Umbrella",
+    "codepoint": "0x1F302",
+    "shortcode": "closed_umbrella"
+  },
+  {
+    "id": "umbrella",
+    "label": "Umbrella",
+    "codepoint": "0x2602",
+    "shortcode": "umbrella"
+  },
+  {
+    "id": "umbrella-with-rain-drops",
+    "label": "Umbrella with Rain Drops",
+    "codepoint": "0x2614",
+    "shortcode": "umbrella_with_rain_drops"
+  },
+  {
+    "id": "umbrella-on-ground",
+    "label": "Umbrella on Ground",
+    "codepoint": "0x26F1",
+    "shortcode": "umbrella_on_ground"
+  },
+  {
+    "id": "high-voltage",
+    "label": "High Voltage",
+    "codepoint": "0x26A1",
+    "shortcode": "high_voltage"
+  },
+  {
+    "id": "snowflake",
+    "label": "Snowflake",
+    "codepoint": "0x2744",
+    "shortcode": "snowflake"
+  },
+  {
+    "id": "snowman",
+    "label": "Snowman",
+    "codepoint": "0x2603",
+    "shortcode": "snowman"
+  },
+  {
+    "id": "snowman-without-snow",
+    "label": "Snowman Without Snow",
+    "codepoint": "0x26C4",
+    "shortcode": "snowman_without_snow"
+  },
+  {
+    "id": "comet",
+    "label": "Comet",
+    "codepoint": "0x2604",
+    "shortcode": "comet"
+  },
+  {
+    "id": "fire",
+    "label": "Fire",
+    "codepoint": "0x1F525",
+    "shortcode": "fire"
+  },
+  {
+    "id": "droplet",
+    "label": "Droplet",
+    "codepoint": "0x1F4A7",
+    "shortcode": "droplet"
+  },
+  {
+    "id": "water-wave",
+    "label": "Water Wave",
+    "codepoint": "0x1F30A",
+    "shortcode": "water_wave"
+  },
+  {
+    "id": "jack-o-lantern",
+    "label": "Jack-O-Lantern",
+    "codepoint": "0x1F383",
+    "shortcode": "jack_o_lantern"
+  },
+  {
+    "id": "christmas-tree",
+    "label": "Christmas Tree",
+    "codepoint": "0x1F384",
+    "shortcode": "christmas_tree"
+  },
+  {
+    "id": "fireworks",
+    "label": "Fireworks",
+    "codepoint": "0x1F386",
+    "shortcode": "fireworks"
+  },
+  {
+    "id": "sparkler",
+    "label": "Sparkler",
+    "codepoint": "0x1F387",
+    "shortcode": "sparkler"
+  },
+  {
+    "id": "sparkles",
+    "label": "Sparkles",
+    "codepoint": "0x2728",
+    "shortcode": "sparkles"
+  },
+  {
+    "id": "balloon",
+    "label": "Balloon",
+    "codepoint": "0x1F388",
+    "shortcode": "balloon"
+  },
+  {
+    "id": "party-popper",
+    "label": "Party Popper",
+    "codepoint": "0x1F389",
+    "shortcode": "party_popper"
+  },
+  {
+    "id": "confetti-ball",
+    "label": "Confetti Ball",
+    "codepoint": "0x1F38A",
+    "shortcode": "confetti_ball"
+  },
+  {
+    "id": "tanabata-tree",
+    "label": "Tanabata Tree",
+    "codepoint": "0x1F38B",
+    "shortcode": "tanabata_tree"
+  },
+  {
+    "id": "pine-decoration",
+    "label": "Pine Decoration",
+    "codepoint": "0x1F38D",
+    "shortcode": "pine_decoration"
+  },
+  {
+    "id": "japanese-dolls",
+    "label": "Japanese Dolls",
+    "codepoint": "0x1F38E",
+    "shortcode": "japanese_dolls"
+  },
+  {
+    "id": "carp-streamer",
+    "label": "Carp Streamer",
+    "codepoint": "0x1F38F",
+    "shortcode": "carp_streamer"
+  },
+  {
+    "id": "wind-chime",
+    "label": "Wind Chime",
+    "codepoint": "0x1F390",
+    "shortcode": "wind_chime"
+  },
+  {
+    "id": "moon-viewing-ceremony",
+    "label": "Moon Viewing Ceremony",
+    "codepoint": "0x1F391",
+    "shortcode": "moon_viewing_ceremony"
+  },
+  {
+    "id": "ribbon",
+    "label": "Ribbon",
+    "codepoint": "0x1F380",
+    "shortcode": "ribbon"
+  },
+  {
+    "id": "wrapped-gift",
+    "label": "Wrapped Gift",
+    "codepoint": "0x1F381",
+    "shortcode": "wrapped_gift"
+  },
+  {
+    "id": "reminder-ribbon",
+    "label": "Reminder Ribbon",
+    "codepoint": "0x1F397",
+    "shortcode": "reminder_ribbon"
+  },
+  {
+    "id": "admission-tickets",
+    "label": "Admission Tickets",
+    "codepoint": "0x1F39F",
+    "shortcode": "admission_tickets"
+  },
+  {
+    "id": "ticket",
+    "label": "Ticket",
+    "codepoint": "0x1F3AB",
+    "shortcode": "ticket"
+  },
+  {
+    "id": "military-medal",
+    "label": "Military Medal",
+    "codepoint": "0x1F396",
+    "shortcode": "military_medal"
+  },
+  {
+    "id": "trophy",
+    "label": "Trophy",
+    "codepoint": "0x1F3C6",
+    "shortcode": "trophy"
+  },
+  {
+    "id": "sports-medal",
+    "label": "Sports Medal",
+    "codepoint": "0x1F3C5",
+    "shortcode": "sports_medal"
+  },
+  {
+    "id": "soccer-ball",
+    "label": "Soccer Ball",
+    "codepoint": "0x26BD",
+    "shortcode": "soccer_ball"
+  },
+  {
+    "id": "baseball",
+    "label": "Baseball",
+    "codepoint": "0x26BE",
+    "shortcode": "baseball"
+  },
+  {
+    "id": "basketball",
+    "label": "Basketball",
+    "codepoint": "0x1F3C0",
+    "shortcode": "basketball"
+  },
+  {
+    "id": "volleyball",
+    "label": "Volleyball",
+    "codepoint": "0x1F3D0",
+    "shortcode": "volleyball"
+  },
+  {
+    "id": "american-football",
+    "label": "American Football",
+    "codepoint": "0x1F3C8",
+    "shortcode": "american_football"
+  },
+  {
+    "id": "rugby-football",
+    "label": "Rugby Football",
+    "codepoint": "0x1F3C9",
+    "shortcode": "rugby_football"
+  },
+  {
+    "id": "tennis",
+    "label": "Tennis",
+    "codepoint": "0x1F3BE",
+    "shortcode": "tennis"
+  },
+  {
+    "id": "bowling",
+    "label": "Bowling",
+    "codepoint": "0x1F3B3",
+    "shortcode": "bowling"
+  },
+  {
+    "id": "cricket-game",
+    "label": "Cricket Game",
+    "codepoint": "0x1F3CF",
+    "shortcode": "cricket_game"
+  },
+  {
+    "id": "field-hockey",
+    "label": "Field Hockey",
+    "codepoint": "0x1F3D1",
+    "shortcode": "field_hockey"
+  },
+  {
+    "id": "ice-hockey",
+    "label": "Ice Hockey",
+    "codepoint": "0x1F3D2",
+    "shortcode": "ice_hockey"
+  },
+  {
+    "id": "ping-pong",
+    "label": "Ping Pong",
+    "codepoint": "0x1F3D3",
+    "shortcode": "ping_pong"
+  },
+  {
+    "id": "badminton",
+    "label": "Badminton",
+    "codepoint": "0x1F3F8",
+    "shortcode": "badminton"
+  },
+  {
+    "id": "flag-in-hole",
+    "label": "Flag in Hole",
+    "codepoint": "0x26F3",
+    "shortcode": "flag_in_hole"
+  },
+  {
+    "id": "ice-skate",
+    "label": "Ice Skate",
+    "codepoint": "0x26F8",
+    "shortcode": "ice_skate"
+  },
+  {
+    "id": "fishing-pole",
+    "label": "Fishing Pole",
+    "codepoint": "0x1F3A3",
+    "shortcode": "fishing_pole"
+  },
+  {
+    "id": "running-shirt",
+    "label": "Running Shirt",
+    "codepoint": "0x1F3BD",
+    "shortcode": "running_shirt"
+  },
+  {
+    "id": "skis",
+    "label": "Skis",
+    "codepoint": "0x1F3BF",
+    "shortcode": "skis"
+  },
+  {
+    "id": "direct-hit",
+    "label": "Bullseye",
+    "codepoint": "0x1F3AF",
+    "shortcode": "direct_hit"
+  },
+  {
+    "id": "pistol",
+    "label": "Water Pistol",
+    "codepoint": "0x1F52B",
+    "shortcode": "pistol"
+  },
+  {
+    "id": "pool-8-ball",
+    "label": "Pool 8 Ball",
+    "codepoint": "0x1F3B1",
+    "shortcode": "pool_8_ball"
+  },
+  {
+    "id": "crystal-ball",
+    "label": "Crystal Ball",
+    "codepoint": "0x1F52E",
+    "shortcode": "crystal_ball"
+  },
+  {
+    "id": "video-game",
+    "label": "Video Game",
+    "codepoint": "0x1F3AE",
+    "shortcode": "video_game"
+  },
+  {
+    "id": "joystick",
+    "label": "Joystick",
+    "codepoint": "0x1F579",
+    "shortcode": "joystick"
+  },
+  {
+    "id": "slot-machine",
+    "label": "Slot Machine",
+    "codepoint": "0x1F3B0",
+    "shortcode": "slot_machine"
+  },
+  {
+    "id": "game-die",
+    "label": "Game Die",
+    "codepoint": "0x1F3B2",
+    "shortcode": "game_die"
+  },
+  {
+    "id": "spade-suit",
+    "label": "Spade Suit",
+    "codepoint": "0x2660",
+    "shortcode": "spade_suit"
+  },
+  {
+    "id": "heart-suit",
+    "label": "Heart Suit",
+    "codepoint": "0x2665",
+    "shortcode": "heart_suit"
+  },
+  {
+    "id": "diamond-suit",
+    "label": "Diamond Suit",
+    "codepoint": "0x2666",
+    "shortcode": "diamond_suit"
+  },
+  {
+    "id": "club-suit",
+    "label": "Club Suit",
+    "codepoint": "0x2663",
+    "shortcode": "club_suit"
+  },
+  {
+    "id": "joker",
+    "label": "Joker",
+    "codepoint": "0x1F0CF",
+    "shortcode": "joker"
+  },
+  {
+    "id": "mahjong-red-dragon",
+    "label": "Mahjong Red Dragon",
+    "codepoint": "0x1F004",
+    "shortcode": "mahjong_red_dragon"
+  },
+  {
+    "id": "flower-playing-cards",
+    "label": "Flower Playing Cards",
+    "codepoint": "0x1F3B4",
+    "shortcode": "flower_playing_cards"
+  },
+  {
+    "id": "performing-arts",
+    "label": "Performing Arts",
+    "codepoint": "0x1F3AD",
+    "shortcode": "performing_arts"
+  },
+  {
+    "id": "framed-picture",
+    "label": "Framed Picture",
+    "codepoint": "0x1F5BC",
+    "shortcode": "framed_picture"
+  },
+  {
+    "id": "artist-palette",
+    "label": "Artist Palette",
+    "codepoint": "0x1F3A8",
+    "shortcode": "artist_palette"
+  },
+  {
+    "id": "glasses",
+    "label": "Glasses",
+    "codepoint": "0x1F453",
+    "shortcode": "glasses"
+  },
+  {
+    "id": "sunglasses",
+    "label": "Sunglasses",
+    "codepoint": "0x1F576",
+    "shortcode": "sunglasses"
+  },
+  {
+    "id": "necktie",
+    "label": "Necktie",
+    "codepoint": "0x1F454",
+    "shortcode": "necktie"
+  },
+  {
+    "id": "t-shirt",
+    "label": "T-Shirt",
+    "codepoint": "0x1F455",
+    "shortcode": "t_shirt"
+  },
+  {
+    "id": "jeans",
+    "label": "Jeans",
+    "codepoint": "0x1F456",
+    "shortcode": "jeans"
+  },
+  {
+    "id": "dress",
+    "label": "Dress",
+    "codepoint": "0x1F457",
+    "shortcode": "dress"
+  },
+  {
+    "id": "kimono",
+    "label": "Kimono",
+    "codepoint": "0x1F458",
+    "shortcode": "kimono"
+  },
+  {
+    "id": "bikini",
+    "label": "Bikini",
+    "codepoint": "0x1F459",
+    "shortcode": "bikini"
+  },
+  {
+    "id": "womans-clothes",
+    "label": "Woman’s Clothes",
+    "codepoint": "0x1F45A",
+    "shortcode": "womans_clothes"
+  },
+  {
+    "id": "purse",
+    "label": "Purse",
+    "codepoint": "0x1F45B",
+    "shortcode": "purse"
+  },
+  {
+    "id": "handbag",
+    "label": "Handbag",
+    "codepoint": "0x1F45C",
+    "shortcode": "handbag"
+  },
+  {
+    "id": "clutch-bag",
+    "label": "Clutch Bag",
+    "codepoint": "0x1F45D",
+    "shortcode": "clutch_bag"
+  },
+  {
+    "id": "shopping-bags",
+    "label": "Shopping Bags",
+    "codepoint": "0x1F6CD",
+    "shortcode": "shopping_bags"
+  },
+  {
+    "id": "backpack",
+    "label": "Backpack",
+    "codepoint": "0x1F392",
+    "shortcode": "backpack"
+  },
+  {
+    "id": "mans-shoe",
+    "label": "Man’s Shoe",
+    "codepoint": "0x1F45E",
+    "shortcode": "mans_shoe"
+  },
+  {
+    "id": "running-shoe",
+    "label": "Running Shoe",
+    "codepoint": "0x1F45F",
+    "shortcode": "running_shoe"
+  },
+  {
+    "id": "high-heeled-shoe",
+    "label": "High-Heeled Shoe",
+    "codepoint": "0x1F460",
+    "shortcode": "high_heeled_shoe"
+  },
+  {
+    "id": "womans-sandal",
+    "label": "Woman’s Sandal",
+    "codepoint": "0x1F461",
+    "shortcode": "womans_sandal"
+  },
+  {
+    "id": "womans-boot",
+    "label": "Woman’s Boot",
+    "codepoint": "0x1F462",
+    "shortcode": "womans_boot"
+  },
+  {
+    "id": "crown",
+    "label": "Crown",
+    "codepoint": "0x1F451",
+    "shortcode": "crown"
+  },
+  {
+    "id": "womans-hat",
+    "label": "Woman’s Hat",
+    "codepoint": "0x1F452",
+    "shortcode": "womans_hat"
+  },
+  {
+    "id": "top-hat",
+    "label": "Top Hat",
+    "codepoint": "0x1F3A9",
+    "shortcode": "top_hat"
+  },
+  {
+    "id": "graduation-cap",
+    "label": "Graduation Cap",
+    "codepoint": "0x1F393",
+    "shortcode": "graduation_cap"
+  },
+  {
+    "id": "rescue-workers-helmet",
+    "label": "Rescue Worker’s Helmet",
+    "codepoint": "0x26D1",
+    "shortcode": "rescue_workers_helmet"
+  },
+  {
+    "id": "prayer-beads",
+    "label": "Prayer Beads",
+    "codepoint": "0x1F4FF",
+    "shortcode": "prayer_beads"
+  },
+  {
+    "id": "lipstick",
+    "label": "Lipstick",
+    "codepoint": "0x1F484",
+    "shortcode": "lipstick"
+  },
+  {
+    "id": "ring",
+    "label": "Ring",
+    "codepoint": "0x1F48D",
+    "shortcode": "ring"
+  },
+  {
+    "id": "gem-stone",
+    "label": "Gem Stone",
+    "codepoint": "0x1F48E",
+    "shortcode": "gem_stone"
+  },
+  {
+    "id": "muted-speaker",
+    "label": "Muted Speaker",
+    "codepoint": "0x1F507",
+    "shortcode": "muted_speaker"
+  },
+  {
+    "id": "speaker-low-volume",
+    "label": "Speaker Low Volume",
+    "codepoint": "0x1F508",
+    "shortcode": "speaker_low_volume"
+  },
+  {
+    "id": "speaker-medium-volume",
+    "label": "Speaker Medium Volume",
+    "codepoint": "0x1F509",
+    "shortcode": "speaker_medium_volume"
+  },
+  {
+    "id": "speaker-high-volume",
+    "label": "Speaker High Volume",
+    "codepoint": "0x1F50A",
+    "shortcode": "speaker_high_volume"
+  },
+  {
+    "id": "loudspeaker",
+    "label": "Loudspeaker",
+    "codepoint": "0x1F4E2",
+    "shortcode": "loudspeaker"
+  },
+  {
+    "id": "megaphone",
+    "label": "Megaphone",
+    "codepoint": "0x1F4E3",
+    "shortcode": "megaphone"
+  },
+  {
+    "id": "postal-horn",
+    "label": "Postal Horn",
+    "codepoint": "0x1F4EF",
+    "shortcode": "postal_horn"
+  },
+  {
+    "id": "bell",
+    "label": "Bell",
+    "codepoint": "0x1F514",
+    "shortcode": "bell"
+  },
+  {
+    "id": "bell-with-slash",
+    "label": "Bell with Slash",
+    "codepoint": "0x1F515",
+    "shortcode": "bell_with_slash"
+  },
+  {
+    "id": "musical-score",
+    "label": "Musical Score",
+    "codepoint": "0x1F3BC",
+    "shortcode": "musical_score"
+  },
+  {
+    "id": "musical-note",
+    "label": "Musical Note",
+    "codepoint": "0x1F3B5",
+    "shortcode": "musical_note"
+  },
+  {
+    "id": "musical-notes",
+    "label": "Musical Notes",
+    "codepoint": "0x1F3B6",
+    "shortcode": "musical_notes"
+  },
+  {
+    "id": "studio-microphone",
+    "label": "Studio Microphone",
+    "codepoint": "0x1F399",
+    "shortcode": "studio_microphone"
+  },
+  {
+    "id": "level-slider",
+    "label": "Level Slider",
+    "codepoint": "0x1F39A",
+    "shortcode": "level_slider"
+  },
+  {
+    "id": "control-knobs",
+    "label": "Control Knobs",
+    "codepoint": "0x1F39B",
+    "shortcode": "control_knobs"
+  },
+  {
+    "id": "microphone",
+    "label": "Microphone",
+    "codepoint": "0x1F3A4",
+    "shortcode": "microphone"
+  },
+  {
+    "id": "headphone",
+    "label": "Headphone",
+    "codepoint": "0x1F3A7",
+    "shortcode": "headphone"
+  },
+  {
+    "id": "radio",
+    "label": "Radio",
+    "codepoint": "0x1F4FB",
+    "shortcode": "radio"
+  },
+  {
+    "id": "saxophone",
+    "label": "Saxophone",
+    "codepoint": "0x1F3B7",
+    "shortcode": "saxophone"
+  },
+  {
+    "id": "guitar",
+    "label": "Guitar",
+    "codepoint": "0x1F3B8",
+    "shortcode": "guitar"
+  },
+  {
+    "id": "musical-keyboard",
+    "label": "Musical Keyboard",
+    "codepoint": "0x1F3B9",
+    "shortcode": "musical_keyboard"
+  },
+  {
+    "id": "trumpet",
+    "label": "Trumpet",
+    "codepoint": "0x1F3BA",
+    "shortcode": "trumpet"
+  },
+  {
+    "id": "violin",
+    "label": "Violin",
+    "codepoint": "0x1F3BB",
+    "shortcode": "violin"
+  },
+  {
+    "id": "mobile-phone",
+    "label": "Mobile Phone",
+    "codepoint": "0x1F4F1",
+    "shortcode": "mobile_phone"
+  },
+  {
+    "id": "mobile-phone-with-arrow",
+    "label": "Mobile Phone with Arrow",
+    "codepoint": "0x1F4F2",
+    "shortcode": "mobile_phone_with_arrow"
+  },
+  {
+    "id": "telephone",
+    "label": "Telephone",
+    "codepoint": "0x260E",
+    "shortcode": "telephone"
+  },
+  {
+    "id": "telephone-receiver",
+    "label": "Telephone Receiver",
+    "codepoint": "0x1F4DE",
+    "shortcode": "telephone_receiver"
+  },
+  {
+    "id": "pager",
+    "label": "Pager",
+    "codepoint": "0x1F4DF",
+    "shortcode": "pager"
+  },
+  {
+    "id": "fax-machine",
+    "label": "Fax Machine",
+    "codepoint": "0x1F4E0",
+    "shortcode": "fax_machine"
+  },
+  {
+    "id": "battery",
+    "label": "Battery",
+    "codepoint": "0x1F50B",
+    "shortcode": "battery"
+  },
+  {
+    "id": "electric-plug",
+    "label": "Electric Plug",
+    "codepoint": "0x1F50C",
+    "shortcode": "electric_plug"
+  },
+  {
+    "id": "laptop",
+    "label": "Laptop",
+    "codepoint": "0x1F4BB",
+    "shortcode": "laptop"
+  },
+  {
+    "id": "desktop-computer",
+    "label": "Desktop Computer",
+    "codepoint": "0x1F5A5",
+    "shortcode": "desktop_computer"
+  },
+  {
+    "id": "printer",
+    "label": "Printer",
+    "codepoint": "0x1F5A8",
+    "shortcode": "printer"
+  },
+  {
+    "id": "keyboard",
+    "label": "Keyboard",
+    "codepoint": "0x2328",
+    "shortcode": "keyboard"
+  },
+  {
+    "id": "computer-mouse",
+    "label": "Computer Mouse",
+    "codepoint": "0x1F5B1",
+    "shortcode": "computer_mouse"
+  },
+  {
+    "id": "trackball",
+    "label": "Trackball",
+    "codepoint": "0x1F5B2",
+    "shortcode": "trackball"
+  },
+  {
+    "id": "computer-disk",
+    "label": "Computer Disk",
+    "codepoint": "0x1F4BD",
+    "shortcode": "computer_disk"
+  },
+  {
+    "id": "floppy-disk",
+    "label": "Floppy Disk",
+    "codepoint": "0x1F4BE",
+    "shortcode": "floppy_disk"
+  },
+  {
+    "id": "optical-disk",
+    "label": "Optical Disk",
+    "codepoint": "0x1F4BF",
+    "shortcode": "optical_disk"
+  },
+  {
+    "id": "dvd",
+    "label": "DVD",
+    "codepoint": "0x1F4C0",
+    "shortcode": "dvd"
+  },
+  {
+    "id": "movie-camera",
+    "label": "Movie Camera",
+    "codepoint": "0x1F3A5",
+    "shortcode": "movie_camera"
+  },
+  {
+    "id": "film-frames",
+    "label": "Film Frames",
+    "codepoint": "0x1F39E",
+    "shortcode": "film_frames"
+  },
+  {
+    "id": "film-projector",
+    "label": "Film Projector",
+    "codepoint": "0x1F4FD",
+    "shortcode": "film_projector"
+  },
+  {
+    "id": "clapper-board",
+    "label": "Clapper Board",
+    "codepoint": "0x1F3AC",
+    "shortcode": "clapper_board"
+  },
+  {
+    "id": "television",
+    "label": "Television",
+    "codepoint": "0x1F4FA",
+    "shortcode": "television"
+  },
+  {
+    "id": "camera",
+    "label": "Camera",
+    "codepoint": "0x1F4F7",
+    "shortcode": "camera"
+  },
+  {
+    "id": "camera-with-flash",
+    "label": "Camera with Flash",
+    "codepoint": "0x1F4F8",
+    "shortcode": "camera_with_flash"
+  },
+  {
+    "id": "video-camera",
+    "label": "Video Camera",
+    "codepoint": "0x1F4F9",
+    "shortcode": "video_camera"
+  },
+  {
+    "id": "videocassette",
+    "label": "Videocassette",
+    "codepoint": "0x1F4FC",
+    "shortcode": "videocassette"
+  },
+  {
+    "id": "magnifying-glass-tilted-left",
+    "label": "Magnifying Glass Tilted Left",
+    "codepoint": "0x1F50D",
+    "shortcode": "magnifying_glass_tilted_left"
+  },
+  {
+    "id": "magnifying-glass-tilted-right",
+    "label": "Magnifying Glass Tilted Right",
+    "codepoint": "0x1F50E",
+    "shortcode": "magnifying_glass_tilted_right"
+  },
+  {
+    "id": "candle",
+    "label": "Candle",
+    "codepoint": "0x1F56F",
+    "shortcode": "candle"
+  },
+  {
+    "id": "light-bulb",
+    "label": "Light Bulb",
+    "codepoint": "0x1F4A1",
+    "shortcode": "light_bulb"
+  },
+  {
+    "id": "flashlight",
+    "label": "Flashlight",
+    "codepoint": "0x1F526",
+    "shortcode": "flashlight"
+  },
+  {
+    "id": "red-paper-lantern",
+    "label": "Red Paper Lantern",
+    "codepoint": "0x1F3EE",
+    "shortcode": "red_paper_lantern"
+  },
+  {
+    "id": "notebook-with-decorative-cover",
+    "label": "Notebook with Decorative Cover",
+    "codepoint": "0x1F4D4",
+    "shortcode": "notebook_with_decorative_cover"
+  },
+  {
+    "id": "closed-book",
+    "label": "Closed Book",
+    "codepoint": "0x1F4D5",
+    "shortcode": "closed_book"
+  },
+  {
+    "id": "open-book",
+    "label": "Open Book",
+    "codepoint": "0x1F4D6",
+    "shortcode": "open_book"
+  },
+  {
+    "id": "green-book",
+    "label": "Green Book",
+    "codepoint": "0x1F4D7",
+    "shortcode": "green_book"
+  },
+  {
+    "id": "blue-book",
+    "label": "Blue Book",
+    "codepoint": "0x1F4D8",
+    "shortcode": "blue_book"
+  },
+  {
+    "id": "orange-book",
+    "label": "Orange Book",
+    "codepoint": "0x1F4D9",
+    "shortcode": "orange_book"
+  },
+  {
+    "id": "books",
+    "label": "Books",
+    "codepoint": "0x1F4DA",
+    "shortcode": "books"
+  },
+  {
+    "id": "notebook",
+    "label": "Notebook",
+    "codepoint": "0x1F4D3",
+    "shortcode": "notebook"
+  },
+  {
+    "id": "ledger",
+    "label": "Ledger",
+    "codepoint": "0x1F4D2",
+    "shortcode": "ledger"
+  },
+  {
+    "id": "page-with-curl",
+    "label": "Page with Curl",
+    "codepoint": "0x1F4C3",
+    "shortcode": "page_with_curl"
+  },
+  {
+    "id": "scroll",
+    "label": "Scroll",
+    "codepoint": "0x1F4DC",
+    "shortcode": "scroll"
+  },
+  {
+    "id": "page-facing-up",
+    "label": "Page Facing Up",
+    "codepoint": "0x1F4C4",
+    "shortcode": "page_facing_up"
+  },
+  {
+    "id": "newspaper",
+    "label": "Newspaper",
+    "codepoint": "0x1F4F0",
+    "shortcode": "newspaper"
+  },
+  {
+    "id": "rolled-up-newspaper",
+    "label": "Rolled-Up Newspaper",
+    "codepoint": "0x1F5DE",
+    "shortcode": "rolled_up_newspaper"
+  },
+  {
+    "id": "bookmark-tabs",
+    "label": "Bookmark Tabs",
+    "codepoint": "0x1F4D1",
+    "shortcode": "bookmark_tabs"
+  },
+  {
+    "id": "bookmark",
+    "label": "Bookmark",
+    "codepoint": "0x1F516",
+    "shortcode": "bookmark"
+  },
+  {
+    "id": "label",
+    "label": "Label",
+    "codepoint": "0x1F3F7",
+    "shortcode": "label"
+  },
+  {
+    "id": "money-bag",
+    "label": "Money Bag",
+    "codepoint": "0x1F4B0",
+    "shortcode": "money_bag"
+  },
+  {
+    "id": "yen-banknote",
+    "label": "Yen Banknote",
+    "codepoint": "0x1F4B4",
+    "shortcode": "yen_banknote"
+  },
+  {
+    "id": "dollar-banknote",
+    "label": "Dollar Banknote",
+    "codepoint": "0x1F4B5",
+    "shortcode": "dollar_banknote"
+  },
+  {
+    "id": "euro-banknote",
+    "label": "Euro Banknote",
+    "codepoint": "0x1F4B6",
+    "shortcode": "euro_banknote"
+  },
+  {
+    "id": "pound-banknote",
+    "label": "Pound Banknote",
+    "codepoint": "0x1F4B7",
+    "shortcode": "pound_banknote"
+  },
+  {
+    "id": "money-with-wings",
+    "label": "Money with Wings",
+    "codepoint": "0x1F4B8",
+    "shortcode": "money_with_wings"
+  },
+  {
+    "id": "credit-card",
+    "label": "Credit Card",
+    "codepoint": "0x1F4B3",
+    "shortcode": "credit_card"
+  },
+  {
+    "id": "chart-increasing-with-yen",
+    "label": "Chart Increasing with Yen",
+    "codepoint": "0x1F4B9",
+    "shortcode": "chart_increasing_with_yen"
+  },
+  {
+    "id": "envelope",
+    "label": "Envelope",
+    "codepoint": "0x2709",
+    "shortcode": "envelope"
+  },
+  {
+    "id": "e-mail",
+    "label": "E-Mail",
+    "codepoint": "0x1F4E7",
+    "shortcode": "e_mail"
+  },
+  {
+    "id": "incoming-envelope",
+    "label": "Incoming Envelope",
+    "codepoint": "0x1F4E8",
+    "shortcode": "incoming_envelope"
+  },
+  {
+    "id": "envelope-with-arrow",
+    "label": "Envelope with Arrow",
+    "codepoint": "0x1F4E9",
+    "shortcode": "envelope_with_arrow"
+  },
+  {
+    "id": "outbox-tray",
+    "label": "Outbox Tray",
+    "codepoint": "0x1F4E4",
+    "shortcode": "outbox_tray"
+  },
+  {
+    "id": "inbox-tray",
+    "label": "Inbox Tray",
+    "codepoint": "0x1F4E5",
+    "shortcode": "inbox_tray"
+  },
+  {
+    "id": "package",
+    "label": "Package",
+    "codepoint": "0x1F4E6",
+    "shortcode": "package"
+  },
+  {
+    "id": "closed-mailbox-with-raised-flag",
+    "label": "Closed Mailbox with Raised Flag",
+    "codepoint": "0x1F4EB",
+    "shortcode": "closed_mailbox_with_raised_flag"
+  },
+  {
+    "id": "closed-mailbox-with-lowered-flag",
+    "label": "Closed Mailbox with Lowered Flag",
+    "codepoint": "0x1F4EA",
+    "shortcode": "closed_mailbox_with_lowered_flag"
+  },
+  {
+    "id": "open-mailbox-with-raised-flag",
+    "label": "Open Mailbox with Raised Flag",
+    "codepoint": "0x1F4EC",
+    "shortcode": "open_mailbox_with_raised_flag"
+  },
+  {
+    "id": "open-mailbox-with-lowered-flag",
+    "label": "Open Mailbox with Lowered Flag",
+    "codepoint": "0x1F4ED",
+    "shortcode": "open_mailbox_with_lowered_flag"
+  },
+  {
+    "id": "postbox",
+    "label": "Postbox",
+    "codepoint": "0x1F4EE",
+    "shortcode": "postbox"
+  },
+  {
+    "id": "ballot-box-with-ballot",
+    "label": "Ballot Box with Ballot",
+    "codepoint": "0x1F5F3",
+    "shortcode": "ballot_box_with_ballot"
+  },
+  {
+    "id": "pencil",
+    "label": "Pencil",
+    "codepoint": "0x270F",
+    "shortcode": "pencil"
+  },
+  {
+    "id": "black-nib",
+    "label": "Black Nib",
+    "codepoint": "0x2712",
+    "shortcode": "black_nib"
+  },
+  {
+    "id": "fountain-pen",
+    "label": "Fountain Pen",
+    "codepoint": "0x1F58B",
+    "shortcode": "fountain_pen"
+  },
+  {
+    "id": "pen",
+    "label": "Pen",
+    "codepoint": "0x1F58A",
+    "shortcode": "pen"
+  },
+  {
+    "id": "paintbrush",
+    "label": "Paintbrush",
+    "codepoint": "0x1F58C",
+    "shortcode": "paintbrush"
+  },
+  {
+    "id": "crayon",
+    "label": "Crayon",
+    "codepoint": "0x1F58D",
+    "shortcode": "crayon"
+  },
+  {
+    "id": "memo",
+    "label": "Memo",
+    "codepoint": "0x1F4DD",
+    "shortcode": "memo"
+  },
+  {
+    "id": "briefcase",
+    "label": "Briefcase",
+    "codepoint": "0x1F4BC",
+    "shortcode": "briefcase"
+  },
+  {
+    "id": "file-folder",
+    "label": "File Folder",
+    "codepoint": "0x1F4C1",
+    "shortcode": "file_folder"
+  },
+  {
+    "id": "open-file-folder",
+    "label": "Open File Folder",
+    "codepoint": "0x1F4C2",
+    "shortcode": "open_file_folder"
+  },
+  {
+    "id": "card-index-dividers",
+    "label": "Card Index Dividers",
+    "codepoint": "0x1F5C2",
+    "shortcode": "card_index_dividers"
+  },
+  {
+    "id": "calendar",
+    "label": "Calendar",
+    "codepoint": "0x1F4C5",
+    "shortcode": "calendar"
+  },
+  {
+    "id": "tear-off-calendar",
+    "label": "Tear-Off Calendar",
+    "codepoint": "0x1F4C6",
+    "shortcode": "tear_off_calendar"
+  },
+  {
+    "id": "spiral-notepad",
+    "label": "Spiral Notepad",
+    "codepoint": "0x1F5D2",
+    "shortcode": "spiral_notepad"
+  },
+  {
+    "id": "spiral-calendar",
+    "label": "Spiral Calendar",
+    "codepoint": "0x1F5D3",
+    "shortcode": "spiral_calendar"
+  },
+  {
+    "id": "card-index",
+    "label": "Card Index",
+    "codepoint": "0x1F4C7",
+    "shortcode": "card_index"
+  },
+  {
+    "id": "chart-increasing",
+    "label": "Chart Increasing",
+    "codepoint": "0x1F4C8",
+    "shortcode": "chart_increasing"
+  },
+  {
+    "id": "chart-decreasing",
+    "label": "Chart Decreasing",
+    "codepoint": "0x1F4C9",
+    "shortcode": "chart_decreasing"
+  },
+  {
+    "id": "bar-chart",
+    "label": "Bar Chart",
+    "codepoint": "0x1F4CA",
+    "shortcode": "bar_chart"
+  },
+  {
+    "id": "clipboard",
+    "label": "Clipboard",
+    "codepoint": "0x1F4CB",
+    "shortcode": "clipboard"
+  },
+  {
+    "id": "pushpin",
+    "label": "Pushpin",
+    "codepoint": "0x1F4CC",
+    "shortcode": "pushpin"
+  },
+  {
+    "id": "round-pushpin",
+    "label": "Round Pushpin",
+    "codepoint": "0x1F4CD",
+    "shortcode": "round_pushpin"
+  },
+  {
+    "id": "paperclip",
+    "label": "Paperclip",
+    "codepoint": "0x1F4CE",
+    "shortcode": "paperclip"
+  },
+  {
+    "id": "linked-paperclips",
+    "label": "Linked Paperclips",
+    "codepoint": "0x1F587",
+    "shortcode": "linked_paperclips"
+  },
+  {
+    "id": "straight-ruler",
+    "label": "Straight Ruler",
+    "codepoint": "0x1F4CF",
+    "shortcode": "straight_ruler"
+  },
+  {
+    "id": "triangular-ruler",
+    "label": "Triangular Ruler",
+    "codepoint": "0x1F4D0",
+    "shortcode": "triangular_ruler"
+  },
+  {
+    "id": "scissors",
+    "label": "Scissors",
+    "codepoint": "0x2702",
+    "shortcode": "scissors"
+  },
+  {
+    "id": "card-file-box",
+    "label": "Card File Box",
+    "codepoint": "0x1F5C3",
+    "shortcode": "card_file_box"
+  },
+  {
+    "id": "file-cabinet",
+    "label": "File Cabinet",
+    "codepoint": "0x1F5C4",
+    "shortcode": "file_cabinet"
+  },
+  {
+    "id": "wastebasket",
+    "label": "Wastebasket",
+    "codepoint": "0x1F5D1",
+    "shortcode": "wastebasket"
+  },
+  {
+    "id": "locked",
+    "label": "Locked",
+    "codepoint": "0x1F512",
+    "shortcode": "locked"
+  },
+  {
+    "id": "unlocked",
+    "label": "Unlocked",
+    "codepoint": "0x1F513",
+    "shortcode": "unlocked"
+  },
+  {
+    "id": "locked-with-pen",
+    "label": "Locked with Pen",
+    "codepoint": "0x1F50F",
+    "shortcode": "locked_with_pen"
+  },
+  {
+    "id": "locked-with-key",
+    "label": "Locked with Key",
+    "codepoint": "0x1F510",
+    "shortcode": "locked_with_key"
+  },
+  {
+    "id": "key",
+    "label": "Key",
+    "codepoint": "0x1F511",
+    "shortcode": "key"
+  },
+  {
+    "id": "old-key",
+    "label": "Old Key",
+    "codepoint": "0x1F5DD",
+    "shortcode": "old_key"
+  },
+  {
+    "id": "hammer",
+    "label": "Hammer",
+    "codepoint": "0x1F528",
+    "shortcode": "hammer"
+  },
+  {
+    "id": "pick",
+    "label": "Pick",
+    "codepoint": "0x26CF",
+    "shortcode": "pick"
+  },
+  {
+    "id": "hammer-and-pick",
+    "label": "Hammer and Pick",
+    "codepoint": "0x2692",
+    "shortcode": "hammer_and_pick"
+  },
+  {
+    "id": "hammer-and-wrench",
+    "label": "Hammer and Wrench",
+    "codepoint": "0x1F6E0",
+    "shortcode": "hammer_and_wrench"
+  },
+  {
+    "id": "dagger",
+    "label": "Dagger",
+    "codepoint": "0x1F5E1",
+    "shortcode": "dagger"
+  },
+  {
+    "id": "crossed-swords",
+    "label": "Crossed Swords",
+    "codepoint": "0x2694",
+    "shortcode": "crossed_swords"
+  },
+  {
+    "id": "bomb",
+    "label": "Bomb",
+    "codepoint": "0x1F4A3",
+    "shortcode": "bomb"
+  },
+  {
+    "id": "bow-and-arrow",
+    "label": "Bow and Arrow",
+    "codepoint": "0x1F3F9",
+    "shortcode": "bow_and_arrow"
+  },
+  {
+    "id": "shield",
+    "label": "Shield",
+    "codepoint": "0x1F6E1",
+    "shortcode": "shield"
+  },
+  {
+    "id": "wrench",
+    "label": "Wrench",
+    "codepoint": "0x1F527",
+    "shortcode": "wrench"
+  },
+  {
+    "id": "nut-and-bolt",
+    "label": "Nut and Bolt",
+    "codepoint": "0x1F529",
+    "shortcode": "nut_and_bolt"
+  },
+  {
+    "id": "gear",
+    "label": "Gear",
+    "codepoint": "0x2699",
+    "shortcode": "gear"
+  },
+  {
+    "id": "clamp",
+    "label": "Clamp",
+    "codepoint": "0x1F5DC",
+    "shortcode": "clamp"
+  },
+  {
+    "id": "balance-scale",
+    "label": "Balance Scale",
+    "codepoint": "0x2696",
+    "shortcode": "balance_scale"
+  },
+  {
+    "id": "link",
+    "label": "Link",
+    "codepoint": "0x1F517",
+    "shortcode": "link"
+  },
+  {
+    "id": "chains",
+    "label": "Chains",
+    "codepoint": "0x26D3",
+    "shortcode": "chains"
+  },
+  {
+    "id": "alembic",
+    "label": "Alembic",
+    "codepoint": "0x2697",
+    "shortcode": "alembic"
+  },
+  {
+    "id": "microscope",
+    "label": "Microscope",
+    "codepoint": "0x1F52C",
+    "shortcode": "microscope"
+  },
+  {
+    "id": "telescope",
+    "label": "Telescope",
+    "codepoint": "0x1F52D",
+    "shortcode": "telescope"
+  },
+  {
+    "id": "satellite-antenna",
+    "label": "Satellite Antenna",
+    "codepoint": "0x1F4E1",
+    "shortcode": "satellite_antenna"
+  },
+  {
+    "id": "syringe",
+    "label": "Syringe",
+    "codepoint": "0x1F489",
+    "shortcode": "syringe"
+  },
+  {
+    "id": "pill",
+    "label": "Pill",
+    "codepoint": "0x1F48A",
+    "shortcode": "pill"
+  },
+  {
+    "id": "door",
+    "label": "Door",
+    "codepoint": "0x1F6AA",
+    "shortcode": "door"
+  },
+  {
+    "id": "bed",
+    "label": "Bed",
+    "codepoint": "0x1F6CF",
+    "shortcode": "bed"
+  },
+  {
+    "id": "couch-and-lamp",
+    "label": "Couch and Lamp",
+    "codepoint": "0x1F6CB",
+    "shortcode": "couch_and_lamp"
+  },
+  {
+    "id": "toilet",
+    "label": "Toilet",
+    "codepoint": "0x1F6BD",
+    "shortcode": "toilet"
+  },
+  {
+    "id": "shower",
+    "label": "Shower",
+    "codepoint": "0x1F6BF",
+    "shortcode": "shower"
+  },
+  {
+    "id": "bathtub",
+    "label": "Bathtub",
+    "codepoint": "0x1F6C1",
+    "shortcode": "bathtub"
+  },
+  {
+    "id": "cigarette",
+    "label": "Cigarette",
+    "codepoint": "0x1F6AC",
+    "shortcode": "cigarette"
+  },
+  {
+    "id": "coffin",
+    "label": "Coffin",
+    "codepoint": "0x26B0",
+    "shortcode": "coffin"
+  },
+  {
+    "id": "funeral-urn",
+    "label": "Funeral Urn",
+    "codepoint": "0x26B1",
+    "shortcode": "funeral_urn"
+  },
+  {
+    "id": "moai",
+    "label": "Moai",
+    "codepoint": "0x1F5FF",
+    "shortcode": "moai"
+  },
+  {
+    "id": "atm-sign",
+    "label": "ATM Sign",
+    "codepoint": "0x1F3E7",
+    "shortcode": "atm_sign"
+  },
+  {
+    "id": "litter-in-bin-sign",
+    "label": "Litter in Bin Sign",
+    "codepoint": "0x1F6AE",
+    "shortcode": "litter_in_bin_sign"
+  },
+  {
+    "id": "potable-water",
+    "label": "Potable Water",
+    "codepoint": "0x1F6B0",
+    "shortcode": "potable_water"
+  },
+  {
+    "id": "wheelchair-symbol",
+    "label": "Wheelchair Symbol",
+    "codepoint": "0x267F",
+    "shortcode": "wheelchair_symbol"
+  },
+  {
+    "id": "mens-room",
+    "label": "Men’s Room",
+    "codepoint": "0x1F6B9",
+    "shortcode": "mens_room"
+  },
+  {
+    "id": "womens-room",
+    "label": "Women’s Room",
+    "codepoint": "0x1F6BA",
+    "shortcode": "womens_room"
+  },
+  {
+    "id": "restroom",
+    "label": "Restroom",
+    "codepoint": "0x1F6BB",
+    "shortcode": "restroom"
+  },
+  {
+    "id": "baby-symbol",
+    "label": "Baby Symbol",
+    "codepoint": "0x1F6BC",
+    "shortcode": "baby_symbol"
+  },
+  {
+    "id": "water-closet",
+    "label": "Water Closet",
+    "codepoint": "0x1F6BE",
+    "shortcode": "water_closet"
+  },
+  {
+    "id": "passport-control",
+    "label": "Passport Control",
+    "codepoint": "0x1F6C2",
+    "shortcode": "passport_control"
+  },
+  {
+    "id": "customs",
+    "label": "Customs",
+    "codepoint": "0x1F6C3",
+    "shortcode": "customs"
+  },
+  {
+    "id": "baggage-claim",
+    "label": "Baggage Claim",
+    "codepoint": "0x1F6C4",
+    "shortcode": "baggage_claim"
+  },
+  {
+    "id": "left-luggage",
+    "label": "Left Luggage",
+    "codepoint": "0x1F6C5",
+    "shortcode": "left_luggage"
+  },
+  {
+    "id": "warning",
+    "label": "Warning",
+    "codepoint": "0x26A0",
+    "shortcode": "warning"
+  },
+  {
+    "id": "children-crossing",
+    "label": "Children Crossing",
+    "codepoint": "0x1F6B8",
+    "shortcode": "children_crossing"
+  },
+  {
+    "id": "no-entry",
+    "label": "No Entry",
+    "codepoint": "0x26D4",
+    "shortcode": "no_entry"
+  },
+  {
+    "id": "prohibited",
+    "label": "Prohibited",
+    "codepoint": "0x1F6AB",
+    "shortcode": "prohibited"
+  },
+  {
+    "id": "no-bicycles",
+    "label": "No Bicycles",
+    "codepoint": "0x1F6B3",
+    "shortcode": "no_bicycles"
+  },
+  {
+    "id": "no-smoking",
+    "label": "No Smoking",
+    "codepoint": "0x1F6AD",
+    "shortcode": "no_smoking"
+  },
+  {
+    "id": "no-littering",
+    "label": "No Littering",
+    "codepoint": "0x1F6AF",
+    "shortcode": "no_littering"
+  },
+  {
+    "id": "non-potable-water",
+    "label": "Non-Potable Water",
+    "codepoint": "0x1F6B1",
+    "shortcode": "non_potable_water"
+  },
+  {
+    "id": "no-pedestrians",
+    "label": "No Pedestrians",
+    "codepoint": "0x1F6B7",
+    "shortcode": "no_pedestrians"
+  },
+  {
+    "id": "no-mobile-phones",
+    "label": "No Mobile Phones",
+    "codepoint": "0x1F4F5",
+    "shortcode": "no_mobile_phones"
+  },
+  {
+    "id": "no-one-under-eighteen",
+    "label": "No One Under Eighteen",
+    "codepoint": "0x1F51E",
+    "shortcode": "no_one_under_eighteen"
+  },
+  {
+    "id": "radioactive",
+    "label": "Radioactive",
+    "codepoint": "0x2622",
+    "shortcode": "radioactive"
+  },
+  {
+    "id": "biohazard",
+    "label": "Biohazard",
+    "codepoint": "0x2623",
+    "shortcode": "biohazard"
+  },
+  {
+    "id": "up-arrow",
+    "label": "Up Arrow",
+    "codepoint": "0x2B06",
+    "shortcode": "up_arrow"
+  },
+  {
+    "id": "up-right-arrow",
+    "label": "Up-Right Arrow",
+    "codepoint": "0x2197",
+    "shortcode": "up_right_arrow"
+  },
+  {
+    "id": "right-arrow",
+    "label": "Right Arrow",
+    "codepoint": "0x27A1",
+    "shortcode": "right_arrow"
+  },
+  {
+    "id": "down-right-arrow",
+    "label": "Down-Right Arrow",
+    "codepoint": "0x2198",
+    "shortcode": "down_right_arrow"
+  },
+  {
+    "id": "down-arrow",
+    "label": "Down Arrow",
+    "codepoint": "0x2B07",
+    "shortcode": "down_arrow"
+  },
+  {
+    "id": "down-left-arrow",
+    "label": "Down-Left Arrow",
+    "codepoint": "0x2199",
+    "shortcode": "down_left_arrow"
+  },
+  {
+    "id": "left-arrow",
+    "label": "Left Arrow",
+    "codepoint": "0x2B05",
+    "shortcode": "left_arrow"
+  },
+  {
+    "id": "up-left-arrow",
+    "label": "Up-Left Arrow",
+    "codepoint": "0x2196",
+    "shortcode": "up_left_arrow"
+  },
+  {
+    "id": "up-down-arrow",
+    "label": "Up-Down Arrow",
+    "codepoint": "0x2195",
+    "shortcode": "up_down_arrow"
+  },
+  {
+    "id": "left-right-arrow",
+    "label": "Left-Right Arrow",
+    "codepoint": "0x2194",
+    "shortcode": "left_right_arrow"
+  },
+  {
+    "id": "right-arrow-curving-left",
+    "label": "Right Arrow Curving Left",
+    "codepoint": "0x21A9",
+    "shortcode": "right_arrow_curving_left"
+  },
+  {
+    "id": "left-arrow-curving-right",
+    "label": "Left Arrow Curving Right",
+    "codepoint": "0x21AA",
+    "shortcode": "left_arrow_curving_right"
+  },
+  {
+    "id": "right-arrow-curving-up",
+    "label": "Right Arrow Curving Up",
+    "codepoint": "0x2934",
+    "shortcode": "right_arrow_curving_up"
+  },
+  {
+    "id": "right-arrow-curving-down",
+    "label": "Right Arrow Curving Down",
+    "codepoint": "0x2935",
+    "shortcode": "right_arrow_curving_down"
+  },
+  {
+    "id": "clockwise-vertical-arrows",
+    "label": "Clockwise Vertical Arrows",
+    "codepoint": "0x1F503",
+    "shortcode": "clockwise_vertical_arrows"
+  },
+  {
+    "id": "counterclockwise-arrows-button",
+    "label": "Counterclockwise Arrows Button",
+    "codepoint": "0x1F504",
+    "shortcode": "counterclockwise_arrows_button"
+  },
+  {
+    "id": "back-arrow",
+    "label": "Back Arrow",
+    "codepoint": "0x1F519",
+    "shortcode": "back_arrow"
+  },
+  {
+    "id": "end-arrow",
+    "label": "End Arrow",
+    "codepoint": "0x1F51A",
+    "shortcode": "end_arrow"
+  },
+  {
+    "id": "on-arrow",
+    "label": "On! Arrow",
+    "codepoint": "0x1F51B",
+    "shortcode": "on_arrow"
+  },
+  {
+    "id": "soon-arrow",
+    "label": "Soon Arrow",
+    "codepoint": "0x1F51C",
+    "shortcode": "soon_arrow"
+  },
+  {
+    "id": "top-arrow",
+    "label": "Top Arrow",
+    "codepoint": "0x1F51D",
+    "shortcode": "top_arrow"
+  },
+  {
+    "id": "place-of-worship",
+    "label": "Place of Worship",
+    "codepoint": "0x1F6D0",
+    "shortcode": "place_of_worship"
+  },
+  {
+    "id": "atom-symbol",
+    "label": "Atom Symbol",
+    "codepoint": "0x269B",
+    "shortcode": "atom_symbol"
+  },
+  {
+    "id": "om",
+    "label": "Om",
+    "codepoint": "0x1F549",
+    "shortcode": "om"
+  },
+  {
+    "id": "star-of-david",
+    "label": "Star of David",
+    "codepoint": "0x2721",
+    "shortcode": "star_of_david"
+  },
+  {
+    "id": "wheel-of-dharma",
+    "label": "Wheel of Dharma",
+    "codepoint": "0x2638",
+    "shortcode": "wheel_of_dharma"
+  },
+  {
+    "id": "yin-yang",
+    "label": "Yin Yang",
+    "codepoint": "0x262F",
+    "shortcode": "yin_yang"
+  },
+  {
+    "id": "latin-cross",
+    "label": "Latin Cross",
+    "codepoint": "0x271D",
+    "shortcode": "latin_cross"
+  },
+  {
+    "id": "orthodox-cross",
+    "label": "Orthodox Cross",
+    "codepoint": "0x2626",
+    "shortcode": "orthodox_cross"
+  },
+  {
+    "id": "star-and-crescent",
+    "label": "Star and Crescent",
+    "codepoint": "0x262A",
+    "shortcode": "star_and_crescent"
+  },
+  {
+    "id": "peace-symbol",
+    "label": "Peace Symbol",
+    "codepoint": "0x262E",
+    "shortcode": "peace_symbol"
+  },
+  {
+    "id": "menorah",
+    "label": "Menorah",
+    "codepoint": "0x1F54E",
+    "shortcode": "menorah"
+  },
+  {
+    "id": "dotted-six-pointed-star",
+    "label": "Dotted Six-Pointed Star",
+    "codepoint": "0x1F52F",
+    "shortcode": "dotted_six_pointed_star"
+  },
+  {
+    "id": "aries",
+    "label": "Aries",
+    "codepoint": "0x2648",
+    "shortcode": "aries"
+  },
+  {
+    "id": "taurus",
+    "label": "Taurus",
+    "codepoint": "0x2649",
+    "shortcode": "taurus"
+  },
+  {
+    "id": "gemini",
+    "label": "Gemini",
+    "codepoint": "0x264A",
+    "shortcode": "gemini"
+  },
+  {
+    "id": "cancer",
+    "label": "Cancer",
+    "codepoint": "0x264B",
+    "shortcode": "cancer"
+  },
+  {
+    "id": "leo",
+    "label": "Leo",
+    "codepoint": "0x264C",
+    "shortcode": "leo"
+  },
+  {
+    "id": "virgo",
+    "label": "Virgo",
+    "codepoint": "0x264D",
+    "shortcode": "virgo"
+  },
+  {
+    "id": "libra",
+    "label": "Libra",
+    "codepoint": "0x264E",
+    "shortcode": "libra"
+  },
+  {
+    "id": "scorpio",
+    "label": "Scorpio",
+    "codepoint": "0x264F",
+    "shortcode": "scorpio"
+  },
+  {
+    "id": "sagittarius",
+    "label": "Sagittarius",
+    "codepoint": "0x2650",
+    "shortcode": "sagittarius"
+  },
+  {
+    "id": "capricorn",
+    "label": "Capricorn",
+    "codepoint": "0x2651",
+    "shortcode": "capricorn"
+  },
+  {
+    "id": "aquarius",
+    "label": "Aquarius",
+    "codepoint": "0x2652",
+    "shortcode": "aquarius"
+  },
+  {
+    "id": "pisces",
+    "label": "Pisces",
+    "codepoint": "0x2653",
+    "shortcode": "pisces"
+  },
+  {
+    "id": "ophiuchus",
+    "label": "Ophiuchus",
+    "codepoint": "0x26CE",
+    "shortcode": "ophiuchus"
+  },
+  {
+    "id": "shuffle-tracks-button",
+    "label": "Shuffle Tracks Button",
+    "codepoint": "0x1F500",
+    "shortcode": "shuffle_tracks_button"
+  },
+  {
+    "id": "repeat-button",
+    "label": "Repeat Button",
+    "codepoint": "0x1F501",
+    "shortcode": "repeat_button"
+  },
+  {
+    "id": "repeat-single-button",
+    "label": "Repeat Single Button",
+    "codepoint": "0x1F502",
+    "shortcode": "repeat_single_button"
+  },
+  {
+    "id": "play-button",
+    "label": "Play Button",
+    "codepoint": "0x25B6",
+    "shortcode": "play_button"
+  },
+  {
+    "id": "fast-forward-button",
+    "label": "Fast-Forward Button",
+    "codepoint": "0x23E9",
+    "shortcode": "fast_forward_button"
+  },
+  {
+    "id": "next-track-button",
+    "label": "Next Track Button",
+    "codepoint": "0x23ED",
+    "shortcode": "next_track_button"
+  },
+  {
+    "id": "play-or-pause-button",
+    "label": "Play or Pause Button",
+    "codepoint": "0x23EF",
+    "shortcode": "play_or_pause_button"
+  },
+  {
+    "id": "reverse-button",
+    "label": "Reverse Button",
+    "codepoint": "0x25C0",
+    "shortcode": "reverse_button"
+  },
+  {
+    "id": "fast-reverse-button",
+    "label": "Fast Reverse Button",
+    "codepoint": "0x23EA",
+    "shortcode": "fast_reverse_button"
+  },
+  {
+    "id": "last-track-button",
+    "label": "Last Track Button",
+    "codepoint": "0x23EE",
+    "shortcode": "last_track_button"
+  },
+  {
+    "id": "upwards-button",
+    "label": "Upwards Button",
+    "codepoint": "0x1F53C",
+    "shortcode": "upwards_button"
+  },
+  {
+    "id": "fast-up-button",
+    "label": "Fast Up Button",
+    "codepoint": "0x23EB",
+    "shortcode": "fast_up_button"
+  },
+  {
+    "id": "downwards-button",
+    "label": "Downwards Button",
+    "codepoint": "0x1F53D",
+    "shortcode": "downwards_button"
+  },
+  {
+    "id": "fast-down-button",
+    "label": "Fast Down Button",
+    "codepoint": "0x23EC",
+    "shortcode": "fast_down_button"
+  },
+  {
+    "id": "pause-button",
+    "label": "Pause Button",
+    "codepoint": "0x23F8",
+    "shortcode": "pause_button"
+  },
+  {
+    "id": "stop-button",
+    "label": "Stop Button",
+    "codepoint": "0x23F9",
+    "shortcode": "stop_button"
+  },
+  {
+    "id": "record-button",
+    "label": "Record Button",
+    "codepoint": "0x23FA",
+    "shortcode": "record_button"
+  },
+  {
+    "id": "eject-button",
+    "label": "Eject Button",
+    "codepoint": "0x23CF",
+    "shortcode": "eject_button"
+  },
+  {
+    "id": "cinema",
+    "label": "Cinema",
+    "codepoint": "0x1F3A6",
+    "shortcode": "cinema"
+  },
+  {
+    "id": "dim-button",
+    "label": "Dim Button",
+    "codepoint": "0x1F505",
+    "shortcode": "dim_button"
+  },
+  {
+    "id": "bright-button",
+    "label": "Bright Button",
+    "codepoint": "0x1F506",
+    "shortcode": "bright_button"
+  },
+  {
+    "id": "antenna-bars",
+    "label": "Antenna Bars",
+    "codepoint": "0x1F4F6",
+    "shortcode": "antenna_bars"
+  },
+  {
+    "id": "vibration-mode",
+    "label": "Vibration Mode",
+    "codepoint": "0x1F4F3",
+    "shortcode": "vibration_mode"
+  },
+  {
+    "id": "mobile-phone-off",
+    "label": "Mobile Phone Off",
+    "codepoint": "0x1F4F4",
+    "shortcode": "mobile_phone_off"
+  },
+  {
+    "id": "multiply",
+    "label": "Multiply",
+    "codepoint": "0x2716",
+    "shortcode": "multiply"
+  },
+  {
+    "id": "plus",
+    "label": "Plus",
+    "codepoint": "0x2795",
+    "shortcode": "plus"
+  },
+  {
+    "id": "minus",
+    "label": "Minus",
+    "codepoint": "0x2796",
+    "shortcode": "minus"
+  },
+  {
+    "id": "divide",
+    "label": "Divide",
+    "codepoint": "0x2797",
+    "shortcode": "divide"
+  },
+  {
+    "id": "double-exclamation-mark",
+    "label": "Double Exclamation Mark",
+    "codepoint": "0x203C",
+    "shortcode": "double_exclamation_mark"
+  },
+  {
+    "id": "exclamation-question-mark",
+    "label": "Exclamation Question Mark",
+    "codepoint": "0x2049",
+    "shortcode": "exclamation_question_mark"
+  },
+  {
+    "id": "question-mark",
+    "label": "Red Question Mark",
+    "codepoint": "0x2753",
+    "shortcode": "question_mark"
+  },
+  {
+    "id": "white-question-mark",
+    "label": "White Question Mark",
+    "codepoint": "0x2754",
+    "shortcode": "white_question_mark"
+  },
+  {
+    "id": "white-exclamation-mark",
+    "label": "White Exclamation Mark",
+    "codepoint": "0x2755",
+    "shortcode": "white_exclamation_mark"
+  },
+  {
+    "id": "exclamation-mark",
+    "label": "Red Exclamation Mark",
+    "codepoint": "0x2757",
+    "shortcode": "exclamation_mark"
+  },
+  {
+    "id": "wavy-dash",
+    "label": "Wavy Dash",
+    "codepoint": "0x3030",
+    "shortcode": "wavy_dash"
+  },
+  {
+    "id": "currency-exchange",
+    "label": "Currency Exchange",
+    "codepoint": "0x1F4B1",
+    "shortcode": "currency_exchange"
+  },
+  {
+    "id": "heavy-dollar-sign",
+    "label": "Heavy Dollar Sign",
+    "codepoint": "0x1F4B2",
+    "shortcode": "heavy_dollar_sign"
+  },
+  {
+    "id": "recycling-symbol",
+    "label": "Recycling Symbol",
+    "codepoint": "0x267B",
+    "shortcode": "recycling_symbol"
+  },
+  {
+    "id": "fleur-de-lis",
+    "label": "Fleur-de-lis",
+    "codepoint": "0x269C",
+    "shortcode": "fleur_de_lis"
+  },
+  {
+    "id": "trident-emblem",
+    "label": "Trident Emblem",
+    "codepoint": "0x1F531",
+    "shortcode": "trident_emblem"
+  },
+  {
+    "id": "name-badge",
+    "label": "Name Badge",
+    "codepoint": "0x1F4DB",
+    "shortcode": "name_badge"
+  },
+  {
+    "id": "japanese-symbol-for-beginner",
+    "label": "Japanese Symbol for Beginner",
+    "codepoint": "0x1F530",
+    "shortcode": "japanese_symbol_for_beginner"
+  },
+  {
+    "id": "hollow-red-circle",
+    "label": "Hollow Red Circle",
+    "codepoint": "0x2B55",
+    "shortcode": "hollow_red_circle"
+  },
+  {
+    "id": "check-mark-button",
+    "label": "Check Mark Button",
+    "codepoint": "0x2705",
+    "shortcode": "check_mark_button"
+  },
+  {
+    "id": "check-box-with-check",
+    "label": "Check Box with Check",
+    "codepoint": "0x2611",
+    "shortcode": "check_box_with_check"
+  },
+  {
+    "id": "check-mark",
+    "label": "Check Mark",
+    "codepoint": "0x2714",
+    "shortcode": "check_mark"
+  },
+  {
+    "id": "cross-mark",
+    "label": "Cross Mark",
+    "codepoint": "0x274C",
+    "shortcode": "cross_mark"
+  },
+  {
+    "id": "cross-mark-button",
+    "label": "Cross Mark Button",
+    "codepoint": "0x274E",
+    "shortcode": "cross_mark_button"
+  },
+  {
+    "id": "curly-loop",
+    "label": "Curly Loop",
+    "codepoint": "0x27B0",
+    "shortcode": "curly_loop"
+  },
+  {
+    "id": "double-curly-loop",
+    "label": "Double Curly Loop",
+    "codepoint": "0x27BF",
+    "shortcode": "double_curly_loop"
+  },
+  {
+    "id": "part-alternation-mark",
+    "label": "Part Alternation Mark",
+    "codepoint": "0x303D",
+    "shortcode": "part_alternation_mark"
+  },
+  {
+    "id": "eight-spoked-asterisk",
+    "label": "Eight-Spoked Asterisk",
+    "codepoint": "0x2733",
+    "shortcode": "eight_spoked_asterisk"
+  },
+  {
+    "id": "eight-pointed-star",
+    "label": "Eight-Pointed Star",
+    "codepoint": "0x2734",
+    "shortcode": "eight_pointed_star"
+  },
+  {
+    "id": "sparkle",
+    "label": "Sparkle",
+    "codepoint": "0x2747",
+    "shortcode": "sparkle"
+  },
+  {
+    "id": "copyright",
+    "label": "Copyright",
+    "codepoint": "0xA9",
+    "shortcode": "copyright"
+  },
+  {
+    "id": "registered",
+    "label": "Registered",
+    "codepoint": "0xAE",
+    "shortcode": "registered"
+  },
+  {
+    "id": "trade-mark",
+    "label": "Trade Mark",
+    "codepoint": "0x2122",
+    "shortcode": "trade_mark"
+  },
+  {
+    "id": "keycap-10",
+    "label": "Keycap: 10",
+    "codepoint": "0x1F51F",
+    "shortcode": "keycap_10"
+  },
+  {
+    "id": "input-latin-uppercase",
+    "label": "Input Latin Uppercase",
+    "codepoint": "0x1F520",
+    "shortcode": "input_latin_uppercase"
+  },
+  {
+    "id": "input-latin-lowercase",
+    "label": "Input Latin Lowercase",
+    "codepoint": "0x1F521",
+    "shortcode": "input_latin_lowercase"
+  },
+  {
+    "id": "input-numbers",
+    "label": "Input Numbers",
+    "codepoint": "0x1F522",
+    "shortcode": "input_numbers"
+  },
+  {
+    "id": "input-symbols",
+    "label": "Input Symbols",
+    "codepoint": "0x1F523",
+    "shortcode": "input_symbols"
+  },
+  {
+    "id": "input-latin-letters",
+    "label": "Input Latin Letters",
+    "codepoint": "0x1F524",
+    "shortcode": "input_latin_letters"
+  },
+  {
+    "id": "a-button-blood-type",
+    "label": "A Button (Blood Type)",
+    "codepoint": "0x1F170",
+    "shortcode": "a_button_blood_type_"
+  },
+  {
+    "id": "ab-button-blood-type",
+    "label": "AB Button (Blood Type)",
+    "codepoint": "0x1F18E",
+    "shortcode": "ab_button_blood_type_"
+  },
+  {
+    "id": "b-button-blood-type",
+    "label": "B Button (Blood Type)",
+    "codepoint": "0x1F171",
+    "shortcode": "b_button_blood_type_"
+  },
+  {
+    "id": "cl-button",
+    "label": "CL Button",
+    "codepoint": "0x1F191",
+    "shortcode": "cl_button"
+  },
+  {
+    "id": "cool-button",
+    "label": "Cool Button",
+    "codepoint": "0x1F192",
+    "shortcode": "cool_button"
+  },
+  {
+    "id": "free-button",
+    "label": "Free Button",
+    "codepoint": "0x1F193",
+    "shortcode": "free_button"
+  },
+  {
+    "id": "information",
+    "label": "Information",
+    "codepoint": "0x2139",
+    "shortcode": "information"
+  },
+  {
+    "id": "id-button",
+    "label": "ID Button",
+    "codepoint": "0x1F194",
+    "shortcode": "id_button"
+  },
+  {
+    "id": "circled-m",
+    "label": "Circled M",
+    "codepoint": "0x24C2",
+    "shortcode": "circled_m"
+  },
+  {
+    "id": "new-button",
+    "label": "New Button",
+    "codepoint": "0x1F195",
+    "shortcode": "new_button"
+  },
+  {
+    "id": "ng-button",
+    "label": "NG Button",
+    "codepoint": "0x1F196",
+    "shortcode": "ng_button"
+  },
+  {
+    "id": "o-button-blood-type",
+    "label": "O Button (Blood Type)",
+    "codepoint": "0x1F17E",
+    "shortcode": "o_button_blood_type_"
+  },
+  {
+    "id": "ok-button",
+    "label": "OK Button",
+    "codepoint": "0x1F197",
+    "shortcode": "ok_button"
+  },
+  {
+    "id": "p-button",
+    "label": "P Button",
+    "codepoint": "0x1F17F",
+    "shortcode": "p_button"
+  },
+  {
+    "id": "sos-button",
+    "label": "SOS Button",
+    "codepoint": "0x1F198",
+    "shortcode": "sos_button"
+  },
+  {
+    "id": "up-button",
+    "label": "Up! Button",
+    "codepoint": "0x1F199",
+    "shortcode": "up_button"
+  },
+  {
+    "id": "vs-button",
+    "label": "Vs Button",
+    "codepoint": "0x1F19A",
+    "shortcode": "vs_button"
+  },
+  {
+    "id": "japanese-here-button",
+    "label": "Japanese “Here” Button",
+    "codepoint": "0x1F201",
+    "shortcode": "japanese_here_button"
+  },
+  {
+    "id": "japanese-service-charge-button",
+    "label": "Japanese “Service Charge” Button",
+    "codepoint": "0x1F202",
+    "shortcode": "japanese_service_charge_button"
+  },
+  {
+    "id": "japanese-monthly-amount-button",
+    "label": "Japanese “Monthly Amount” Button",
+    "codepoint": "0x1F237",
+    "shortcode": "japanese_monthly_amount_button"
+  },
+  {
+    "id": "japanese-not-free-of-charge-button",
+    "label": "Japanese “Not Free of Charge” Button",
+    "codepoint": "0x1F236",
+    "shortcode": "japanese_not_free_of_charge_button"
+  },
+  {
+    "id": "japanese-reserved-button",
+    "label": "Japanese “Reserved” Button",
+    "codepoint": "0x1F22F",
+    "shortcode": "japanese_reserved_button"
+  },
+  {
+    "id": "japanese-bargain-button",
+    "label": "Japanese “Bargain” Button",
+    "codepoint": "0x1F250",
+    "shortcode": "japanese_bargain_button"
+  },
+  {
+    "id": "japanese-discount-button",
+    "label": "Japanese “Discount” Button",
+    "codepoint": "0x1F239",
+    "shortcode": "japanese_discount_button"
+  },
+  {
+    "id": "japanese-free-of-charge-button",
+    "label": "Japanese “Free of Charge” Button",
+    "codepoint": "0x1F21A",
+    "shortcode": "japanese_free_of_charge_button"
+  },
+  {
+    "id": "japanese-prohibited-button",
+    "label": "Japanese “Prohibited” Button",
+    "codepoint": "0x1F232",
+    "shortcode": "japanese_prohibited_button"
+  },
+  {
+    "id": "japanese-acceptable-button",
+    "label": "Japanese “Acceptable” Button",
+    "codepoint": "0x1F251",
+    "shortcode": "japanese_acceptable_button"
+  },
+  {
+    "id": "japanese-application-button",
+    "label": "Japanese “Application” Button",
+    "codepoint": "0x1F238",
+    "shortcode": "japanese_application_button"
+  },
+  {
+    "id": "japanese-passing-grade-button",
+    "label": "Japanese “Passing Grade” Button",
+    "codepoint": "0x1F234",
+    "shortcode": "japanese_passing_grade_button"
+  },
+  {
+    "id": "japanese-vacancy-button",
+    "label": "Japanese “Vacancy” Button",
+    "codepoint": "0x1F233",
+    "shortcode": "japanese_vacancy_button"
+  },
+  {
+    "id": "japanese-congratulations-button",
+    "label": "Japanese “Congratulations” Button",
+    "codepoint": "0x3297",
+    "shortcode": "japanese_congratulations_button"
+  },
+  {
+    "id": "japanese-secret-button",
+    "label": "Japanese “Secret” Button",
+    "codepoint": "0x3299",
+    "shortcode": "japanese_secret_button"
+  },
+  {
+    "id": "japanese-open-for-business-button",
+    "label": "Japanese “Open for Business” Button",
+    "codepoint": "0x1F23A",
+    "shortcode": "japanese_open_for_business_button"
+  },
+  {
+    "id": "japanese-no-vacancy-button",
+    "label": "Japanese “No Vacancy” Button",
+    "codepoint": "0x1F235",
+    "shortcode": "japanese_no_vacancy_button"
+  },
+  {
+    "id": "large-red-circle",
+    "label": "Red Circle",
+    "codepoint": "0x1F534",
+    "shortcode": "red_circle"
+  },
+  {
+    "id": "large-blue-circle",
+    "label": "Blue Circle",
+    "codepoint": "0x1F535",
+    "shortcode": "blue_circle"
+  },
+  {
+    "id": "black-circle",
+    "label": "Black Circle",
+    "codepoint": "0x26AB",
+    "shortcode": "black_circle"
+  },
+  {
+    "id": "white-circle",
+    "label": "White Circle",
+    "codepoint": "0x26AA",
+    "shortcode": "white_circle"
+  },
+  {
+    "id": "black-large-square",
+    "label": "Black Large Square",
+    "codepoint": "0x2B1B",
+    "shortcode": "black_large_square"
+  },
+  {
+    "id": "white-large-square",
+    "label": "White Large Square",
+    "codepoint": "0x2B1C",
+    "shortcode": "white_large_square"
+  },
+  {
+    "id": "black-medium-square",
+    "label": "Black Medium Square",
+    "codepoint": "0x25FC",
+    "shortcode": "black_medium_square"
+  },
+  {
+    "id": "white-medium-square",
+    "label": "White Medium Square",
+    "codepoint": "0x25FB",
+    "shortcode": "white_medium_square"
+  },
+  {
+    "id": "black-medium-small-square",
+    "label": "Black Medium-Small Square",
+    "codepoint": "0x25FE",
+    "shortcode": "black_medium_small_square"
+  },
+  {
+    "id": "white-medium-small-square",
+    "label": "White Medium-Small Square",
+    "codepoint": "0x25FD",
+    "shortcode": "white_medium_small_square"
+  },
+  {
+    "id": "black-small-square",
+    "label": "Black Small Square",
+    "codepoint": "0x25AA",
+    "shortcode": "black_small_square"
+  },
+  {
+    "id": "white-small-square",
+    "label": "White Small Square",
+    "codepoint": "0x25AB",
+    "shortcode": "white_small_square"
+  },
+  {
+    "id": "large-orange-diamond",
+    "label": "Large Orange Diamond",
+    "codepoint": "0x1F536",
+    "shortcode": "large_orange_diamond"
+  },
+  {
+    "id": "large-blue-diamond",
+    "label": "Large Blue Diamond",
+    "codepoint": "0x1F537",
+    "shortcode": "large_blue_diamond"
+  },
+  {
+    "id": "small-orange-diamond",
+    "label": "Small Orange Diamond",
+    "codepoint": "0x1F538",
+    "shortcode": "small_orange_diamond"
+  },
+  {
+    "id": "small-blue-diamond",
+    "label": "Small Blue Diamond",
+    "codepoint": "0x1F539",
+    "shortcode": "small_blue_diamond"
+  },
+  {
+    "id": "red-triangle-pointed-up",
+    "label": "Red Triangle Pointed Up",
+    "codepoint": "0x1F53A",
+    "shortcode": "red_triangle_pointed_up"
+  },
+  {
+    "id": "red-triangle-pointed-down",
+    "label": "Red Triangle Pointed Down",
+    "codepoint": "0x1F53B",
+    "shortcode": "red_triangle_pointed_down"
+  },
+  {
+    "id": "diamond-with-a-dot",
+    "label": "Diamond with a Dot",
+    "codepoint": "0x1F4A0",
+    "shortcode": "diamond_with_a_dot"
+  },
+  {
+    "id": "radio-button",
+    "label": "Radio Button",
+    "codepoint": "0x1F518",
+    "shortcode": "radio_button"
+  },
+  {
+    "id": "white-square-button",
+    "label": "White Square Button",
+    "codepoint": "0x1F533",
+    "shortcode": "white_square_button"
+  },
+  {
+    "id": "black-square-button",
+    "label": "Black Square Button",
+    "codepoint": "0x1F532",
+    "shortcode": "black_square_button"
+  },
+  {
+    "id": "chequered-flag",
+    "label": "Chequered Flag",
+    "codepoint": "0x1F3C1",
+    "shortcode": "chequered_flag"
+  },
+  {
+    "id": "triangular-flag",
+    "label": "Triangular Flag",
+    "codepoint": "0x1F6A9",
+    "shortcode": "triangular_flag"
+  },
+  {
+    "id": "crossed-flags",
+    "label": "Crossed Flags",
+    "codepoint": "0x1F38C",
+    "shortcode": "crossed_flags"
+  },
+  {
+    "id": "black-flag",
+    "label": "Black Flag",
+    "codepoint": "0x1F3F4",
+    "shortcode": "black_flag"
+  },
+  {
+    "id": "white-flag",
+    "label": "White Flag",
+    "codepoint": "0x1F3F3",
+    "shortcode": "white_flag"
+  },
+  {
+    "id": "flag-ascension-island",
+    "label": "Flag: Ascension Island",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_ascension_island"
+  },
+  {
+    "id": "flag-andorra",
+    "label": "Flag: Andorra",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_andorra"
+  },
+  {
+    "id": "flag-united-arab-emirates",
+    "label": "Flag: United Arab Emirates",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_united_arab_emirates"
+  },
+  {
+    "id": "flag-afghanistan",
+    "label": "Flag: Afghanistan",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_afghanistan"
+  },
+  {
+    "id": "flag-antigua-barbuda",
+    "label": "Flag: Antigua & Barbuda",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_antigua_barbuda"
+  },
+  {
+    "id": "flag-anguilla",
+    "label": "Flag: Anguilla",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_anguilla"
+  },
+  {
+    "id": "flag-albania",
+    "label": "Flag: Albania",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_albania"
+  },
+  {
+    "id": "flag-armenia",
+    "label": "Flag: Armenia",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_armenia"
+  },
+  {
+    "id": "flag-angola",
+    "label": "Flag: Angola",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_angola"
+  },
+  {
+    "id": "flag-antarctica",
+    "label": "Flag: Antarctica",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_antarctica"
+  },
+  {
+    "id": "flag-argentina",
+    "label": "Flag: Argentina",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_argentina"
+  },
+  {
+    "id": "flag-american-samoa",
+    "label": "Flag: American Samoa",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_american_samoa"
+  },
+  {
+    "id": "flag-austria",
+    "label": "Flag: Austria",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_austria"
+  },
+  {
+    "id": "flag-australia",
+    "label": "Flag: Australia",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_australia"
+  },
+  {
+    "id": "flag-aruba",
+    "label": "Flag: Aruba",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_aruba"
+  },
+  {
+    "id": "flag-aland-islands",
+    "label": "Flag: Åland Islands",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_aland_islands"
+  },
+  {
+    "id": "flag-azerbaijan",
+    "label": "Flag: Azerbaijan",
+    "codepoint": "0x1F1E6",
+    "shortcode": "flag_azerbaijan"
+  },
+  {
+    "id": "flag-bosnia-herzegovina",
+    "label": "Flag: Bosnia & Herzegovina",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_bosnia_herzegovina"
+  },
+  {
+    "id": "flag-barbados",
+    "label": "Flag: Barbados",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_barbados"
+  },
+  {
+    "id": "flag-bangladesh",
+    "label": "Flag: Bangladesh",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_bangladesh"
+  },
+  {
+    "id": "flag-belgium",
+    "label": "Flag: Belgium",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_belgium"
+  },
+  {
+    "id": "flag-burkina-faso",
+    "label": "Flag: Burkina Faso",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_burkina_faso"
+  },
+  {
+    "id": "flag-bulgaria",
+    "label": "Flag: Bulgaria",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_bulgaria"
+  },
+  {
+    "id": "flag-bahrain",
+    "label": "Flag: Bahrain",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_bahrain"
+  },
+  {
+    "id": "flag-burundi",
+    "label": "Flag: Burundi",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_burundi"
+  },
+  {
+    "id": "flag-benin",
+    "label": "Flag: Benin",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_benin"
+  },
+  {
+    "id": "flag-st-barthelemy",
+    "label": "Flag: St. Barthélemy",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_st_barthelemy"
+  },
+  {
+    "id": "flag-bermuda",
+    "label": "Flag: Bermuda",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_bermuda"
+  },
+  {
+    "id": "flag-brunei",
+    "label": "Flag: Brunei",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_brunei"
+  },
+  {
+    "id": "flag-bolivia",
+    "label": "Flag: Bolivia",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_bolivia"
+  },
+  {
+    "id": "flag-caribbean-netherlands",
+    "label": "Flag: Caribbean Netherlands",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_caribbean_netherlands"
+  },
+  {
+    "id": "flag-brazil",
+    "label": "Flag: Brazil",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_brazil"
+  },
+  {
+    "id": "flag-bahamas",
+    "label": "Flag: Bahamas",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_bahamas"
+  },
+  {
+    "id": "flag-bhutan",
+    "label": "Flag: Bhutan",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_bhutan"
+  },
+  {
+    "id": "flag-bouvet-island",
+    "label": "Flag: Bouvet Island",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_bouvet_island"
+  },
+  {
+    "id": "flag-botswana",
+    "label": "Flag: Botswana",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_botswana"
+  },
+  {
+    "id": "flag-belarus",
+    "label": "Flag: Belarus",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_belarus"
+  },
+  {
+    "id": "flag-belize",
+    "label": "Flag: Belize",
+    "codepoint": "0x1F1E7",
+    "shortcode": "flag_belize"
+  },
+  {
+    "id": "flag-canada",
+    "label": "Flag: Canada",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_canada"
+  },
+  {
+    "id": "flag-cocos-keeling-islands",
+    "label": "Flag: Cocos (Keeling) Islands",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_cocos_keeling_islands"
+  },
+  {
+    "id": "flag-congo-kinshasa",
+    "label": "Flag: Congo - Kinshasa",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_congo_kinshasa"
+  },
+  {
+    "id": "flag-central-african-republic",
+    "label": "Flag: Central African Republic",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_central_african_republic"
+  },
+  {
+    "id": "flag-congo-brazzaville",
+    "label": "Flag: Congo - Brazzaville",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_congo_brazzaville"
+  },
+  {
+    "id": "flag-switzerland",
+    "label": "Flag: Switzerland",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_switzerland"
+  },
+  {
+    "id": "flag-cote-divoire",
+    "label": "Flag: Côte d’Ivoire",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_cote_divoire"
+  },
+  {
+    "id": "flag-cook-islands",
+    "label": "Flag: Cook Islands",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_cook_islands"
+  },
+  {
+    "id": "flag-chile",
+    "label": "Flag: Chile",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_chile"
+  },
+  {
+    "id": "flag-cameroon",
+    "label": "Flag: Cameroon",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_cameroon"
+  },
+  {
+    "id": "flag-china",
+    "label": "Flag: China",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_china"
+  },
+  {
+    "id": "flag-colombia",
+    "label": "Flag: Colombia",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_colombia"
+  },
+  {
+    "id": "flag-clipperton-island",
+    "label": "Flag: Clipperton Island",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_clipperton_island"
+  },
+  {
+    "id": "flag-costa-rica",
+    "label": "Flag: Costa Rica",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_costa_rica"
+  },
+  {
+    "id": "flag-cuba",
+    "label": "Flag: Cuba",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_cuba"
+  },
+  {
+    "id": "flag-cape-verde",
+    "label": "Flag: Cape Verde",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_cape_verde"
+  },
+  {
+    "id": "flag-curacao",
+    "label": "Flag: Curaçao",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_curacao"
+  },
+  {
+    "id": "flag-christmas-island",
+    "label": "Flag: Christmas Island",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_christmas_island"
+  },
+  {
+    "id": "flag-cyprus",
+    "label": "Flag: Cyprus",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_cyprus"
+  },
+  {
+    "id": "flag-czechia",
+    "label": "Flag: Czechia",
+    "codepoint": "0x1F1E8",
+    "shortcode": "flag_czechia"
+  },
+  {
+    "id": "flag-germany",
+    "label": "Flag: Germany",
+    "codepoint": "0x1F1E9",
+    "shortcode": "flag_germany"
+  },
+  {
+    "id": "flag-diego-garcia",
+    "label": "Flag: Diego Garcia",
+    "codepoint": "0x1F1E9",
+    "shortcode": "flag_diego_garcia"
+  },
+  {
+    "id": "flag-djibouti",
+    "label": "Flag: Djibouti",
+    "codepoint": "0x1F1E9",
+    "shortcode": "flag_djibouti"
+  },
+  {
+    "id": "flag-denmark",
+    "label": "Flag: Denmark",
+    "codepoint": "0x1F1E9",
+    "shortcode": "flag_denmark"
+  },
+  {
+    "id": "flag-dominica",
+    "label": "Flag: Dominica",
+    "codepoint": "0x1F1E9",
+    "shortcode": "flag_dominica"
+  },
+  {
+    "id": "flag-dominican-republic",
+    "label": "Flag: Dominican Republic",
+    "codepoint": "0x1F1E9",
+    "shortcode": "flag_dominican_republic"
+  },
+  {
+    "id": "flag-algeria",
+    "label": "Flag: Algeria",
+    "codepoint": "0x1F1E9",
+    "shortcode": "flag_algeria"
+  },
+  {
+    "id": "flag-ceuta-melilla",
+    "label": "Flag: Ceuta & Melilla",
+    "codepoint": "0x1F1EA",
+    "shortcode": "flag_ceuta_melilla"
+  },
+  {
+    "id": "flag-ecuador",
+    "label": "Flag: Ecuador",
+    "codepoint": "0x1F1EA",
+    "shortcode": "flag_ecuador"
+  },
+  {
+    "id": "flag-estonia",
+    "label": "Flag: Estonia",
+    "codepoint": "0x1F1EA",
+    "shortcode": "flag_estonia"
+  },
+  {
+    "id": "flag-egypt",
+    "label": "Flag: Egypt",
+    "codepoint": "0x1F1EA",
+    "shortcode": "flag_egypt"
+  },
+  {
+    "id": "flag-western-sahara",
+    "label": "Flag: Western Sahara",
+    "codepoint": "0x1F1EA",
+    "shortcode": "flag_western_sahara"
+  },
+  {
+    "id": "flag-eritrea",
+    "label": "Flag: Eritrea",
+    "codepoint": "0x1F1EA",
+    "shortcode": "flag_eritrea"
+  },
+  {
+    "id": "flag-spain",
+    "label": "Flag: Spain",
+    "codepoint": "0x1F1EA",
+    "shortcode": "flag_spain"
+  },
+  {
+    "id": "flag-ethiopia",
+    "label": "Flag: Ethiopia",
+    "codepoint": "0x1F1EA",
+    "shortcode": "flag_ethiopia"
+  },
+  {
+    "id": "flag-european-union",
+    "label": "Flag: European Union",
+    "codepoint": "0x1F1EA",
+    "shortcode": "flag_european_union"
+  },
+  {
+    "id": "flag-finland",
+    "label": "Flag: Finland",
+    "codepoint": "0x1F1EB",
+    "shortcode": "flag_finland"
+  },
+  {
+    "id": "flag-fiji",
+    "label": "Flag: Fiji",
+    "codepoint": "0x1F1EB",
+    "shortcode": "flag_fiji"
+  },
+  {
+    "id": "flag-falkland-islands",
+    "label": "Flag: Falkland Islands",
+    "codepoint": "0x1F1EB",
+    "shortcode": "flag_falkland_islands"
+  },
+  {
+    "id": "flag-micronesia",
+    "label": "Flag: Micronesia",
+    "codepoint": "0x1F1EB",
+    "shortcode": "flag_micronesia"
+  },
+  {
+    "id": "flag-faroe-islands",
+    "label": "Flag: Faroe Islands",
+    "codepoint": "0x1F1EB",
+    "shortcode": "flag_faroe_islands"
+  },
+  {
+    "id": "flag-france",
+    "label": "Flag: France",
+    "codepoint": "0x1F1EB",
+    "shortcode": "flag_france"
+  },
+  {
+    "id": "flag-gabon",
+    "label": "Flag: Gabon",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_gabon"
+  },
+  {
+    "id": "flag-united-kingdom",
+    "label": "Flag: United Kingdom",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_united_kingdom"
+  },
+  {
+    "id": "flag-grenada",
+    "label": "Flag: Grenada",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_grenada"
+  },
+  {
+    "id": "flag-georgia",
+    "label": "Flag: Georgia",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_georgia"
+  },
+  {
+    "id": "flag-french-guiana",
+    "label": "Flag: French Guiana",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_french_guiana"
+  },
+  {
+    "id": "flag-guernsey",
+    "label": "Flag: Guernsey",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_guernsey"
+  },
+  {
+    "id": "flag-ghana",
+    "label": "Flag: Ghana",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_ghana"
+  },
+  {
+    "id": "flag-gibraltar",
+    "label": "Flag: Gibraltar",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_gibraltar"
+  },
+  {
+    "id": "flag-greenland",
+    "label": "Flag: Greenland",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_greenland"
+  },
+  {
+    "id": "flag-gambia",
+    "label": "Flag: Gambia",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_gambia"
+  },
+  {
+    "id": "flag-guinea",
+    "label": "Flag: Guinea",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_guinea"
+  },
+  {
+    "id": "flag-guadeloupe",
+    "label": "Flag: Guadeloupe",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_guadeloupe"
+  },
+  {
+    "id": "flag-equatorial-guinea",
+    "label": "Flag: Equatorial Guinea",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_equatorial_guinea"
+  },
+  {
+    "id": "flag-greece",
+    "label": "Flag: Greece",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_greece"
+  },
+  {
+    "id": "flag-south-georgia-south-sandwich-islands",
+    "label": "Flag: South Georgia & South Sandwich Islands",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_south_georgia_south_sandwich_islands"
+  },
+  {
+    "id": "flag-guatemala",
+    "label": "Flag: Guatemala",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_guatemala"
+  },
+  {
+    "id": "flag-guam",
+    "label": "Flag: Guam",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_guam"
+  },
+  {
+    "id": "flag-guinea-bissau",
+    "label": "Flag: Guinea-Bissau",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_guinea_bissau"
+  },
+  {
+    "id": "flag-guyana",
+    "label": "Flag: Guyana",
+    "codepoint": "0x1F1EC",
+    "shortcode": "flag_guyana"
+  },
+  {
+    "id": "flag-hong-kong-sar-china",
+    "label": "Flag: Hong Kong SAR China",
+    "codepoint": "0x1F1ED",
+    "shortcode": "flag_hong_kong_sar_china"
+  },
+  {
+    "id": "flag-heard-mcdonald-islands",
+    "label": "Flag: Heard & McDonald Islands",
+    "codepoint": "0x1F1ED",
+    "shortcode": "flag_heard_mcdonald_islands"
+  },
+  {
+    "id": "flag-honduras",
+    "label": "Flag: Honduras",
+    "codepoint": "0x1F1ED",
+    "shortcode": "flag_honduras"
+  },
+  {
+    "id": "flag-croatia",
+    "label": "Flag: Croatia",
+    "codepoint": "0x1F1ED",
+    "shortcode": "flag_croatia"
+  },
+  {
+    "id": "flag-haiti",
+    "label": "Flag: Haiti",
+    "codepoint": "0x1F1ED",
+    "shortcode": "flag_haiti"
+  },
+  {
+    "id": "flag-hungary",
+    "label": "Flag: Hungary",
+    "codepoint": "0x1F1ED",
+    "shortcode": "flag_hungary"
+  },
+  {
+    "id": "flag-canary-islands",
+    "label": "Flag: Canary Islands",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_canary_islands"
+  },
+  {
+    "id": "flag-indonesia",
+    "label": "Flag: Indonesia",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_indonesia"
+  },
+  {
+    "id": "flag-ireland",
+    "label": "Flag: Ireland",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_ireland"
+  },
+  {
+    "id": "flag-israel",
+    "label": "Flag: Israel",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_israel"
+  },
+  {
+    "id": "flag-isle-of-man",
+    "label": "Flag: Isle of Man",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_isle_of_man"
+  },
+  {
+    "id": "flag-india",
+    "label": "Flag: India",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_india"
+  },
+  {
+    "id": "flag-british-indian-ocean-territory",
+    "label": "Flag: British Indian Ocean Territory",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_british_indian_ocean_territory"
+  },
+  {
+    "id": "flag-iraq",
+    "label": "Flag: Iraq",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_iraq"
+  },
+  {
+    "id": "flag-iran",
+    "label": "Flag: Iran",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_iran"
+  },
+  {
+    "id": "flag-iceland",
+    "label": "Flag: Iceland",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_iceland"
+  },
+  {
+    "id": "flag-italy",
+    "label": "Flag: Italy",
+    "codepoint": "0x1F1EE",
+    "shortcode": "flag_italy"
+  },
+  {
+    "id": "flag-jersey",
+    "label": "Flag: Jersey",
+    "codepoint": "0x1F1EF",
+    "shortcode": "flag_jersey"
+  },
+  {
+    "id": "flag-jamaica",
+    "label": "Flag: Jamaica",
+    "codepoint": "0x1F1EF",
+    "shortcode": "flag_jamaica"
+  },
+  {
+    "id": "flag-jordan",
+    "label": "Flag: Jordan",
+    "codepoint": "0x1F1EF",
+    "shortcode": "flag_jordan"
+  },
+  {
+    "id": "flag-japan",
+    "label": "Flag: Japan",
+    "codepoint": "0x1F1EF",
+    "shortcode": "flag_japan"
+  },
+  {
+    "id": "flag-kenya",
+    "label": "Flag: Kenya",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_kenya"
+  },
+  {
+    "id": "flag-kyrgyzstan",
+    "label": "Flag: Kyrgyzstan",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_kyrgyzstan"
+  },
+  {
+    "id": "flag-cambodia",
+    "label": "Flag: Cambodia",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_cambodia"
+  },
+  {
+    "id": "flag-kiribati",
+    "label": "Flag: Kiribati",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_kiribati"
+  },
+  {
+    "id": "flag-comoros",
+    "label": "Flag: Comoros",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_comoros"
+  },
+  {
+    "id": "flag-st-kitts-nevis",
+    "label": "Flag: St. Kitts & Nevis",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_st_kitts_nevis"
+  },
+  {
+    "id": "flag-north-korea",
+    "label": "Flag: North Korea",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_north_korea"
+  },
+  {
+    "id": "flag-south-korea",
+    "label": "Flag: South Korea",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_south_korea"
+  },
+  {
+    "id": "flag-kuwait",
+    "label": "Flag: Kuwait",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_kuwait"
+  },
+  {
+    "id": "flag-cayman-islands",
+    "label": "Flag: Cayman Islands",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_cayman_islands"
+  },
+  {
+    "id": "flag-kazakhstan",
+    "label": "Flag: Kazakhstan",
+    "codepoint": "0x1F1F0",
+    "shortcode": "flag_kazakhstan"
+  },
+  {
+    "id": "flag-laos",
+    "label": "Flag: Laos",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_laos"
+  },
+  {
+    "id": "flag-lebanon",
+    "label": "Flag: Lebanon",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_lebanon"
+  },
+  {
+    "id": "flag-st-lucia",
+    "label": "Flag: St. Lucia",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_st_lucia"
+  },
+  {
+    "id": "flag-liechtenstein",
+    "label": "Flag: Liechtenstein",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_liechtenstein"
+  },
+  {
+    "id": "flag-sri-lanka",
+    "label": "Flag: Sri Lanka",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_sri_lanka"
+  },
+  {
+    "id": "flag-liberia",
+    "label": "Flag: Liberia",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_liberia"
+  },
+  {
+    "id": "flag-lesotho",
+    "label": "Flag: Lesotho",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_lesotho"
+  },
+  {
+    "id": "flag-lithuania",
+    "label": "Flag: Lithuania",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_lithuania"
+  },
+  {
+    "id": "flag-luxembourg",
+    "label": "Flag: Luxembourg",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_luxembourg"
+  },
+  {
+    "id": "flag-latvia",
+    "label": "Flag: Latvia",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_latvia"
+  },
+  {
+    "id": "flag-libya",
+    "label": "Flag: Libya",
+    "codepoint": "0x1F1F1",
+    "shortcode": "flag_libya"
+  },
+  {
+    "id": "flag-morocco",
+    "label": "Flag: Morocco",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_morocco"
+  },
+  {
+    "id": "flag-monaco",
+    "label": "Flag: Monaco",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_monaco"
+  },
+  {
+    "id": "flag-moldova",
+    "label": "Flag: Moldova",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_moldova"
+  },
+  {
+    "id": "flag-montenegro",
+    "label": "Flag: Montenegro",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_montenegro"
+  },
+  {
+    "id": "flag-st-martin",
+    "label": "Flag: St. Martin",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_st_martin"
+  },
+  {
+    "id": "flag-madagascar",
+    "label": "Flag: Madagascar",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_madagascar"
+  },
+  {
+    "id": "flag-marshall-islands",
+    "label": "Flag: Marshall Islands",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_marshall_islands"
+  },
+  {
+    "id": "flag-north-macedonia",
+    "label": "Flag: North Macedonia",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_north_macedonia"
+  },
+  {
+    "id": "flag-mali",
+    "label": "Flag: Mali",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_mali"
+  },
+  {
+    "id": "flag-myanmar-burma",
+    "label": "Flag: Myanmar (Burma)",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_myanmar_burma_"
+  },
+  {
+    "id": "flag-mongolia",
+    "label": "Flag: Mongolia",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_mongolia"
+  },
+  {
+    "id": "flag-macao-sar-china",
+    "label": "Flag: Macao Sar China",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_macao_sar_china"
+  },
+  {
+    "id": "flag-northern-mariana-islands",
+    "label": "Flag: Northern Mariana Islands",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_northern_mariana_islands"
+  },
+  {
+    "id": "flag-martinique",
+    "label": "Flag: Martinique",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_martinique"
+  },
+  {
+    "id": "flag-mauritania",
+    "label": "Flag: Mauritania",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_mauritania"
+  },
+  {
+    "id": "flag-montserrat",
+    "label": "Flag: Montserrat",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_montserrat"
+  },
+  {
+    "id": "flag-malta",
+    "label": "Flag: Malta",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_malta"
+  },
+  {
+    "id": "flag-mauritius",
+    "label": "Flag: Mauritius",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_mauritius"
+  },
+  {
+    "id": "flag-maldives",
+    "label": "Flag: Maldives",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_maldives"
+  },
+  {
+    "id": "flag-malawi",
+    "label": "Flag: Malawi",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_malawi"
+  },
+  {
+    "id": "flag-mexico",
+    "label": "Flag: Mexico",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_mexico"
+  },
+  {
+    "id": "flag-malaysia",
+    "label": "Flag: Malaysia",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_malaysia"
+  },
+  {
+    "id": "flag-mozambique",
+    "label": "Flag: Mozambique",
+    "codepoint": "0x1F1F2",
+    "shortcode": "flag_mozambique"
+  },
+  {
+    "id": "flag-namibia",
+    "label": "Flag: Namibia",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_namibia"
+  },
+  {
+    "id": "flag-new-caledonia",
+    "label": "Flag: New Caledonia",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_new_caledonia"
+  },
+  {
+    "id": "flag-niger",
+    "label": "Flag: Niger",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_niger"
+  },
+  {
+    "id": "flag-norfolk-island",
+    "label": "Flag: Norfolk Island",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_norfolk_island"
+  },
+  {
+    "id": "flag-nigeria",
+    "label": "Flag: Nigeria",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_nigeria"
+  },
+  {
+    "id": "flag-nicaragua",
+    "label": "Flag: Nicaragua",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_nicaragua"
+  },
+  {
+    "id": "flag-netherlands",
+    "label": "Flag: Netherlands",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_netherlands"
+  },
+  {
+    "id": "flag-norway",
+    "label": "Flag: Norway",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_norway"
+  },
+  {
+    "id": "flag-nepal",
+    "label": "Flag: Nepal",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_nepal"
+  },
+  {
+    "id": "flag-nauru",
+    "label": "Flag: Nauru",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_nauru"
+  },
+  {
+    "id": "flag-niue",
+    "label": "Flag: Niue",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_niue"
+  },
+  {
+    "id": "flag-new-zealand",
+    "label": "Flag: New Zealand",
+    "codepoint": "0x1F1F3",
+    "shortcode": "flag_new_zealand"
+  },
+  {
+    "id": "flag-oman",
+    "label": "Flag: Oman",
+    "codepoint": "0x1F1F4",
+    "shortcode": "flag_oman"
+  },
+  {
+    "id": "flag-panama",
+    "label": "Flag: Panama",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_panama"
+  },
+  {
+    "id": "flag-peru",
+    "label": "Flag: Peru",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_peru"
+  },
+  {
+    "id": "flag-french-polynesia",
+    "label": "Flag: French Polynesia",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_french_polynesia"
+  },
+  {
+    "id": "flag-papua-new-guinea",
+    "label": "Flag: Papua New Guinea",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_papua_new_guinea"
+  },
+  {
+    "id": "flag-philippines",
+    "label": "Flag: Philippines",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_philippines"
+  },
+  {
+    "id": "flag-pakistan",
+    "label": "Flag: Pakistan",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_pakistan"
+  },
+  {
+    "id": "flag-poland",
+    "label": "Flag: Poland",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_poland"
+  },
+  {
+    "id": "flag-st-pierre-miquelon",
+    "label": "Flag: St. Pierre & Miquelon",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_st_pierre_miquelon"
+  },
+  {
+    "id": "flag-pitcairn-islands",
+    "label": "Flag: Pitcairn Islands",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_pitcairn_islands"
+  },
+  {
+    "id": "flag-puerto-rico",
+    "label": "Flag: Puerto Rico",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_puerto_rico"
+  },
+  {
+    "id": "flag-palestinian-territories",
+    "label": "Flag: Palestinian Territories",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_palestinian_territories"
+  },
+  {
+    "id": "flag-portugal",
+    "label": "Flag: Portugal",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_portugal"
+  },
+  {
+    "id": "flag-palau",
+    "label": "Flag: Palau",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_palau"
+  },
+  {
+    "id": "flag-paraguay",
+    "label": "Flag: Paraguay",
+    "codepoint": "0x1F1F5",
+    "shortcode": "flag_paraguay"
+  },
+  {
+    "id": "flag-qatar",
+    "label": "Flag: Qatar",
+    "codepoint": "0x1F1F6",
+    "shortcode": "flag_qatar"
+  },
+  {
+    "id": "flag-reunion",
+    "label": "Flag: Réunion",
+    "codepoint": "0x1F1F7",
+    "shortcode": "flag_reunion"
+  },
+  {
+    "id": "flag-romania",
+    "label": "Flag: Romania",
+    "codepoint": "0x1F1F7",
+    "shortcode": "flag_romania"
+  },
+  {
+    "id": "flag-serbia",
+    "label": "Flag: Serbia",
+    "codepoint": "0x1F1F7",
+    "shortcode": "flag_serbia"
+  },
+  {
+    "id": "flag-russia",
+    "label": "Flag: Russia",
+    "codepoint": "0x1F1F7",
+    "shortcode": "flag_russia"
+  },
+  {
+    "id": "flag-rwanda",
+    "label": "Flag: Rwanda",
+    "codepoint": "0x1F1F7",
+    "shortcode": "flag_rwanda"
+  },
+  {
+    "id": "flag-saudi-arabia",
+    "label": "Flag: Saudi Arabia",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_saudi_arabia"
+  },
+  {
+    "id": "flag-solomon-islands",
+    "label": "Flag: Solomon Islands",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_solomon_islands"
+  },
+  {
+    "id": "flag-seychelles",
+    "label": "Flag: Seychelles",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_seychelles"
+  },
+  {
+    "id": "flag-sudan",
+    "label": "Flag: Sudan",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_sudan"
+  },
+  {
+    "id": "flag-sweden",
+    "label": "Flag: Sweden",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_sweden"
+  },
+  {
+    "id": "flag-singapore",
+    "label": "Flag: Singapore",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_singapore"
+  },
+  {
+    "id": "flag-st-helena",
+    "label": "Flag: St. Helena",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_st_helena"
+  },
+  {
+    "id": "flag-slovenia",
+    "label": "Flag: Slovenia",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_slovenia"
+  },
+  {
+    "id": "flag-svalbard-jan-mayen",
+    "label": "Flag: Svalbard & Jan Mayen",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_svalbard_jan_mayen"
+  },
+  {
+    "id": "flag-slovakia",
+    "label": "Flag: Slovakia",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_slovakia"
+  },
+  {
+    "id": "flag-sierra-leone",
+    "label": "Flag: Sierra Leone",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_sierra_leone"
+  },
+  {
+    "id": "flag-san-marino",
+    "label": "Flag: San Marino",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_san_marino"
+  },
+  {
+    "id": "flag-senegal",
+    "label": "Flag: Senegal",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_senegal"
+  },
+  {
+    "id": "flag-somalia",
+    "label": "Flag: Somalia",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_somalia"
+  },
+  {
+    "id": "flag-suriname",
+    "label": "Flag: Suriname",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_suriname"
+  },
+  {
+    "id": "flag-south-sudan",
+    "label": "Flag: South Sudan",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_south_sudan"
+  },
+  {
+    "id": "flag-sao-tome-principe",
+    "label": "Flag: São Tomé & Príncipe",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_sao_tome_principe"
+  },
+  {
+    "id": "flag-el-salvador",
+    "label": "Flag: El Salvador",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_el_salvador"
+  },
+  {
+    "id": "flag-sint-maarten",
+    "label": "Flag: Sint Maarten",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_sint_maarten"
+  },
+  {
+    "id": "flag-syria",
+    "label": "Flag: Syria",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_syria"
+  },
+  {
+    "id": "flag-eswatini",
+    "label": "Flag: Eswatini",
+    "codepoint": "0x1F1F8",
+    "shortcode": "flag_eswatini"
+  },
+  {
+    "id": "flag-tristan-da-cunha",
+    "label": "Flag: Tristan Da Cunha",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_tristan_da_cunha"
+  },
+  {
+    "id": "flag-turks-caicos-islands",
+    "label": "Flag: Turks & Caicos Islands",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_turks_caicos_islands"
+  },
+  {
+    "id": "flag-chad",
+    "label": "Flag: Chad",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_chad"
+  },
+  {
+    "id": "flag-french-southern-territories",
+    "label": "Flag: French Southern Territories",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_french_southern_territories"
+  },
+  {
+    "id": "flag-togo",
+    "label": "Flag: Togo",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_togo"
+  },
+  {
+    "id": "flag-thailand",
+    "label": "Flag: Thailand",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_thailand"
+  },
+  {
+    "id": "flag-tajikistan",
+    "label": "Flag: Tajikistan",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_tajikistan"
+  },
+  {
+    "id": "flag-tokelau",
+    "label": "Flag: Tokelau",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_tokelau"
+  },
+  {
+    "id": "flag-timor-leste",
+    "label": "Flag: Timor-Leste",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_timor_leste"
+  },
+  {
+    "id": "flag-turkmenistan",
+    "label": "Flag: Turkmenistan",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_turkmenistan"
+  },
+  {
+    "id": "flag-tunisia",
+    "label": "Flag: Tunisia",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_tunisia"
+  },
+  {
+    "id": "flag-tonga",
+    "label": "Flag: Tonga",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_tonga"
+  },
+  {
+    "id": "flag-turkey",
+    "label": "Flag: Turkey",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_turkey"
+  },
+  {
+    "id": "flag-trinidad-tobago",
+    "label": "Flag: Trinidad & Tobago",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_trinidad_tobago"
+  },
+  {
+    "id": "flag-tuvalu",
+    "label": "Flag: Tuvalu",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_tuvalu"
+  },
+  {
+    "id": "flag-taiwan",
+    "label": "Flag: Taiwan",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_taiwan"
+  },
+  {
+    "id": "flag-tanzania",
+    "label": "Flag: Tanzania",
+    "codepoint": "0x1F1F9",
+    "shortcode": "flag_tanzania"
+  },
+  {
+    "id": "flag-ukraine",
+    "label": "Flag: Ukraine",
+    "codepoint": "0x1F1FA",
+    "shortcode": "flag_ukraine"
+  },
+  {
+    "id": "flag-uganda",
+    "label": "Flag: Uganda",
+    "codepoint": "0x1F1FA",
+    "shortcode": "flag_uganda"
+  },
+  {
+    "id": "flag-us-outlying-islands",
+    "label": "Flag: U.S. Outlying Islands",
+    "codepoint": "0x1F1FA",
+    "shortcode": "flag_u_s_outlying_islands"
+  },
+  {
+    "id": "flag-united-states",
+    "label": "Flag: United States",
+    "codepoint": "0x1F1FA",
+    "shortcode": "flag_united_states"
+  },
+  {
+    "id": "flag-uruguay",
+    "label": "Flag: Uruguay",
+    "codepoint": "0x1F1FA",
+    "shortcode": "flag_uruguay"
+  },
+  {
+    "id": "flag-uzbekistan",
+    "label": "Flag: Uzbekistan",
+    "codepoint": "0x1F1FA",
+    "shortcode": "flag_uzbekistan"
+  },
+  {
+    "id": "flag-vatican-city",
+    "label": "Flag: Vatican City",
+    "codepoint": "0x1F1FB",
+    "shortcode": "flag_vatican_city"
+  },
+  {
+    "id": "flag-st-vincent-grenadines",
+    "label": "Flag: St. Vincent & Grenadines",
+    "codepoint": "0x1F1FB",
+    "shortcode": "flag_st_vincent_grenadines"
+  },
+  {
+    "id": "flag-venezuela",
+    "label": "Flag: Venezuela",
+    "codepoint": "0x1F1FB",
+    "shortcode": "flag_venezuela"
+  },
+  {
+    "id": "flag-british-virgin-islands",
+    "label": "Flag: British Virgin Islands",
+    "codepoint": "0x1F1FB",
+    "shortcode": "flag_british_virgin_islands"
+  },
+  {
+    "id": "flag-us-virgin-islands",
+    "label": "Flag: U.S. Virgin Islands",
+    "codepoint": "0x1F1FB",
+    "shortcode": "flag_u_s_virgin_islands"
+  },
+  {
+    "id": "flag-vietnam",
+    "label": "Flag: Vietnam",
+    "codepoint": "0x1F1FB",
+    "shortcode": "flag_vietnam"
+  },
+  {
+    "id": "flag-vanuatu",
+    "label": "Flag: Vanuatu",
+    "codepoint": "0x1F1FB",
+    "shortcode": "flag_vanuatu"
+  },
+  {
+    "id": "flag-wallis-futuna",
+    "label": "Flag: Wallis & Futuna",
+    "codepoint": "0x1F1FC",
+    "shortcode": "flag_wallis_futuna"
+  },
+  {
+    "id": "flag-samoa",
+    "label": "Flag: Samoa",
+    "codepoint": "0x1F1FC",
+    "shortcode": "flag_samoa"
+  },
+  {
+    "id": "flag-kosovo",
+    "label": "Flag: Kosovo",
+    "codepoint": "0x1F1FD",
+    "shortcode": "flag_kosovo"
+  },
+  {
+    "id": "flag-yemen",
+    "label": "Flag: Yemen",
+    "codepoint": "0x1F1FE",
+    "shortcode": "flag_yemen"
+  },
+  {
+    "id": "flag-mayotte",
+    "label": "Flag: Mayotte",
+    "codepoint": "0x1F1FE",
+    "shortcode": "flag_mayotte"
+  },
+  {
+    "id": "flag-south-africa",
+    "label": "Flag: South Africa",
+    "codepoint": "0x1F1FF",
+    "shortcode": "flag_south_africa"
+  },
+  {
+    "id": "flag-zambia",
+    "label": "Flag: Zambia",
+    "codepoint": "0x1F1FF",
+    "shortcode": "flag_zambia"
+  },
+  {
+    "id": "flag-zimbabwe",
+    "label": "Flag: Zimbabwe",
+    "codepoint": "0x1F1FF",
+    "shortcode": "flag_zimbabwe"
+  }
+]

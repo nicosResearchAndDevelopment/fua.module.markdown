@@ -1,0 +1,986 @@
+[
+  {
+    "id": "smiling-face",
+    "label": "Smiling Face",
+    "codepoint": "0x263A",
+    "shortcode": "smiling_face"
+  },
+  {
+    "id": "frowning-face",
+    "label": "Frowning Face",
+    "codepoint": "0x2639",
+    "shortcode": "frowning_face"
+  },
+  {
+    "id": "skull-and-crossbones",
+    "label": "Skull and Crossbones",
+    "codepoint": "0x2620",
+    "shortcode": "skull_and_crossbones"
+  },
+  {
+    "id": "heart-exclamation",
+    "label": "Heart Exclamation",
+    "codepoint": "0x2763",
+    "shortcode": "heart_exclamation"
+  },
+  {
+    "id": "red-heart",
+    "label": "Red Heart",
+    "codepoint": "0x2764",
+    "shortcode": "red_heart"
+  },
+  {
+    "id": "victory-hand",
+    "label": "Victory Hand",
+    "codepoint": "0x270C",
+    "shortcode": "victory_hand"
+  },
+  {
+    "id": "index-pointing-up",
+    "label": "Index Pointing Up",
+    "codepoint": "0x261D",
+    "shortcode": "index_pointing_up"
+  },
+  {
+    "id": "writing-hand",
+    "label": "Writing Hand",
+    "codepoint": "0x270D",
+    "shortcode": "writing_hand"
+  },
+  {
+    "id": "hot-springs",
+    "label": "Hot Springs",
+    "codepoint": "0x2668",
+    "shortcode": "hot_springs"
+  },
+  {
+    "id": "airplane",
+    "label": "Airplane",
+    "codepoint": "0x2708",
+    "shortcode": "airplane"
+  },
+  {
+    "id": "hourglass-done",
+    "label": "Hourglass Done",
+    "codepoint": "0x231B",
+    "shortcode": "hourglass_done"
+  },
+  {
+    "id": "watch",
+    "label": "Watch",
+    "codepoint": "0x231A",
+    "shortcode": "watch"
+  },
+  {
+    "id": "sun",
+    "label": "Sun",
+    "codepoint": "0x2600",
+    "shortcode": "sun"
+  },
+  {
+    "id": "cloud",
+    "label": "Cloud",
+    "codepoint": "0x2601",
+    "shortcode": "cloud"
+  },
+  {
+    "id": "umbrella",
+    "label": "Umbrella",
+    "codepoint": "0x2602",
+    "shortcode": "umbrella"
+  },
+  {
+    "id": "snowflake",
+    "label": "Snowflake",
+    "codepoint": "0x2744",
+    "shortcode": "snowflake"
+  },
+  {
+    "id": "snowman",
+    "label": "Snowman",
+    "codepoint": "0x2603",
+    "shortcode": "snowman"
+  },
+  {
+    "id": "comet",
+    "label": "Comet",
+    "codepoint": "0x2604",
+    "shortcode": "comet"
+  },
+  {
+    "id": "spade-suit",
+    "label": "Spade Suit",
+    "codepoint": "0x2660",
+    "shortcode": "spade_suit"
+  },
+  {
+    "id": "heart-suit",
+    "label": "Heart Suit",
+    "codepoint": "0x2665",
+    "shortcode": "heart_suit"
+  },
+  {
+    "id": "diamond-suit",
+    "label": "Diamond Suit",
+    "codepoint": "0x2666",
+    "shortcode": "diamond_suit"
+  },
+  {
+    "id": "club-suit",
+    "label": "Club Suit",
+    "codepoint": "0x2663",
+    "shortcode": "club_suit"
+  },
+  {
+    "id": "chess-pawn",
+    "label": "Chess Pawn",
+    "codepoint": "0x265F",
+    "shortcode": "chess_pawn"
+  },
+  {
+    "id": "telephone",
+    "label": "Telephone",
+    "codepoint": "0x260E",
+    "shortcode": "telephone"
+  },
+  {
+    "id": "keyboard",
+    "label": "Keyboard",
+    "codepoint": "0x2328",
+    "shortcode": "keyboard"
+  },
+  {
+    "id": "envelope",
+    "label": "Envelope",
+    "codepoint": "0x2709",
+    "shortcode": "envelope"
+  },
+  {
+    "id": "pencil",
+    "label": "Pencil",
+    "codepoint": "0x270F",
+    "shortcode": "pencil"
+  },
+  {
+    "id": "black-nib",
+    "label": "Black Nib",
+    "codepoint": "0x2712",
+    "shortcode": "black_nib"
+  },
+  {
+    "id": "scissors",
+    "label": "Scissors",
+    "codepoint": "0x2702",
+    "shortcode": "scissors"
+  },
+  {
+    "id": "radioactive",
+    "label": "Radioactive",
+    "codepoint": "0x2622",
+    "shortcode": "radioactive"
+  },
+  {
+    "id": "biohazard",
+    "label": "Biohazard",
+    "codepoint": "0x2623",
+    "shortcode": "biohazard"
+  },
+  {
+    "id": "up-right-arrow",
+    "label": "Up-Right Arrow",
+    "codepoint": "0x2197",
+    "shortcode": "up_right_arrow"
+  },
+  {
+    "id": "right-arrow",
+    "label": "Right Arrow",
+    "codepoint": "0x27A1",
+    "shortcode": "right_arrow"
+  },
+  {
+    "id": "down-right-arrow",
+    "label": "Down-Right Arrow",
+    "codepoint": "0x2198",
+    "shortcode": "down_right_arrow"
+  },
+  {
+    "id": "down-left-arrow",
+    "label": "Down-Left Arrow",
+    "codepoint": "0x2199",
+    "shortcode": "down_left_arrow"
+  },
+  {
+    "id": "up-left-arrow",
+    "label": "Up-Left Arrow",
+    "codepoint": "0x2196",
+    "shortcode": "up_left_arrow"
+  },
+  {
+    "id": "up-down-arrow",
+    "label": "Up-Down Arrow",
+    "codepoint": "0x2195",
+    "shortcode": "up_down_arrow"
+  },
+  {
+    "id": "left-right-arrow",
+    "label": "Left-Right Arrow",
+    "codepoint": "0x2194",
+    "shortcode": "left_right_arrow"
+  },
+  {
+    "id": "right-arrow-curving-left",
+    "label": "Right Arrow Curving Left",
+    "codepoint": "0x21A9",
+    "shortcode": "right_arrow_curving_left"
+  },
+  {
+    "id": "left-arrow-curving-right",
+    "label": "Left Arrow Curving Right",
+    "codepoint": "0x21AA",
+    "shortcode": "left_arrow_curving_right"
+  },
+  {
+    "id": "star-of-david",
+    "label": "Star of David",
+    "codepoint": "0x2721",
+    "shortcode": "star_of_david"
+  },
+  {
+    "id": "wheel-of-dharma",
+    "label": "Wheel of Dharma",
+    "codepoint": "0x2638",
+    "shortcode": "wheel_of_dharma"
+  },
+  {
+    "id": "yin-yang",
+    "label": "Yin Yang",
+    "codepoint": "0x262F",
+    "shortcode": "yin_yang"
+  },
+  {
+    "id": "latin-cross",
+    "label": "Latin Cross",
+    "codepoint": "0x271D",
+    "shortcode": "latin_cross"
+  },
+  {
+    "id": "orthodox-cross",
+    "label": "Orthodox Cross",
+    "codepoint": "0x2626",
+    "shortcode": "orthodox_cross"
+  },
+  {
+    "id": "star-and-crescent",
+    "label": "Star and Crescent",
+    "codepoint": "0x262A",
+    "shortcode": "star_and_crescent"
+  },
+  {
+    "id": "peace-symbol",
+    "label": "Peace Symbol",
+    "codepoint": "0x262E",
+    "shortcode": "peace_symbol"
+  },
+  {
+    "id": "aries",
+    "label": "Aries",
+    "codepoint": "0x2648",
+    "shortcode": "aries"
+  },
+  {
+    "id": "taurus",
+    "label": "Taurus",
+    "codepoint": "0x2649",
+    "shortcode": "taurus"
+  },
+  {
+    "id": "gemini",
+    "label": "Gemini",
+    "codepoint": "0x264A",
+    "shortcode": "gemini"
+  },
+  {
+    "id": "cancer",
+    "label": "Cancer",
+    "codepoint": "0x264B",
+    "shortcode": "cancer"
+  },
+  {
+    "id": "leo",
+    "label": "Leo",
+    "codepoint": "0x264C",
+    "shortcode": "leo"
+  },
+  {
+    "id": "virgo",
+    "label": "Virgo",
+    "codepoint": "0x264D",
+    "shortcode": "virgo"
+  },
+  {
+    "id": "libra",
+    "label": "Libra",
+    "codepoint": "0x264E",
+    "shortcode": "libra"
+  },
+  {
+    "id": "scorpio",
+    "label": "Scorpio",
+    "codepoint": "0x264F",
+    "shortcode": "scorpio"
+  },
+  {
+    "id": "sagittarius",
+    "label": "Sagittarius",
+    "codepoint": "0x2650",
+    "shortcode": "sagittarius"
+  },
+  {
+    "id": "capricorn",
+    "label": "Capricorn",
+    "codepoint": "0x2651",
+    "shortcode": "capricorn"
+  },
+  {
+    "id": "aquarius",
+    "label": "Aquarius",
+    "codepoint": "0x2652",
+    "shortcode": "aquarius"
+  },
+  {
+    "id": "pisces",
+    "label": "Pisces",
+    "codepoint": "0x2653",
+    "shortcode": "pisces"
+  },
+  {
+    "id": "play-button",
+    "label": "Play Button",
+    "codepoint": "0x25B6",
+    "shortcode": "play_button"
+  },
+  {
+    "id": "reverse-button",
+    "label": "Reverse Button",
+    "codepoint": "0x25C0",
+    "shortcode": "reverse_button"
+  },
+  {
+    "id": "female-sign",
+    "label": "Female Sign",
+    "codepoint": "0x2640",
+    "shortcode": "female_sign"
+  },
+  {
+    "id": "male-sign",
+    "label": "Male Sign",
+    "codepoint": "0x2642",
+    "shortcode": "male_sign"
+  },
+  {
+    "id": "multiply",
+    "label": "Multiply",
+    "codepoint": "0x2716",
+    "shortcode": "multiply"
+  },
+  {
+    "id": "double-exclamation-mark",
+    "label": "Double Exclamation Mark",
+    "codepoint": "0x203C",
+    "shortcode": "double_exclamation_mark"
+  },
+  {
+    "id": "wavy-dash",
+    "label": "Wavy Dash",
+    "codepoint": "0x3030",
+    "shortcode": "wavy_dash"
+  },
+  {
+    "id": "check-box-with-check",
+    "label": "Check Box with Check",
+    "codepoint": "0x2611",
+    "shortcode": "check_box_with_check"
+  },
+  {
+    "id": "check-mark",
+    "label": "Check Mark",
+    "codepoint": "0x2714",
+    "shortcode": "check_mark"
+  },
+  {
+    "id": "eight-spoked-asterisk",
+    "label": "Eight-Spoked Asterisk",
+    "codepoint": "0x2733",
+    "shortcode": "eight_spoked_asterisk"
+  },
+  {
+    "id": "eight-pointed-star",
+    "label": "Eight-Pointed Star",
+    "codepoint": "0x2734",
+    "shortcode": "eight_pointed_star"
+  },
+  {
+    "id": "sparkle",
+    "label": "Sparkle",
+    "codepoint": "0x2747",
+    "shortcode": "sparkle"
+  },
+  {
+    "id": "copyright",
+    "label": "Copyright",
+    "codepoint": "0xA9",
+    "shortcode": "copyright"
+  },
+  {
+    "id": "registered",
+    "label": "Registered",
+    "codepoint": "0xAE",
+    "shortcode": "registered"
+  },
+  {
+    "id": "trade-mark",
+    "label": "Trade Mark",
+    "codepoint": "0x2122",
+    "shortcode": "trade_mark"
+  },
+  {
+    "id": "circled-m",
+    "label": "Circled M",
+    "codepoint": "0x24C2",
+    "shortcode": "circled_m"
+  },
+  {
+    "id": "japanese-congratulations-button",
+    "label": "Japanese “Congratulations” Button",
+    "codepoint": "0x3297",
+    "shortcode": "japanese_congratulations_button"
+  },
+  {
+    "id": "japanese-secret-button",
+    "label": "Japanese “Secret” Button",
+    "codepoint": "0x3299",
+    "shortcode": "japanese_secret_button"
+  },
+  {
+    "id": "black-small-square",
+    "label": "Black Small Square",
+    "codepoint": "0x25AA",
+    "shortcode": "black_small_square"
+  },
+  {
+    "id": "white-small-square",
+    "label": "White Small Square",
+    "codepoint": "0x25AB",
+    "shortcode": "white_small_square"
+  },
+  {
+    "id": "number-sign",
+    "label": "Hash Sign",
+    "codepoint": "0x23",
+    "shortcode": null
+  },
+  {
+    "id": "asterisk",
+    "label": "Asterisk",
+    "codepoint": "0x2A",
+    "shortcode": null
+  },
+  {
+    "id": "digit-zero",
+    "label": "Digit Zero",
+    "codepoint": "0x30",
+    "shortcode": null
+  },
+  {
+    "id": "digit-one",
+    "label": "Digit One",
+    "codepoint": "0x31",
+    "shortcode": null
+  },
+  {
+    "id": "digit-two",
+    "label": "Digit Two",
+    "codepoint": "0x32",
+    "shortcode": null
+  },
+  {
+    "id": "digit-three",
+    "label": "Digit Three",
+    "codepoint": "0x33",
+    "shortcode": null
+  },
+  {
+    "id": "digit-four",
+    "label": "Digit Four",
+    "codepoint": "0x34",
+    "shortcode": null
+  },
+  {
+    "id": "digit-five",
+    "label": "Digit Five",
+    "codepoint": "0x35",
+    "shortcode": null
+  },
+  {
+    "id": "digit-six",
+    "label": "Digit Six",
+    "codepoint": "0x36",
+    "shortcode": null
+  },
+  {
+    "id": "digit-seven",
+    "label": "Digit Seven",
+    "codepoint": "0x37",
+    "shortcode": null
+  },
+  {
+    "id": "digit-eight",
+    "label": "Digit Eight",
+    "codepoint": "0x38",
+    "shortcode": null
+  },
+  {
+    "id": "digit-nine",
+    "label": "Digit Nine",
+    "codepoint": "0x39",
+    "shortcode": null
+  },
+  {
+    "id": "greek-capital-letter-xi",
+    "label": "Greek Capital Letter Xi",
+    "codepoint": "0x39E",
+    "shortcode": null
+  },
+  {
+    "id": "zero-width-joiner",
+    "label": "Zero Width Joiner",
+    "codepoint": "0x200D",
+    "shortcode": null
+  },
+  {
+    "id": "black-star",
+    "label": "Black Star",
+    "codepoint": "0x2605",
+    "shortcode": null
+  },
+  {
+    "id": "lightning",
+    "label": "Lightning",
+    "codepoint": "0x2607",
+    "shortcode": null
+  },
+  {
+    "id": "thunderstorm",
+    "label": "Thunderstorm",
+    "codepoint": "0x2608",
+    "shortcode": null
+  },
+  {
+    "id": "unicode-sun",
+    "label": "Sun",
+    "codepoint": "0x2609",
+    "shortcode": null
+  },
+  {
+    "id": "ascending-node",
+    "label": "Ascending Node",
+    "codepoint": "0x260A",
+    "shortcode": null
+  },
+  {
+    "id": "descending-node",
+    "label": "Descending Node",
+    "codepoint": "0x260B",
+    "shortcode": null
+  },
+  {
+    "id": "conjunction",
+    "label": "Conjunction",
+    "codepoint": "0x260C",
+    "shortcode": null
+  },
+  {
+    "id": "opposition",
+    "label": "Opposition",
+    "codepoint": "0x260D",
+    "shortcode": null
+  },
+  {
+    "id": "white-telephone",
+    "label": "White Telephone",
+    "codepoint": "0x260F",
+    "shortcode": null
+  },
+  {
+    "id": "ballot-box",
+    "label": "Ballot Box",
+    "codepoint": "0x2610",
+    "shortcode": null
+  },
+  {
+    "id": "ballot-box-with-x",
+    "label": "Ballot Box with X",
+    "codepoint": "0x2612",
+    "shortcode": null
+  },
+  {
+    "id": "saltire",
+    "label": "Saltire",
+    "codepoint": "0x2613",
+    "shortcode": null
+  },
+  {
+    "id": "black-left-pointing-index",
+    "label": "Black Left Pointing Index",
+    "codepoint": "0x261A",
+    "shortcode": null
+  },
+  {
+    "id": "black-right-pointing-index",
+    "label": "Black Right Pointing Index",
+    "codepoint": "0x261B",
+    "shortcode": null
+  },
+  {
+    "id": "white-left-pointing-index",
+    "label": "White Left Pointing Index",
+    "codepoint": "0x261C",
+    "shortcode": null
+  },
+  {
+    "id": "white-right-pointing-index",
+    "label": "White Right Pointing Index",
+    "codepoint": "0x261E",
+    "shortcode": null
+  },
+  {
+    "id": "white-down-pointing-index",
+    "label": "White Down Pointing Index",
+    "codepoint": "0x261F",
+    "shortcode": null
+  },
+  {
+    "id": "caution-sign",
+    "label": "Caution Sign",
+    "codepoint": "0x2621",
+    "shortcode": null
+  },
+  {
+    "id": "caduceus",
+    "label": "Caduceus",
+    "codepoint": "0x2624",
+    "shortcode": null
+  },
+  {
+    "id": "ankh",
+    "label": "Ankh",
+    "codepoint": "0x2625",
+    "shortcode": null
+  },
+  {
+    "id": "chi-rho",
+    "label": "Chi Rho",
+    "codepoint": "0x2627",
+    "shortcode": null
+  },
+  {
+    "id": "cross-of-lorraine",
+    "label": "Cross of Lorraine",
+    "codepoint": "0x2628",
+    "shortcode": null
+  },
+  {
+    "id": "cross-of-jerusalem",
+    "label": "Cross of Jerusalem",
+    "codepoint": "0x2629",
+    "shortcode": null
+  },
+  {
+    "id": "farsi-symbol",
+    "label": "Farsi Symbol",
+    "codepoint": "0x262B",
+    "shortcode": null
+  },
+  {
+    "id": "adi-shakti",
+    "label": "Adi Shakti",
+    "codepoint": "0x262C",
+    "shortcode": null
+  },
+  {
+    "id": "hammer-and-sickle",
+    "label": "Hammer and Sickle",
+    "codepoint": "0x262D",
+    "shortcode": null
+  },
+  {
+    "id": "trigram-for-heaven",
+    "label": "Trigram for Heaven",
+    "codepoint": "0x2630",
+    "shortcode": null
+  },
+  {
+    "id": "trigram-for-lake",
+    "label": "Trigram for Lake",
+    "codepoint": "0x2631",
+    "shortcode": null
+  },
+  {
+    "id": "trigram-for-fire",
+    "label": "Trigram for Fire",
+    "codepoint": "0x2632",
+    "shortcode": null
+  },
+  {
+    "id": "trigram-for-thunder",
+    "label": "Trigram for Thunder",
+    "codepoint": "0x2633",
+    "shortcode": null
+  },
+  {
+    "id": "trigram-for-wind",
+    "label": "Trigram for Wind",
+    "codepoint": "0x2634",
+    "shortcode": null
+  },
+  {
+    "id": "trigram-for-water",
+    "label": "Trigram for Water",
+    "codepoint": "0x2635",
+    "shortcode": null
+  },
+  {
+    "id": "trigram-for-mountain",
+    "label": "Trigram for Mountain",
+    "codepoint": "0x2636",
+    "shortcode": null
+  },
+  {
+    "id": "trigram-for-earth",
+    "label": "Trigram for Earth",
+    "codepoint": "0x2637",
+    "shortcode": null
+  },
+  {
+    "id": "black-smiling-face",
+    "label": "Black Smiling Face",
+    "codepoint": "0x263B",
+    "shortcode": null
+  },
+  {
+    "id": "white-sun-with-rays",
+    "label": "White Sun with Rays",
+    "codepoint": "0x263C",
+    "shortcode": null
+  },
+  {
+    "id": "unicode-first-quarter-moon",
+    "label": "First Quarter Moon",
+    "codepoint": "0x263D",
+    "shortcode": null
+  },
+  {
+    "id": "unicode-last-quarter-moon",
+    "label": "Last Quarter Moon",
+    "codepoint": "0x263E",
+    "shortcode": null
+  },
+  {
+    "id": "earth",
+    "label": "Earth",
+    "codepoint": "0x2641",
+    "shortcode": null
+  },
+  {
+    "id": "jupiter",
+    "label": "Jupiter",
+    "codepoint": "0x2643",
+    "shortcode": null
+  },
+  {
+    "id": "saturn",
+    "label": "Saturn",
+    "codepoint": "0x2644",
+    "shortcode": null
+  },
+  {
+    "id": "uranus",
+    "label": "Uranus",
+    "codepoint": "0x2645",
+    "shortcode": null
+  },
+  {
+    "id": "neptune",
+    "label": "Neptune",
+    "codepoint": "0x2646",
+    "shortcode": null
+  },
+  {
+    "id": "pluto",
+    "label": "Pluto",
+    "codepoint": "0x2647",
+    "shortcode": null
+  },
+  {
+    "id": "white-chess-king",
+    "label": "White Chess King",
+    "codepoint": "0x2654",
+    "shortcode": null
+  },
+  {
+    "id": "white-chess-queen",
+    "label": "White Chess Queen",
+    "codepoint": "0x2655",
+    "shortcode": null
+  },
+  {
+    "id": "white-chess-rook",
+    "label": "White Chess Rook",
+    "codepoint": "0x2656",
+    "shortcode": null
+  },
+  {
+    "id": "white-chess-bishop",
+    "label": "White Chess Bishop",
+    "codepoint": "0x2657",
+    "shortcode": null
+  },
+  {
+    "id": "white-chess-knight",
+    "label": "White Chess Knight",
+    "codepoint": "0x2658",
+    "shortcode": null
+  },
+  {
+    "id": "white-chess-pawn",
+    "label": "White Chess Pawn",
+    "codepoint": "0x2659",
+    "shortcode": null
+  },
+  {
+    "id": "black-chess-king",
+    "label": "Black Chess King",
+    "codepoint": "0x265A",
+    "shortcode": null
+  },
+  {
+    "id": "black-chess-queen",
+    "label": "Black Chess Queen",
+    "codepoint": "0x265B",
+    "shortcode": null
+  },
+  {
+    "id": "black-chess-rook",
+    "label": "Black Chess Rook",
+    "codepoint": "0x265C",
+    "shortcode": null
+  },
+  {
+    "id": "black-chess-bishop",
+    "label": "Black Chess Bishop",
+    "codepoint": "0x265D",
+    "shortcode": null
+  },
+  {
+    "id": "black-chess-knight",
+    "label": "Black Chess Knight",
+    "codepoint": "0x265E",
+    "shortcode": null
+  },
+  {
+    "id": "white-heart-suit",
+    "label": "White Heart Suit",
+    "codepoint": "0x2661",
+    "shortcode": null
+  },
+  {
+    "id": "white-diamond-suit",
+    "label": "White Diamond Suit",
+    "codepoint": "0x2662",
+    "shortcode": null
+  },
+  {
+    "id": "white-spade-suit",
+    "label": "White Spade Suit",
+    "codepoint": "0x2664",
+    "shortcode": null
+  },
+  {
+    "id": "white-club-suit",
+    "label": "White Club Suit",
+    "codepoint": "0x2667",
+    "shortcode": null
+  },
+  {
+    "id": "quarter-note",
+    "label": "Quarter Note",
+    "codepoint": "0x2669",
+    "shortcode": null
+  },
+  {
+    "id": "eighth-note",
+    "label": "Eighth Note",
+    "codepoint": "0x266A",
+    "shortcode": null
+  },
+  {
+    "id": "beamed-eighth-notes",
+    "label": "Beamed Eighth Notes",
+    "codepoint": "0x266B",
+    "shortcode": null
+  },
+  {
+    "id": "beamed-sixteenth-notes",
+    "label": "Beamed Sixteenth Notes",
+    "codepoint": "0x266C",
+    "shortcode": null
+  },
+  {
+    "id": "music-flat-sign",
+    "label": "Flat",
+    "codepoint": "0x266D",
+    "shortcode": null
+  },
+  {
+    "id": "music-natural-sign",
+    "label": "Music Natural Sign",
+    "codepoint": "0x266E",
+    "shortcode": null
+  },
+  {
+    "id": "music-sharp-sign",
+    "label": "Sharp",
+    "codepoint": "0x266F",
+    "shortcode": null
+  },
+  {
+    "id": "lower-right-pencil",
+    "label": "Lower Right Pencil",
+    "codepoint": "0x270E",
+    "shortcode": null
+  },
+  {
+    "id": "upper-right-pencil",
+    "label": "Upper Right Pencil",
+    "codepoint": "0x2710",
+    "shortcode": null
+  },
+  {
+    "id": "rotated-heavy-black-heart-bullet",
+    "label": "Rotated Heavy Black Heart Bullet",
+    "codepoint": "0x2765",
+    "shortcode": null
+  },
+  {
+    "id": "floral-heart",
+    "label": "Floral Heart",
+    "codepoint": "0x2766",
+    "shortcode": null
+  },
+  {
+    "id": "rotated-floral-heart-bullet",
+    "label": "Rotated Floral Heart Bullet",
+    "codepoint": "0x2767",
+    "shortcode": null
+  }
+]
