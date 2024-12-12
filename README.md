@@ -1,4 +1,4 @@
-# @nrd/fua.module.markdown
+# @fua/module.markdown
 
 - https://daringfireball.net/projects/markdown/
 - https://markdown.de/

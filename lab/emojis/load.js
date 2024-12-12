@@ -1,8 +1,8 @@
 const
-    assert  = require('@nrd/fua.core.assert'),
-    is      = require('@nrd/fua.core.is'),
-    tty     = require('@nrd/fua.core.tty'),
-    async   = require('@nrd/fua.core.async'),
+    assert  = require('@fua/core.assert'),
+    is      = require('@fua/core.is'),
+    tty     = require('@fua/core.tty'),
+    async   = require('@fua/core.async'),
     fs      = require('fs/promises'),
     {JSDOM} = require('jsdom');
 

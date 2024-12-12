@@ -1,5 +1,5 @@
 {
-  "name": "@nrd/fua.module.markdown",
+  "name": "@fua/module.markdown",
   "version": "1.0.0",
   "description": "",
   "main": "src/markdown.js",
@@ -7,14 +7,15 @@
     "src/*"
   ],
   "dependencies": {
-    "@nrd/fua.core.assert": "^1.0.0",
-    "@nrd/fua.core.is": "^1.0.4",
+    "@fua/core.assert": "^1.0.0",
+    "@fua/core.is": "^1.0.4",
     "markdown-it": "^13.0.2",
     "highlight.js": "^11.9.0"
   },
   "devDependencies": {
     "expect": "26.x",
-    "mocha": "10.x"
+    "mocha": "10.x",
+    "express": "^4.21.2"
   },
   "scripts": {
     "test": "mocha"
@@ -26,13 +27,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git02.int.nsc.ag:10022/research/fua/module/markdown.git"
+    "url": "ssh://git@github.com:nicosResearchAndDevelopment/fua.module.markdown.git"
   },
   "keywords": [
     "markdown",
     "md",
     "readme"
   ],
-  "author": "spetrac@nicos-ag.com",
-  "license": "UNLICENSED"
+  "author": "Simon Petrac <pfoerdie@gmail.com>",
+  "license": "MIT"
 }
